@@ -1,0 +1,6685 @@
+Arms;0001;Leather Gloves
+Arms;0002;Chainmail Gloves
+Arms;0003;Hunter's Vambraces
+Arms;0004;Hunter's Guards
+Arms;0005;Bone Vambraces
+Arms;0006;Bone Guards
+Arms;0007;Alloy Vambraces
+Arms;0008;Alloy Guards
+Arms;0009;Jaggi Vambraces
+Arms;000A;Jaggi Guards
+Arms;000B;Bnahabra Gloves
+Arms;000C;Bnahabra Sleeves
+Arms;000D;Rhenoplos Vambraces
+Arms;000E;Rhenoplos Guards
+Arms;000F;Qurupeco Vambraces
+Arms;0010;Qurupeco Guards
+Arms;0011;Ludroth Vambraces
+Arms;0012;Ludroth Guards
+Arms;0013;DUMMY
+Arms;0014;Baggi Vambraces
+Arms;0015;Baggi Guards
+Arms;0016;Barroth Vambraces
+Arms;0017;Barroth Guards
+Arms;0018;Gobul Vambraces
+Arms;0019;Gobul Guards
+Arms;001A;DUMMY
+Arms;001B;DUMMY
+Arms;001C;Guild Bard Braces
+Arms;001D;Guild Bard Sleeves
+Arms;001E;Scholar's Gloves
+Arms;001F;Scholar's Sleeves
+Arms;0020;Rathian Vambraces
+Arms;0021;Rathian Guards
+Arms;0022;Gigginox Vambraces
+Arms;0023;Gigginox Guards
+Arms;0024;Ingot Vambraces
+Arms;0025;Ingot Guards
+Arms;0026;Lagiacrus Braces
+Arms;0027;Lagiacrus Guards
+Arms;0028;Rathalos Vambraces
+Arms;0029;Rathalos Guards
+Arms;002A;Barioth Vambraces
+Arms;002B;Barioth Guards
+Arms;002C;Diablos Vambraces
+Arms;002D;Diablos Guards
+Arms;002E;Uragaan Vambraces
+Arms;002F;Uragaan Guards
+Arms;0030;Agnaktor Vambraces
+Arms;0031;Agnaktor Guards
+Arms;0032;Helios Vambraces
+Arms;0033;Helios Guards
+Arms;0034;Selene Vambraces
+Arms;0035;Selene Guards
+Arms;0036;Wroggi Vambraces
+Arms;0037;Wroggi Guards
+Arms;0038;Arzuros Vambraces
+Arms;0039;Arzuros Guards
+Arms;003A;Lagombi Vambraces
+Arms;003B;Lagombi Guards
+Arms;003C;Volvidon Vambraces
+Arms;003D;Volvidon Guards
+Arms;003E;Nibelsnarf Braces
+Arms;003F;Nibelsnarf Guards
+Arms;0040;Duramboros Braces
+Arms;0041;Duramboros Guards
+Arms;0042;Yukumo Kote
+Arms;0043;DUMMY
+Arms;0044;DUMMY
+Arms;0045;DUMMY
+Arms;0046;DUMMY
+Arms;0047;DUMMY
+Arms;0048;DUMMY
+Arms;0049;DUMMY
+Arms;004A;DUMMY
+Arms;004B;Leather Vambraces S
+Arms;004C;Leather Guards S
+Arms;004D;Chainmail Braces S
+Arms;004E;Chainmail Guards S
+Arms;004F;Hunter's Vambraces S
+Arms;0050;Hunter's Guards S
+Arms;0051;Bone Vambraces S
+Arms;0052;Bone Guards S
+Arms;0053;Alloy Vambraces S
+Arms;0054;Alloy Guards S
+Arms;0055;Jaggi Vambraces S
+Arms;0056;Jaggi Guards S
+Arms;0057;Bnahabra Gloves S
+Arms;0058;Bnahabra Sleeves S
+Arms;0059;Rhenoplos Braces S
+Arms;005A;Rhenoplos Guards S
+Arms;005B;Qurupeco Vambraces S
+Arms;005C;Qurupeco Guards S
+Arms;005D;Qurupeco Vambraces U
+Arms;005E;Qurupeco Guards U
+Arms;005F;Ludroth Vambraces S
+Arms;0060;Ludroth Guards S
+Arms;0061;Ludroth Vambraces U
+Arms;0062;Ludroth Guards U
+Arms;0063;DUMMY
+Arms;0064;Baggi Vambraces S
+Arms;0065;Baggi Guards S
+Arms;0066;Wroggi Vambraces S
+Arms;0067;Wroggi Guards S
+Arms;0068;Arzuros Vambraces S
+Arms;0069;Arzuros Guards S
+Arms;006A;Lagombi Vambraces S
+Arms;006B;Lagombi Guards S
+Arms;006C;Volvidon Vambraces S
+Arms;006D;Volvidon Guards S
+Arms;006E;Barroth Vambraces S
+Arms;006F;Barroth Guards S
+Arms;0070;Barroth Vambraces U
+Arms;0071;Barroth Guards U
+Arms;0072;Gobul Vambraces S
+Arms;0073;Gobul Guards S
+Arms;0074;Guild Bard Braces S
+Arms;0075;Guild Bard Sleeves S
+Arms;0076;Scholar's Gloves S
+Arms;0077;Scholar's Sleeves S
+Arms;0078;Rathian Vambraces S
+Arms;0079;Rathian Guards S
+Arms;007A;Rath Heart Braces
+Arms;007B;Rath Heart Guards
+Arms;007C;Gigginox Vambraces S
+Arms;007D;Gigginox Guards S
+Arms;007E;Gigginox Vambraces U
+Arms;007F;Gigginox Guards U
+Arms;0080;Ingot Vambraces S
+Arms;0081;Ingot Guards S
+Arms;0082;Dober Vambraces
+Arms;0083;Dober Guards
+Arms;0084;Yukumo Sky Kote
+Arms;0085;Yukumo Land Kote
+Arms;0086;Aelucanth Brachia
+Arms;0087;Aelucanth Manus
+Arms;0088;Rhopessa Brachia
+Arms;0089;Rhopessa Manus
+Arms;008A;Mosgharl Creeper
+Arms;008B;Mosgharl Tendrill
+Arms;008C;Artian Vambraces
+Arms;008D;Artian Guards
+Arms;008E;Lagiacrus Braces S
+Arms;008F;Lagiacrus Guards S
+Arms;0090;Lagiacrus Braces U
+Arms;0091;Lagiacrus Guards U
+Arms;0092;Rathalos Vambraces S
+Arms;0093;Rathalos Guards S
+Arms;0094;Rath Soul Braces
+Arms;0095;Rath Soul Guards
+Arms;0096;Barioth Vambraces S
+Arms;0097;Barioth Guards S
+Arms;0098;Barioth Vambraces U
+Arms;0099;Barioth Guards U
+Arms;009A;Diablos Vambraces S
+Arms;009B;Diablos Guards S
+Arms;009C;Diablos Vambraces U
+Arms;009D;Diablos Guards U
+Arms;009E;Uragaan Vambraces S
+Arms;009F;Uragaan Guards S
+Arms;00A0;Uragaan Vambraces U
+Arms;00A1;Uragaan Guards U
+Arms;00A2;Agnaktor Vambraces S
+Arms;00A3;Agnaktor Guards S
+Arms;00A4;Agnaktor Vambraces U
+Arms;00A5;Agnaktor Guards U
+Arms;00A6;Vangis Vambraces
+Arms;00A7;Vangis Guards
+Arms;00A8;Damascus Vambraces
+Arms;00A9;Damascus Guards
+Arms;00AA;DUMMY
+Arms;00AB;DUMMY
+Arms;00AC;DUMMY
+Arms;00AD;DUMMY
+Arms;00AE;Yamato Kote
+Arms;00AF;Mutsu Kote
+Arms;00B0;Hyuga Kote
+Arms;00B1;Amagi Kote
+Arms;00B2;Escadora Arms
+Arms;00B3;Escadora Arma
+Arms;00B4;Zinogre Vambraces
+Arms;00B5;Zinogre Guards
+Arms;00B6;Nibelsnarf Braces S
+Arms;00B7;Nibelsnarf Guards S
+Arms;00B8;Duramboros Braces S
+Arms;00B9;Duramboros Guards S
+Arms;00BA;Nargacuga Braces
+Arms;00BB;Nargacuga Guards
+Arms;00BC;Plesioth Vambraces
+Arms;00BD;Plesioth Guards
+Arms;00BE;Brachydios Braces
+Arms;00BF;Brachydios Guards
+Arms;00C0;Dianthus Sleeves
+Arms;00C1;Campanile Sleeves
+Arms;00C2;Ranger's Gauntlets
+Arms;00C3;Archer's Gauntlets
+Arms;00C4;DUMMY
+Arms;00C5;DUMMY
+Arms;00C6;DUMMY
+Arms;00C7;DUMMY
+Arms;00C8;DUMMY
+Arms;00C9;DUMMY
+Arms;00CA;DUMMY
+Arms;00CB;DUMMY
+Arms;00CC;DUMMY
+Arms;00CD;DUMMY
+Arms;00CE;Ingot Vambraces X
+Arms;00CF;Ingot Guards X
+Arms;00D0;Bnahabra Gloves X
+Arms;00D1;Bnahabra Sleeves X
+Arms;00D2;Rhenoplos Braces X
+Arms;00D3;Rhenoplos Guards X
+Arms;00D4;Jaggi Vambraces X
+Arms;00D5;Jaggi Guards X
+Arms;00D6;Baggi Vambraces X
+Arms;00D7;Baggi Guards X
+Arms;00D8;Wroggi Vambraces X
+Arms;00D9;Wroggi Guards X
+Arms;00DA;Arzuros Vambraces X
+Arms;00DB;Arzuros Guards X
+Arms;00DC;Lagombi Vambraces X
+Arms;00DD;Lagombi Guards X
+Arms;00DE;Volvidon Vambraces X
+Arms;00DF;Volvidon Guards X
+Arms;00E0;Qurupeco Vambraces X
+Arms;00E1;Qurupeco Guards X
+Arms;00E2;Qurupeco Vambraces Z
+Arms;00E3;Qurupeco Guards Z
+Arms;00E4;Ludroth Vambraces X
+Arms;00E5;Ludroth Guards X
+Arms;00E6;Ludroth Vambraces Z
+Arms;00E7;Ludroth Guards Z
+Arms;00E8;Barroth Vambraces X
+Arms;00E9;Barroth Guards X
+Arms;00EA;Barroth Vambraces Z
+Arms;00EB;Barroth Guards Z
+Arms;00EC;Gobul Vambraces X
+Arms;00ED;Gobul Guards X
+Arms;00EE;Rathalos Vambraces X
+Arms;00EF;Rathalos Guards X
+Arms;00F0;Rath Soul Braces Z
+Arms;00F1;Rath Soul Guards Z
+Arms;00F2;Silver Solbraces
+Arms;00F3;Silver Solguards
+Arms;00F4;Rathian Vambraces X
+Arms;00F5;Rathian Guards X
+Arms;00F6;Rath Heart Braces Z
+Arms;00F7;Rath Heart Guards Z
+Arms;00F8;Golden Lunebraces
+Arms;00F9;Golden Luneguards
+Arms;00FA;Lagiacrus Braces X
+Arms;00FB;Lagiacrus Guards X
+Arms;00FC;Lagiacrus Braces Z
+Arms;00FD;Lagiacrus Guards Z
+Arms;00FE;Nether Vambraces
+Arms;00FF;Nether Guards
+Arms;0100;Gigginox Vambraces X
+Arms;0101;Gigginox Guards X
+Arms;0102;Gigginox Vambraces Z
+Arms;0103;Gigginox Guards Z
+Arms;0104;Barioth Vambraces X
+Arms;0105;Barioth Guards X
+Arms;0106;Barioth Vambraces Z
+Arms;0107;Barioth Guards Z
+Arms;0108;Diablos Vambraces X
+Arms;0109;Diablos Guards X
+Arms;010A;Diablos Vambraces Z
+Arms;010B;Diablos Guards Z
+Arms;010C;Uragaan Vambraces X
+Arms;010D;Uragaan Guards X
+Arms;010E;Uragaan Vambraces Z
+Arms;010F;Uragaan Guards Z
+Arms;0110;Agnaktor Vambraces X
+Arms;0111;Agnaktor Guards X
+Arms;0112;Agnaktor Vambraces Z
+Arms;0113;Agnaktor Guards Z
+Arms;0114;Helios Vambraces X
+Arms;0115;Helios Guards X
+Arms;0116;Helios Vambraces Z
+Arms;0117;Helios Guards Z
+Arms;0118;Selene Vambraces X
+Arms;0119;Selene Guards X
+Arms;011A;Selene Vambraces Z
+Arms;011B;Selene Guards Z
+Arms;011C;Grand Yamato Kote
+Arms;011D;Grand Mutsu Kote
+Arms;011E;Grand Hyuga Kote
+Arms;011F;Grand Amagi Kote
+Arms;0120;Yamato Kote Prime
+Arms;0121;Mutsu Kote Prime
+Arms;0122;Hyuga Kote Prime
+Arms;0123;Amagi Kote Prime
+Arms;0124;Vangis Vambraces X
+Arms;0125;Vangis Guards X
+Arms;0126;Escadora Arms X
+Arms;0127;Escadora Arma X
+Arms;0128;Zinogre Vambraces X
+Arms;0129;Zinogre Guards X
+Arms;012A;Zinogre Vambraces Z
+Arms;012B;Zinogre Guards Z
+Arms;012C;Nibelsnarf Braces X
+Arms;012D;Nibelsnarf Guards X
+Arms;012E;Duramboros Braces X
+Arms;012F;Duramboros Guards X
+Arms;0130;Duramboros Braces Z
+Arms;0131;Duramboros Guards Z
+Arms;0132;Nargacuga Braces X
+Arms;0133;Nargacuga Guards X
+Arms;0134;Nargacuga Braces Z
+Arms;0135;Nargacuga Guards Z
+Arms;0136;Lambent Wristrays
+Arms;0137;Silhouette Wristrays
+Arms;0138;Plesioth Vambraces X
+Arms;0139;Plesioth Guards X
+Arms;013A;Plesioth Vambraces Z
+Arms;013B;Plesioth Guards Z
+Arms;013C;Brachydios Braces X
+Arms;013D;Brachydios Guards X
+Arms;013E;Miralis Grievers
+Arms;013F;Miralis Clouts
+Arms;0140;Damascus Vambraces X
+Arms;0141;Damascus Guards X
+Arms;0142;Dober Vambraces X
+Arms;0143;Dober Guards X
+Arms;0144;DUMMY
+Arms;0145;DUMMY
+Arms;0146;Aelucanth Brachia X
+Arms;0147;Aelucanth Manus X
+Arms;0148;Rhopessa Brachia X
+Arms;0149;Rhopessa Manus X
+Arms;014A;Mosgharl Creeper X
+Arms;014B;Mosgharl Tendrill X
+Arms;014C;Artian Vambraces X
+Arms;014D;Artian Guards X
+Arms;014E;Dianthus Wealcuffs
+Arms;014F;Campanile Wealcuffs
+Arms;0150;Strider's Gauntlets
+Arms;0151;Deadeye's Gauntlets
+Arms;0152;Guild Bard Braces X
+Arms;0153;Guild Bard Sleeves X
+Arms;0154;Scholar's Gloves X
+Arms;0155;Scholar's Sleeves X
+Arms;0156;DUMMY
+Arms;0157;DUMMY
+Arms;0158;Sailor Gloves
+Arms;0159;Sailor Sleeves
+Arms;015A;Chakra Bracelet
+Arms;015B;DUMMY
+Arms;015C;DUMMY
+Arms;015D;DUMMY
+Arms;015E;DUMMY
+Arms;015F;DUMMY
+Arms;0160;DUMMY
+Arms;0161;DUMMY
+Arms;0162;DUMMY
+Arms;0163;DUMMY
+Arms;0164;DUMMY
+Arms;0165;DUMMY
+Arms;0166;DUMMY
+Arms;0167;DUMMY
+Arms;0168;DUMMY
+Arms;0169;DUMMY
+Arms;016A;DUMMY
+Arms;016B;DUMMY
+Arms;016C;DUMMY
+Arms;016D;DUMMY
+Arms;016E;DUMMY
+Arms;016F;DUMMY
+Arms;0170;DUMMY
+Bow;0000;None
+Bow;0001;Peckish Peco
+Bow;0002;Famished Peco
+Bow;0003;Heartbreaker
+Bow;0004;Broken Heart
+Bow;0005;Strong Heart
+Bow;0006;Wroggi Revolver I
+Bow;0007;Wroggi Revolver II
+Bow;0008;Wroggi Revolver III
+Bow;0009;Dirty Revolver I
+Bow;000A;Dirty Revolver II
+Bow;000B;Spith & Venom
+Bow;000C;Sponge Gear I
+Bow;000D;Sponge Gear II
+Bow;000E;Sponge Gear III
+Bow;000F;Amethyst Gear I
+Bow;0010;Amethyst Gear II
+Bow;0011;Amir al Bahr
+Bow;0012;Batal al Bahr
+Bow;0013;Arko Nulo
+Bow;0014;Arko Unu
+Bow;0015;Arko Nulo (R)
+Bow;0016;Arko Unu (R)
+Bow;0017;Arko Du (R)
+Bow;0018;Arko Tri (R)
+Bow;0019;Arko Nulo (W)
+Bow;001A;Arko Unu (W)
+Bow;001B;Arko Du (W)
+Bow;001C;Arko Tri (W)
+Bow;001D;Arko Nulo (Y)
+Bow;001E;Arko Unu (Y)
+Bow;001F;Arko Du (Y)
+Bow;0020;Arko Tri (Y)
+Bow;0021;Hunter's Bow I
+Bow;0022;Hunter's Bow II
+Bow;0023;Hunter's Bow III
+Bow;0024;Hunter's Stoutbow I
+Bow;0025;Hunter's Stoutbow II
+Bow;0026;Hunter's Proudbow
+Bow;0027;Dios Flier
+Bow;0028;Dios Flier+
+Bow;0029;Demolition Bow
+Bow;002A;Warflare Demolisher
+Bow;002B;Type 64 Multibow I
+Bow;002C;Type 64 Multibow II
+Bow;002D;Scorpion Zinger
+Bow;002E;Searhorse Harp
+Bow;002F;Reignhorse Harp
+Bow;0030;Aquasteed Harp
+Bow;0031;Queen Blaster I
+Bow;0032;Queen Blaster II
+Bow;0033;Queen Blaster III
+Bow;0034;Heartshot Bow I
+Bow;0035;Heartshot Bow II
+Bow;0036;Heartshot Box III
+Bow;0037;Selene Moonbroken
+Bow;0038;Usurper's Rumble
+Bow;0039;Despot's Ealybolt
+Bow;003A;Oppressor's Answer
+Bow;003B;Brimstren Drakesight
+Bow;003C;Stygian Patientia
+Bow;003D;Ice Crest
+Bow;003E;Edelweiss
+Bow;003F;Amber Arc Valanga
+Bow;0040;Lithe Saberbow
+Bow;0041;Fallenfriede
+Bow;0042;Rafalga Sandraider
+Bow;0043;Brazencord
+Bow;0044;Gigacles
+Bow;0045;Gigantomachy
+Bow;0046;Chrome Corda I
+Bow;0047;Chrome Corda II
+Bow;0048;Steel Daedalops
+Bow;0049;Hidden Bow I
+Bow;004A;Hidden Bow II
+Bow;004B;Night Flight
+Bow;004C;Eclipse Bow
+Bow;004D;Virnar Bow
+Bow;004E;Midnight Farflight
+Bow;004F;Boltsender I
+Bow;0050;Boltsender II
+Bow;0051;High Voltsender
+Bow;0052;Neo Voltsender
+Bow;0053;Arcus Whitebolt
+Bow;0054;Nether Battlebow
+Bow;0055;Nether Emprestador
+Bow;0056;Diablos Hornbow I
+Bow;0057;Diablos Hornbow II
+Bow;0058;Galebender
+Bow;0059;Cera Coilbender
+Bow;005A;Cera Cyclord
+Bow;005B;Ala Victoria I
+Bow;005C;Ala Victoria II
+Bow;005D;Prayerful Victoria
+Bow;005E;Ark Diosa
+Bow;005F;Arken Victrine
+Bow;0060;Worldseer's Bow
+Bow;0061;Worldseer's Proof
+Bow;0062;Worldseer's Bounty
+Bow;0063;Alatreon Bow
+Bow;0064;Alatreon Commandment
+Bow;0065;Altheos Incanonis
+Bow;0066;Arca Raptora
+Bow;0067;Arca Chaotica
+Bow;0068;Arca Insantia
+Bow;0069;Megiddo Pheonix
+Bow;006A;The Rysurrection
+Bow;006B;Morsel Bowfish
+Bow;006C;Ample Bowfish
+Bow;006D;Viand Bowfish
+Bow;006E;Kelbi Stingshot
+Bow;006F;Kelbi Strongshot
+Bow;0070;Great Kelbi Deershot
+Bow;0071;Bamboo Taketori
+Bow;0072;Bamboo Okina
+Bow;0073;Bamboo Kaguya
+Bow;0074;DUMMY RARE 5 (No Design)
+Bow;0075;No Name RARE 5 (Weird Design)
+Bow;0076;
+Bow;0077;
+Bow;0078;
+Bow;0079;
+Bow;007A;
+Bow;007B;
+Bow;007C;
+Bow;007D;
+Bow;007E; 
+Bow;007F;
+Bow;0080;
+Bow;0081;
+Bow;0082;
+Bow;0083;
+Bow;0084;
+Bow;0085;
+Bow;0086;
+Bow;0087;
+Bow;0088;
+Bow;0089;
+Bow;008A;
+Bow;008B;
+Bow;008C;
+Bow;008D;
+Bow;008E;
+Bow;008F;
+Bow;0090;
+Bow;0091;
+Bow;0092;
+Bow;0093;
+Bow;0094;
+Bow;0095;
+Bow;0096;
+Bow;0097;
+Bow;0098;
+Bow;0099;
+Bow;009A;
+Bow;009B;
+Bow;009C;
+Bow;009D;
+Bow;009E;
+Bow;009F;
+Bow;00A0;
+Bow;00A1;
+Bow;00A2;
+Bow;00A3;
+Bow;00A4;
+Bow;00A5;
+Bow;00A6;
+Bow;00A7;
+Bow;00A8;
+Bow;00A9;
+Bow;00AA;
+Bow;00AB;
+Bow;00AC;
+Bow;00AD;
+Bow;00AE;
+Bow;00AF;
+Bow;00B0;
+Bow;00B1;
+Bow;00B2;
+Bow;00B3;
+Bow;00B4;
+Bow;00B5;
+Bow;00B6;
+Bow;00B7;
+Bow;00B8;
+Bow;00B9;
+Bow;00BA;
+Bow;00BB;
+Bow;00BC;
+Bow;00BD;
+Bow;00BE;
+Bow;00BF;
+Bow;00C0;
+Bow;00C1;
+Bow;00C2;
+Bow;00C3;
+Bow;00C4;
+Bow;00C5;
+Bow;00C6;
+Bow;00C7;
+Bow;00C8;
+Bow;00C9;
+Bow;00CA;
+Bow;00CB;
+Bow;00CC;
+Bow;00CD;
+Bow;00CE;
+Bow;00CF;
+Bow;00D0;
+Bow;00D1;
+Bow;00D2;
+Bow;00D3;
+Bow;00D4;
+Bow;00D5;
+Bow;00D6;
+Bow;00D7;
+Bow;00D8;
+Bow;00D9;
+Bow;00DA;
+Bow;00DB;
+Bow;00DC;
+Bow;00DD;
+Bow;00DE;
+Bow;00DF;
+Bow;00E0;
+Bow;00E1;
+Bow;00E2;
+Bow;00E3;
+Bow;00E4;
+Bow;00E5;
+Bow;00E6;
+Bow;00E7;
+Bow;00E8;
+Bow;00E9;
+Bow;00EA;
+Bow;00EB;
+Bow;00EC;
+Bow;00ED;
+Bow;00EE;
+Bow;00EF;
+Bow;00F0;
+Bow;00F1;
+Bow;00F2;
+Bow;00F3;
+Bow;00F4;
+Bow;00F5;
+Bow;00F6;
+Bow;00F7;
+Bow;00F8;
+Bow;00F9;
+Bow;00FA;
+Bow;00FB;
+Bow;00FC;
+Bow;00FD;
+Bow;00FE;
+Bow;00FF;
+Bow;0100;
+Bow;0FFE;No Name RARE 1 (No Design)
+Bow;0FFF;No Name RARE 1 (No Desgin)
+Bow;1000;No name RARE 1 (No Design)
+Chest;0001;Leather Vest
+Chest;0002;Chainmail Vest
+Chest;0003;Loc Lac Shawl
+Chest;0004;Hunter's Mail
+Chest;0005;Hunter's Vest
+Chest;0006;Bone Mail
+Chest;0007;Bone Vest
+Chest;0008;Alloy Mail
+Chest;0009;Alloy Vest
+Chest;000A;Jaggi Mail
+Chest;000B;Jaggi Vest
+Chest;000C;Bnahabra Suit
+Chest;000D;Bnahabra Vest
+Chest;000E;Rhenoplos Mail
+Chest;000F;Rhenoplos Vest
+Chest;0010;Qurupeco Mail
+Chest;0011;Qurupeco Vest
+Chest;0012;Ludroth Mail
+Chest;0013;Ludroth Vest
+Chest;0014;DUMMY
+Chest;0015;Baggi Mail
+Chest;0016;Baggi Vest
+Chest;0017;Barroth Mail
+Chest;0018;Barroth Vest
+Chest;0019;Gobul Mail
+Chest;001A;Gobul Vest
+Chest;001B;DUMMY
+Chest;001C;DUMMY
+Chest;001D;Guild Bard Bolero
+Chest;001E;Guild Bard Vest
+Chest;001F;Scholar's Blouse
+Chest;0020;Scholar's Vest
+Chest;0021;Rathian Mail
+Chest;0022;Rathian Vest
+Chest;0023;Gigginox Mail
+Chest;0024;Gigginox Vest
+Chest;0025;Ingot Mail
+Chest;0026;Ingot Vest
+Chest;0027;Lagiacrus Mail
+Chest;0028;Lagiacrus Vest
+Chest;0029;Rathalos Mail
+Chest;002A;Rathalos Vest
+Chest;002B;Barioth Mail
+Chest;002C;Barioth Vest
+Chest;002D;Diablos Mail
+Chest;002E;Diablos Vest
+Chest;002F;Uragaan Mail
+Chest;0030;Uragaan Vest
+Chest;0031;Agnaktor Mail
+Chest;0032;Agnaktor Vest
+Chest;0033;Helios Mail
+Chest;0034;Helios Vest
+Chest;0035;Selene Mail
+Chest;0036;Selene Vest
+Chest;0037;Wroggi Mail
+Chest;0038;Wroggi Vest
+Chest;0039;Arzuros Mail
+Chest;003A;Arzuros Vest
+Chest;003B;Lagombi Mail
+Chest;003C;Lagombi Vest
+Chest;003D;Volvidon Mail
+Chest;003E;Volvidon Vest
+Chest;003F;Nibelsnarf Mail
+Chest;0040;Nibelsnarf Vest
+Chest;0041;Duramboros Mail
+Chest;0042;Duramboros Vest
+Chest;0043;Yukumo Dogi
+Chest;0044;DUMMY
+Chest;0045;DUMMY
+Chest;0046;DUMMY
+Chest;0047;DUMMY
+Chest;0048;DUMMY
+Chest;0049;DUMMY
+Chest;004A;DUMMY
+Chest;004B;DUMMY
+Chest;004C;Leather Mail S
+Chest;004D;Leather Vest S
+Chest;004E;Chainmail Armor S
+Chest;004F;Chainmail Vest S
+Chest;0050;Loc Lac Shawl S
+Chest;0051;Loc Lac Vest S
+Chest;0052;Hunter's Mail S
+Chest;0053;Hunter's Vest S
+Chest;0054;Bone Mail S
+Chest;0055;Bone Vest S
+Chest;0056;Alloy Mail S
+Chest;0057;Alloy Vest S
+Chest;0058;Jaggi Mail S
+Chest;0059;Jaggi Vest S
+Chest;005A;Bnahabra Suit S
+Chest;005B;Gnahabra Vest S
+Chest;005C;Rhenoplos Mail S
+Chest;005D;Rhenoplos Vest S
+Chest;005E;Slagtoth Cloak
+Chest;005F;Slagtoth Wrap
+Chest;0060;Qurupeco Mail S
+Chest;0061;Qurupeco Vest S
+Chest;0062;Qurupeco Mail U
+Chest;0063;Qurupeco Vest U
+Chest;0064;Ludroth Mail S
+Chest;0065;Ludroth Vest S
+Chest;0066;Ludroth Mail U
+Chest;0067;Ludroth Vest U
+Chest;0068;DUMMY
+Chest;0069;Baggi Mail S
+Chest;006A;Baggi Vest S
+Chest;006B;Wroggi Mail S
+Chest;006C;Wroggi Vest S
+Chest;006D;Arzuros Mail S
+Chest;006E;Arzuros Vest S
+Chest;006F;Lagombi Mail S
+Chest;0070;Lagombi Vest S
+Chest;0071;Volvidon Mail S
+Chest;0072;Volvidon Vest S
+Chest;0073;Barroth Mail S
+Chest;0074;Barroth Vest S
+Chest;0075;Barroth Mail U
+Chest;0076;Barroth Vest U
+Chest;0077;Gobul Mail S
+Chest;0078;Gobul Vest S
+Chest;0079;Guild Bard Bolero S
+Chest;007A;Guild Bard Vest S
+Chest;007B;Scholar's Blouse S
+Chest;007C;Scholar's Vest S
+Chest;007D;Rathian Mail S
+Chest;007E;Rathian Vest S
+Chest;007F;Rath Heart Mail
+Chest;0080;Rath Heart Vest
+Chest;0081;Gigginox Mail S
+Chest;0082;Gigginox Vest S
+Chest;0083;Gigginox Mail U
+Chest;0084;Gigginox Vest U
+Chest;0085;Ingot Mail S
+Chest;0086;Ingot Vest S
+Chest;0087;Dober Mail
+Chest;0088;Dober Vest
+Chest;0089;Yukumo Sky Dogi
+Chest;008A;Yukumo Land Dogi
+Chest;008B;Aelucanth Thorax
+Chest;008C;Aelucanth Pleuron
+Chest;008D;Rhopessa Thorax
+Chest;008E;Rhopessa Pleuron
+Chest;008F;Mosgharl Ribplate
+Chest;0090;Mosgharl Ribguard
+Chest;0091;Artian Mail
+Chest;0092;Artian Vest
+Chest;0093;Lagiacrus Mail S
+Chest;0094;Lagiacrus Vest S
+Chest;0095;Lagiacrus Mail U
+Chest;0096;Lagiacrus Vest U
+Chest;0097;Rathalos Mail S
+Chest;0098;Rathalos Vest S
+Chest;0099;Rath Soul Mail
+Chest;009A;Rath Soul Vest
+Chest;009B;Barioth Mail S
+Chest;009C;Barioth Vest S
+Chest;009D;Barioth Mail U
+Chest;009E;Barioth Vest U
+Chest;009F;Diablos Mail S
+Chest;00A0;Diablos Vest S
+Chest;00A1;Diablos Mail U
+Chest;00A2;Diablos Vest U
+Chest;00A3;Uragaan Mail S
+Chest;00A4;Uragaan Vest S
+Chest;00A5;Uragaan Mail U
+Chest;00A6;Uragaan Vest U
+Chest;00A7;Agnaktor Mail S
+Chest;00A8;Agnaktor Vest S
+Chest;00A9;Agnaktor Mail U
+Chest;00AA;Agnaktor Vest U
+Chest;00AB;Vangis Mail
+Chest;00AC;Vangis Vest
+Chest;00AD;Damascus Mail
+Chest;00AE;Damascus Vest
+Chest;00AF;DUMMY
+Chest;00B0;DUMMY
+Chest;00B1;DUMMY
+Chest;00B2;DUMMY
+Chest;00B3;Yamato Doate
+Chest;00B4;Mutsu Doate
+Chest;00B5;Hyuga Muneate
+Chest;00B6;Amagi Muneate
+Chest;00B7;Escadora Soul
+Chest;00B8;Escadora Seele
+Chest;00B9;Zinogre Mail
+Chest;00BA;Zinogre Vest
+Chest;00BB;Nibelsnarf Mail S
+Chest;00BC;Nibelsnarf Vest S
+Chest;00BD;Duramboros Mail S
+Chest;00BE;Duramboros Vest S
+Chest;00BF;Nargacuga Mail
+Chest;00C0;Nargacuga Vest
+Chest;00C1;Plesioth Mail
+Chest;00C2;Plesioth Vest
+Chest;00C3;Brachydios Mail
+Chest;00C4;Brachydios Vest
+Chest;00C5;Dianthus Jacket
+Chest;00C6;Campanile Jacket
+Chest;00C7;Ranger's Girdle
+Chest;00C8;Archer's Girdle
+Chest;00C9;DUMMY
+Chest;00CA;DUMMY
+Chest;00CB;DUMMY
+Chest;00CC;DUMMY
+Chest;00CD;DUMMY
+Chest;00CE;DUMMY
+Chest;00CF;DUMMY
+Chest;00D0;DUMMY
+Chest;00D1;DUMMY
+Chest;00D2;DUMMY
+Chest;00D3;Ingot Mail X
+Chest;00D4;Ingot Vest X
+Chest;00D5;Bnahabra Suit X
+Chest;00D6;Bnahabra Vest X
+Chest;00D7;Rhenoplos Mail X
+Chest;00D8;Rhenoplos Vest X
+Chest;00D9;Slagtoth Cloak X
+Chest;00DA;Slagtoth Wrap X
+Chest;00DB;Jaggi Mail X
+Chest;00DC;Jaggi Vest X
+Chest;00DD;Baggi Mail X
+Chest;00DE;Baggi Vest X
+Chest;00DF;Wroggi Mail X
+Chest;00E0;Wroggi Vest X
+Chest;00E1;Arzuros Mail X
+Chest;00E2;Arzuros Vest X
+Chest;00E3;Lagombi Mail X
+Chest;00E4;Lagombi Vest X
+Chest;00E5;Volvidon Mail X
+Chest;00E6;Volvidon Vest X
+Chest;00E7;Qurupeco Mail X
+Chest;00E8;Qurupeco Vest X
+Chest;00E9;Qurupeco Mail Z
+Chest;00EA;Qurupeco Vest Z
+Chest;00EB;Ludroth Mail X
+Chest;00EC;Ludroth Vest X
+Chest;00ED;Ludroth Mail Z
+Chest;00EE;Ludroth Vest Z
+Chest;00EF;Barroth Mail X
+Chest;00F0;Barroth Vest X
+Chest;00F1;Barroth Mail Z
+Chest;00F2;Barroth Vest Z
+Chest;00F3;Gobul Mail X
+Chest;00F4;Gobul Vest X
+Chest;00F5;Rathalos Mail X
+Chest;00F6;Rathalos Vest X
+Chest;00F7;Rath Soul Mail Z
+Chest;00F8;Rath Soul Vest Z
+Chest;00F9;Silver Solmail
+Chest;00FA;Silver Solvest
+Chest;00FB;Rathian Mail X
+Chest;00FC;Rathian Vest X
+Chest;00FD;Rath Heart Mail Z
+Chest;00FE;Rath Heart Vest Z
+Chest;00FF;Golden Lunemail
+Chest;01;Golden Lunevest
+Chest;0101;Lagiacrus Mail X
+Chest;0102;Lagiacrus Vest X
+Chest;0103;Lagiacrus Mail Z
+Chest;0104;Lagiacrus Vest Z
+Chest;0105;Nether Mail
+Chest;0106;Nether Vest
+Chest;0107;Gigginox Mail X
+Chest;0108;Gigginox Vest X
+Chest;0109;Gigginox Mail Z
+Chest;010A;Gigginox Vest Z
+Chest;010B;Barioth Mail X
+Chest;010C;Barioth Vest X
+Chest;010D;Barioth Mail Z
+Chest;010E;Barioth Vest Z
+Chest;010F;Diablos Mail X
+Chest;0110;Diablos Vest X
+Chest;0111;Diablos Mail Z
+Chest;0112;Diablos Vest Z
+Chest;0113;Uragaan Mail X
+Chest;0114;Uragaan Vest X
+Chest;0115;Uragaan Mail Z
+Chest;0116;Uragaan Vest Z
+Chest;0117;Agnaktor Mail X
+Chest;0118;Agnaktor Vest X
+Chest;0119;Agnaktor Mail Z
+Chest;011A;Agnaktor Vest Z
+Chest;011B;Helios Mail X
+Chest;011C;Helios Vest X
+Chest;011D;Helios Mail Z
+Chest;011E;Helios Vest Z
+Chest;011F;Selene Mail X
+Chest;0120;Selene Vest X
+Chest;0121;Selene Mail Z
+Chest;0122;Selene Vest Z
+Chest;0123;Grand Yamato Doate
+Chest;0124;Grand Mutsu Doate
+Chest;0125;Grand Hyuga Muneate
+Chest;0126;Grand Amagi Muneate
+Chest;0127;Yamato Doate Prime
+Chest;0128;Mutsu Doate Prime
+Chest;0129;Hyuga Muneate Prime
+Chest;012A;Amagi Muneate Prime
+Chest;012B;Vangis Mail X
+Chest;012C;Vangis Vest X
+Chest;012D;Vangis Mail Z
+Chest;012C;Vangis Vest Z
+Chest;012D;Escadora Soul X
+Chest;012E;Escadora Seele X
+Chest;012F;Zinogre Mail X
+Chest;0130;Zinogre Vest X
+Chest;0131;Zinogre Mail Z
+Chest;0132;Zinogre Vest Z
+Chest;0133;Nibelsnarf Mail X
+Chest;0134;Nibelsnarf Vest X
+Chest;0135;Duramboros Mail X
+Chest;0136;Duramboros Vest X
+Chest;0137;Duramboros Mail Z
+Chest;0138;Duramboros Vest Z
+Chest;0139;Nargacuga Mail X
+Chest;013A;Nargacuga Vest X
+Chest;013B;Nargacuga Mail Z
+Chest;013C;Nargacuga Vest Z
+Chest;013D;Lambent Hauberk
+Chest;013E;Silhouette Hauberk
+Chest;013F;Plesloth Mail X
+Chest;0140;Plesloth Vest X
+Chest;0141;Plesloth Mail Z
+Chest;0142;Plesloth Vest Z
+Chest;0143;Brachydios Mail X
+Chest;0144;Brachydios Vest X
+Chest;0145;Miralis Breastplate
+Chest;0146;Miralis Chestguard
+Chest;0147;Damascus Mail X
+Chest;0148;Damascus Vest X
+Chest;0149;Dober Mail X
+Chest;014A;Dober Vest X
+Chest;014B;DUMMY
+Chest;014C;DUMMY
+Chest;014D;DUMMY
+Chest;014E;DUMMY
+Chest;014F;Aelucanth Thorax X
+Chest;0150;Aelucanth Pleuron X
+Chest;0151;Rhopessa Thorax X
+Chest;0152;Rhopessa Pleuron X
+Chest;0153;Mosgharl Ribplate X
+Chest;0154;Mosgharl Ribguard X
+Chest;0155;Artian Mail X
+Chest;0156;Artian Vest X
+Chest;0157;Dianthus Wealcoat
+Chest;0158;Campanile Wealcoat
+Chest;0159;Strider's Girdle
+Chest;015A;Deadeye's Girdle
+Chest;015B;Guild Bard Bolero X
+Chest;015C;Guild Bard Vest X
+Chest;015D;Scholar's Blouse X
+Chest;015E;Scholar's Vest X
+Chest;015F;DUMMY
+Chest;0160;DUMMY
+Chest;0161;Sailor Suit
+Chest;0162;Sailor Vest
+Chest;0163;Chakra Necklace
+Chest;0164;DUMMY
+Chest;0165;DUMMY
+Chest;0166;DUMMY
+Decoration;0001;Antidote Jewel 1
+Decoration;0002;Antidote Jewel 2
+Decoration;0003;Paralysis Jwl 1
+Decoration;0004;Paralysis Jwl 2
+Decoration;0005;Pep Jewel 1
+Decoration;0006;Pep Jewel 2
+Decoration;0007;Steadfast Jwl 1
+Decoration;0008;Standfast Jwl 1
+Decoration;0009;Tracker  Jewel 1
+Decoration;000A;Trekker Jewel 1
+Decoration;000B;Ninja Jewel 1
+Decoration;000C;Vitality Jewel 1
+Decoration;000D;Recovery Jewel 1
+Decoration;000E;Recovery Jewel 2
+Decoration;000F;Razor Jewel 1
+Decoration;0010;Razor Jewel 3
+Decoration;0011;Handicraft Jwl 2
+Decoration;0012;Handicraft Jwl 3
+Decoration;0013;Fencer Jewel 1
+Decoration;0014;Fencer Jewel 3
+Decoration;0015;Expert Jewel 1
+Decoration;0016;Expert Jewel 2
+Decoration;0017;Expert Jewel 3
+Decoration;0018;Grinder Jewel 1
+Decoration;0019;Ironwall Jewel 1
+Decoration;001A;Ironwall Jewel 2
+Decoration;001B;Shield Jewel 1
+Decoration;001C;Shield Jewel 2
+Decoration;001D;Quickload Jwl 1
+Decoration;001E;Quickload Jwl 2
+Decoration;001F;Absorber Jewel 1
+Decoration;0020;Absorber Jewel 3
+Decoration;0021;Forceshot Jwl 1
+Decoration;0022;Forceshot Jwl 3
+Decoration;0023;Pierce Jewel 1
+Decoration;0024;Pierce Jewel 3
+Decoration;0025;Pellet Jewel 1
+Decoration;0026;Pellet Jewel 3
+Decoration;0027;ShotPlus Jewel 1
+Decoration;0028;ShotPlus Jewel 2
+Decoration;0029;PiercePlus Jwl 1
+Decoration;002A;DUMMY 137
+Decoration;002B;PelletPlus Jwl 1
+Decoration;002C;CragPlus Jewel 1
+Decoration;002D;ClustPlus Jwl 1
+Decoration;002E;Disabler Jewel 1
+Decoration;002F;Disabler Jewel 2
+Decoration;0030;Element Jewel 1
+Decoration;0031;Element Jewel 3
+Decoration;0032;Bombardier Jwl 1
+Decoration;0033;DUMMY 138
+Decoration;0034;Hungeriess Jwl 1
+Decoration;0035;Metabolism Jwl 1
+Decoration;0036;Attack Jewel 1
+Decoration;0037;Attack Jewel 2
+Decoration;0038;Attack Jewel 3
+Decoration;0039;Defense Jewel 1
+Decoration;003A;Defense Jewel 2
+Decoration;003B;Protection Jwl 1
+Decoration;003C;Asylum Jewel 1
+Decoration;003D;Earplug Jewel 1
+Decoration;003E;Earplug Jewel 3
+Decoration;003F;Alarm Jewel 1
+Decoration;0040;Friendship Jwl 1
+Decoration;0041;Friendship Jwl 2
+Decoration;0042;Transportr Jwl 1
+Decoration;0043;Fire Res Jewel 1
+Decoration;0044;Water Res Jwl 1
+Decoration;0045;Ice Res Jewel 1
+Decoration;0046;ThunderRes Jwl 1
+Decoration;0047;Dragon Res Jwl 1
+Decoration;0048;Heat Res Jewel 1
+Decoration;0049;Cold Res Jewel 1
+Decoration;004A;Wind Res Jewel 1
+Decoration;004B;Wind Res Jewel 2
+Decoration;004C;DUMMY 139
+Decoration;004D;Gathering Jwl 1
+Decoration;004E;Spree Jewel 1
+Decoration;004F;Blessing Jewel 1
+Decoration;0050;Fate Jewel 1
+Decoration;0051;Fate Jewel 3
+Decoration;0052;DUMMY 140
+Decoration;0053;Psychic Jewel 1
+Decoration;0054;Medicine Jewel 1
+Decoration;0055;Medicine Jewel 2
+Decoration;0056;Professor Jwl 1
+Decoration;0057;Factory Jewel 1
+Decoration;0058;Evasion Jewel 1
+Decoration;0059;Evasion Jewel 2
+Decoration;005A;Potential Jwl 1
+Decoration;005B;Potential Jwl 2
+Decoration;005C;Enduring Jewel 1
+Decoration;005D;Sprinter Jewel 1
+Decoration;005E;Sprinter Jewel 3
+Decoration;005F;Capacity Jewel 2
+Decoration;0060;Capacity Jewel 3
+Decoration;0061;Sniper Jewel 1
+Decoration;0062;Gobbler Jewel 1
+Decoration;0063;Gobbler Jewel 3
+Decoration;0064;Carver Jewel 1
+Decoration;0065;Carver Jewel 3
+Decoration;0066;Footing Jewel 1
+Decoration;0067;Tectonic Jewel 1
+Decoration;0068;DUMMY 141
+Decoration;0069;Jumping Jewel 1
+Decoration;006A;DUMMY 142
+Decoration;006B;Draw Jewel 1
+Decoration;006C;Draw Jewel 2
+Decoration;006D;Trapmaster Jwl 1
+Decoration;006E;Physique Jewel 1
+Decoration;006F;Physique Jewel 2
+Decoration;0070;Capture Jewel 1
+Decoration;0071;Capture Jewel 3
+Decoration;0072;Perception Jwl 1
+Decoration;0073;Charger Jewel 1
+Decoration;0074;Charger Jewel 3
+Decoration;0075;Fresh Air Jwl 1
+Decoration;0076;Stopflow Jewel 1
+Decoration;0077;Swimmer Jewel 1
+Decoration;0078;Diver Jewel 1
+Decoration;0079;Gambit Jewel 1
+Decoration;007A;Gambit Jewel 3
+Decoration;007B;Resistor Jewel 1
+Decoration;007C;Release Jewel 2
+Decoration;007D;Catalyst Jewel 3
+Decoration;007E;Fortitude Jwl 1
+Decoration;007F;Fortitude Jwl 2
+Decoration;0080;Salvo Jewel 1
+Decoration;0081;Salvo Jewel 3
+Decoration;0082;Dungmaster Jwl 1
+Decoration;0083;Torchlight Jwl 1
+Decoration;0084;Def Lock Jewel 1
+Decoration;0085;Sterlle Jewel 1
+Decoration;0086;Aseptic Jewel 1
+Decoration;0087;Blaze Jewel 1
+Decoration;0088;Blaze Jewel 2
+Decoration;0089;Stream Jewel 1
+Decoration;008A;Stream Jewel 2
+Decoration;008B;Bolt Jewel 1
+Decoration;008C;Bolt Jewel 2
+Decoration;008D;Frost Jewel 1
+Decoration;008E;Frost Jewel 2
+Decoration;008F;Dragon Jewel 1
+Decoration;0090;Dragon Jewel 2
+Decoration;0091;Tenderizer Jwl 1
+Decoration;0092;Tenderizer Jwl 3
+Decoration;0093;Destroyer Jwl 1
+Decoration;0094;Destroyer Jwl 3
+Decoration;0095;Throttle Jewel 1
+Decoration;0096;Throttle Jewel 2
+Decoration;0097;KO Jewel 1
+Decoration;0098;Drain Jewel 1
+Decoration;0099;Drain Jewel 2
+Decoration;009A;Sonorous Jewel 1
+Decoration;009B;Artillery Jwl 1
+Decoration;009C;Resistor Jewel 3
+Decoration;009D;Nul-Fire Jewel 2
+Decoration;009E;Nul-Water Jwl 1
+Decoration;009F;Nul-Thundr Jwl 1
+Decoration;00A0;Nul-Ice Jewel 1
+Decoration;00A1;Nul-Dragon Jwl 1
+Decoration;00A2;Sheath Jewel 1
+Decoration;00A3;Sheath Jewel 2
+Decoration;00A4;Refresh Jewel 1
+Decoration;00A5;Refresh Jewel 2
+Decoration;00A6;Ranger Jewel 1
+Decoration;00A7;SlicePlus Jwl 1
+Decoration;00A8;Paracoat Jewel 1
+Decoration;00A9;Paracoat Jewel 2
+Decoration;00AA;Sleepcoat Jwl 1
+Decoration;00AB;Poisoncoat Jwl 1
+Decoration;00AC;Powercoat Jwl 1
+Decoration;00AD;Powercoat Jwl 2
+Decoration;00AE;Rangecoat Jwl 1
+Decoration;00AF;Draincoat Jwl 1
+Decoration;00B0;Stopflow Jewel 2
+Decoration;00B1;Guts Jewel 1
+Decoration;00B2;Guts Jewel 2
+Decoration;00B3;Meateater Jwl 1
+Decoration;00B4;Meatlover Jwl 1
+Decoration;00B5;Slider Jewel 1
+Decoration;00B6;Glider Jewel 1
+Decoration;00B7;Honeybee Jewel 1
+Decoration;00B8;Queebee Jewel 1
+Decoration;00B9;Biology Jewel 1
+Decoration;00BA;Microbio Jewel 1
+Decoration;00BB;Spirit Jewel 1
+Decoration;00BC;Spirit Jewel 2
+Decoration;00BD;Flawless Jewel 1
+Decoration;00BE;Flawless Jewel 2
+Decoration;00BF;Steady Jewel 1
+Decoration;00C0;Steady Jewel 3
+Decoration;00C1;Fish Jewel 1
+Decoration;00C2;Fish Jewel 2
+Decoration;00C3;Player Jewel 1
+Decoration;00C4;Moraie Jewel 1
+Decoration;00C5;Leader Jewel 1
+Decoration;00C6;Leader Jewel 2
+Decoration;00C7;KO Jewel 2
+Decoration;00C8;Charmer Jewel 1
+Decoration;00C9;SlimePlus Jwl1
+Decoration;00CA;Slimecoat Jwl 1
+Decoration;00CB;Invisible Jewel (Doesn't have skills, so useless.) to 00FF.
+DualBlades;0000;None
+DualBlades;0001;Matched Slicers
+DualBlades;0002;Matcher Slicers+
+DualBlades;0003;Dual Slicers
+DualBlades;0004;Dual Hatchets
+DualBlades;0005;Dual Hatchets+
+DualBlades;0006;Dual Cleavers+
+DualBlades;0007;Hurricane
+DualBlades;0008;Hurricane+
+DualBlades;0009;Cyclone
+DualBlades;000A;Tornado Hatchets
+DualBlades;000B;Typhoon
+DualBlades;000C;Dios Slicers
+DualBlades;000D;Dios Slicers+
+DualBlades;000E;Demolition Blades
+DualBlades;000F;Spectral Demolisher
+DualBlades;0010;Sworn Rapiers
+DualBlades;0011;Sworn Rapiers+
+DualBlades;0012;Holy Sabers
+DualBlades;0013;Guild Knight Sabers
+DualBlades;0014;Master Sabers
+DualBlades;0015;Twin Chainsaws
+DualBlades;0016;Twin Chainsaws+
+DualBlades;0017;Guillotines
+DualBlades;0018;Golem's Saws
+DualBlades;0019;Golem's Maneaters
+DualBlades;001A;Type 51 Macerators
+DualBlades;001B;Deathsnarfs
+DualBlades;001C;Uber Deathsnarfs
+DualBlades;001D;Insecticutters
+DualBlades;001E;Insecticutters+
+DualBlades;001F;Insectirippers
+DualBlades;0020;Insectiscythes
+DualBlades;0021;Entomotheos
+DualBlades;0022;Gobul Stunprongs
+DualBlades;0023;Gobul Stunprongs+
+DualBlades;0024;Plegion Stunsword
+DualBlades;0025;Jaggid Shotels
+DualBlades;0026;Jaggid Shotels+
+DualBlades;0027;Leader's Shotels
+DualBlades;0028;Flamestorm
+DualBlades;0029;Flamestorm+
+DualBlades;002A;Salamanders
+DualBlades;002B;Ignis Noire
+DualBlades;002C;Agnaktor Inferno
+DualBlades;002D;Dichotomy
+DualBlades;002E;Elemenders
+DualBlades;002F;Twin Arcus
+DualBlades;0030;Twin Arcus+
+DualBlades;0031;Levin Arcus
+DualBlades;0032;Neo Twin Arcus
+DualBlades;0033;Neo Arcus Whitebolt
+DualBlades;0034;Bone Scythes
+DualBlades;0035;Bone Scythes+
+DualBlades;0036;Chief's Scythes
+DualBlades;0037;Ludroth Pair
+DualBlades;0038;Ludroth Pair+
+DualBlades;0039;Double Droth
+DualBlades;003A;Hidden Gemini
+DualBlades;003B;Night Wings
+DualBlades;003C;Virnar Slicers
+DualBlades;003D;Midnight Blackwings
+DualBlades;003E;Eclipse Slicers
+DualBlades;003F;Alkaid's Asterism
+DualBlades;0040;Usurper's Fulgur
+DualBlades;0041;Despot's Blitz
+DualBlades;0042;Oppressor's Miracle
+DualBlades;0043;Nether Twinblades
+DualBlades;0044;Nether Confidants
+DualBlades;0045;Brimstren Drakeclaws
+DualBlades;0046;Stygian Superbia
+DualBlades;0047;Plesioth Cutlasses
+DualBlades;0048;Plesioth Cutlasses+
+DualBlades;0049;Plegion Machetes
+DualBlades;004A;Verdant Slashers
+DualBlades;004B;Alluvion Slashers
+DualBlades;004C;Jade Plesioth Fans
+DualBlades;004D;Jade Battlefanzers
+DualBlades;004E;Bloodwings
+DualBlades;004F;Bloodwings+
+DualBlades;0050;Venom Wings
+DualBlades;0051;Grimgrim Wings
+DualBlades;0052;Grimnest Noxwings
+DualBlades;0053;Boltgeist
+DualBlades;0054;Double Botlwings
+DualBlades;0055;Double Deathbolts
+DualBlades;0056;Brother Flames
+DualBlades;0057;Brother Blazes
+DualBlades;0058;Wyvern Lovers
+DualBlades;0059;Wyvern Strife
+DualBlades;005A;Wyvern Concilation
+DualBlades;005B;Snow Slicers
+DualBlades;005C;Snow Slicers+
+DualBlades;005D;Snow Sisters
+DualBlades;005E;Blizzarioth
+DualBlades;005F;Blizzarioth+
+DualBlades;0060;Raider's Icecarvers
+DualBlades;0061;Ventus Vindictus
+DualBlades;0062;Raider's Savegery
+DualBlades;0063;Diablos Bashers
+DualBlades;0064;Diablos Bashers+
+DualBlades;0065;Diablos Mashers
+DualBlades;0066;Diablos Sinidex
+DualBlades;0067;Sinistrus Dextraos
+DualBlades;0068;Wrath & Rancor
+DualBlades;0069;Wrathful Predation
+DualBlades;006A;Nero's Wrath
+DualBlades;006B;Worn Blades
+DualBlades;006C;Weathered Blades
+DualBlades;006D;Enduring Schism
+DualBlades;006E;Enduring Sacrifice
+DualBlades;006F;Mercury Edges
+DualBlades;0070;Neptune Edges
+DualBlades;0071;Pelagic Deublades
+DualBlades;0072;Shaka Scarecrows
+DualBlades;0073;Chum Scarecrows
+DualBlades;0074;Chum-Chum Scarecrows
+DualBlades;0075;Glutton's Tools
+DualBlades;0076;Gorger's Tools
+DualBlades;0077;Stewbry Stirfolis
+DualBlades;0078;Deepshake Frybakers
+DualBlades;0079;Megiddo Nova
+DualBlades;007A;The Fistolution
+DualBlades;007B;DUMMY RARE 5 (With Design)
+DualBlades;007C;DUMMY RARE 9 (With Design)
+DualBlades;007D;Bushido
+DualBlades;007E;Bushido RARE 1 (Weird Design)
+DualBlades;007F;No Name RARE 1 (With Design)
+DualBlades;0080;
+DualBlades;0081;
+DualBlades;0082;
+DualBlades;0083;
+DualBlades;0084;
+DualBlades;0085;
+DualBlades;0086;
+DualBlades;0087;
+DualBlades;0088;
+DualBlades;0089;
+DualBlades;008A;
+DualBlades;008B;
+DualBlades;008C;
+DualBlades;008D;
+DualBlades;008E;
+DualBlades;008F;
+DualBlades;0090;
+DualBlades;0091;
+DualBlades;0092;
+DualBlades;0093;
+DualBlades;0094;
+DualBlades;0095;
+DualBlades;0096;
+DualBlades;0097;
+DualBlades;0098;
+DualBlades;0099;
+DualBlades;009A;
+DualBlades;009B;
+DualBlades;009C;
+DualBlades;009D;
+DualBlades;009E;
+DualBlades;009F;
+DualBlades;00A0;
+DualBlades;00A1;
+DualBlades;00A2;
+DualBlades;00A3;
+DualBlades;00A4;
+DualBlades;00A5;
+DualBlades;00A6;
+DualBlades;00A7;
+DualBlades;00A8;
+DualBlades;00A9;
+DualBlades;00AA;
+DualBlades;00AB;
+DualBlades;00AC;
+DualBlades;00AD;
+DualBlades;00AE;
+DualBlades;00AF;
+DualBlades;00B0;
+DualBlades;00B1;
+DualBlades;00B2;
+DualBlades;00B3;
+DualBlades;00B4;
+DualBlades;00B5;
+DualBlades;00B6;
+DualBlades;00B7;
+DualBlades;00B8;
+DualBlades;00B9;
+DualBlades;00BA;
+DualBlades;00BB;
+DualBlades;00BC;
+DualBlades;00BD;
+DualBlades;00BE;
+DualBlades;00BF;
+DualBlades;00C0;
+DualBlades;00C1;
+DualBlades;00C2;
+DualBlades;00C3;
+DualBlades;00C4;
+DualBlades;00C5;
+DualBlades;00C6;
+DualBlades;00C7;
+DualBlades;00C8;
+DualBlades;00C9;
+DualBlades;00CA;
+DualBlades;00CB;
+DualBlades;00CC;
+DualBlades;00CD;
+DualBlades;00CE;
+DualBlades;00CF;
+DualBlades;00D0;
+DualBlades;00D1;
+DualBlades;00D2;
+DualBlades;00D3;
+DualBlades;00D4;
+DualBlades;00D5;
+DualBlades;00D6;
+DualBlades;00D7;
+DualBlades;00D8;
+DualBlades;00D9;
+DualBlades;00DA;
+DualBlades;00DB;
+DualBlades;00DC;
+DualBlades;00DD;
+DualBlades;00DE;
+DualBlades;00DF;
+DualBlades;00E0;
+DualBlades;00E1;
+DualBlades;00E2;
+DualBlades;00E3;
+DualBlades;00E4;
+DualBlades;00E5;
+DualBlades;00E6;
+DualBlades;00E7;
+DualBlades;00E8;
+DualBlades;00E9;
+DualBlades;00EA;
+DualBlades;00EB;
+DualBlades;00EC;
+DualBlades;00ED;
+DualBlades;00EE;
+DualBlades;00EF;
+DualBlades;00F0;
+DualBlades;00F1;
+DualBlades;00F2;
+DualBlades;00F3;
+DualBlades;00F4;
+DualBlades;00F5;
+DualBlades;00F6;
+DualBlades;00F7;
+DualBlades;00F8;
+DualBlades;00F9;
+DualBlades;00FA;
+DualBlades;00FB;
+DualBlades;00FC;
+DualBlades;00FD;
+DualBlades;00FE;
+DualBlades;00FF;
+DualBlades;0100;
+DualBlades;0FFE;
+DualBlades;0FFF;
+DualBlades;1000;
+GreatSword;0000;None
+GreatSword;0001;Iron Sword
+GreatSword;0002;Iron Sword+
+GreatSword;0003;Buster Sword
+GreatSword;0004;Buster Sword+
+GreatSword;0005;Buster Blade
+GreatSword;0006;Ravager Blade
+GreatSword;0007;Ravager Blade+
+GreatSword;0008;Lacerator Blade
+GreatSword;0009;Devastator Blade
+GreatSword;000A;Chrome Razor
+GreatSword;000B;Chrome Quietus
+GreatSword;000C;Brazenwall
+GreatSword;000D;Crimsonwall
+GreatSword;000E;Cragscliff
+GreatSword;000F;Goliath's Scream
+GreatSword;0010;Hidden Blade
+GreatSword;0011;Dark of Night
+GreatSword;0012;Avidya Great Sword
+GreatSword;0013;Eclipse Blade
+GreatSword;0014;Merak's Asterism
+GreatSword;0015;Type 41 Wyvernator
+GreatSword;0016;Remalgalyspe
+GreatSword;0017;Remalgagorgon
+GreatSword;0018;Rugged Great Sword
+GreatSword;0019;Chieftain's Grt Sword
+GreatSword;001A;High Chief's Grt Sword
+GreatSword;001B;Lagiacrus Blade
+GreatSword;001C;Lagiacrus Blade+
+GreatSword;001D;High Lagia Blade
+GreatSword;001E;Lagia Lightning
+GreatSword;001F;Lagia Wildfire
+GreatSword;0020;Neo Lagia Blade
+GreatSword;0021;Lagia Fulmination
+GreatSword;0022;Usurper's Storm
+GreatSword;0023;Despot's Blackstorm
+GreatSword;0024;Oppressor's Forger
+GreatSword;0025;Orcus Tonitrus
+GreatSword;0026;Nether Great Sword
+GreatSword;0027;Nether Lufactrus
+GreatSword;0028;Brimstren Drakepride
+GreatSword;0029;Stygian Acedia
+GreatSword;002A;Carapace Sword
+GreatSword;002B;Carapace Blade
+GreatSword;002C;Barroth Smasher
+GreatSword;002D;Aurora Blade
+GreatSword;002E;Northern Lights
+GreatSword;002F;Northern Cross
+GreatSword;0030;Viking Hornsword
+GreatSword;0031;Ancharius Sword
+GreatSword;0032;Excalius Sword
+GreatSword;0033;Bone Blade
+GreatSword;0034;Bone Blade+
+GreatSword;0035;Jawblade
+GreatSword;0036;Giant Jawblade
+GreatSword;0037;Red Wing
+GreatSword;0038;Rathalos Firesword
+GreatSword;0039;Rathalos Flamesword
+GreatSword;003A;Blue Wing
+GreatSword;003B;Rathalos Glinsword
+GreatSword;003C;Rathalos Gleamsword
+GreatSword;003D;Dios Blade
+GreatSword;003E;Dios Blade+
+GreatSword;003F;Demolition Sword
+GreatSword;0040;Myxo Demolisher
+GreatSword;0041;Valkyrie Blade
+GreatSword;0042;Sleglinde
+GreatSword;0043;High Sleglinde
+GreatSword;0044;Titania
+GreatSword;0045;Blushing Dame
+GreatSword;0046;Ljósálfar
+GreatSword;0047;Brünnhilde
+GreatSword;0048;Siegmund
+GreatSword;0049;High Siegmund
+GreatSword;004A;Reddnaught
+GreatSword;004B;Auberon
+GreatSword;004C;Pale Kaiser
+GreatSword;004D;Golem Blade
+GreatSword;004E;Blade of Talos
+GreatSword;004F;Blade of Tartarus
+GreatSword;0050;Wyvern Jawblade
+GreatSword;0051;Quarrel Hornsword
+GreatSword;0052;Quarrel Hornsword+
+GreatSword;0053;Double Diablos
+GreatSword;0054;Cera Cigil
+GreatSword;0055;Cera Cymmetry
+GreatSword;0056;Ludroth Bone Sword
+GreatSword;0057;Cataclysm Sword
+GreatSword;0058;Cataclysm Blade
+GreatSword;0059;Icicle Fang
+GreatSword;005A;Icicle Fang+
+GreatSword;005B;Paladire
+GreatSword;005C;Galespike
+GreatSword;005D;Simoom Sandbarb
+GreatSword;005E;Simoom Sandbiter
+GreatSword;005F;Finblade
+GreatSword;0060;Plesioth Watercutter
+GreatSword;0061;Plesioth Aquablade
+GreatSword;0062;Plesioth Lullaby
+GreatSword;0063;Plesioth Lullabane
+GreatSword;0064;Wyvern's Perch
+GreatSword;0065;Roguish Deathcap
+GreatSword;0066;Lordly Deathcap
+GreatSword;0067;Amethyst Blade
+GreatSword;0068;Miasmethyst
+GreatSword;0069;Berserker Sword
+GreatSword;006A;Anguish
+GreatSword;006B;Nero's Anguish
+GreatSword;006C;Frozen Speartuna
+GreatSword;006D;Freezer Speartuna
+GreatSword;006E;Xiphias Gladius
+GreatSword;006F;Vulcanis
+GreatSword;0070;Vulcanis+
+GreatSword;0071;Vulcanvil
+GreatSword;0072;Vulcamagnon
+GreatSword;0073;Vulcatastrophe
+GreatSword;0074;Vulca Vendetta
+GreatSword;0075;Rusted Great Sword
+GreatSword;0076;Tarnished Great Swd
+GreatSword;0077;Ancient Blade
+GreatSword;0078;Elder Monument
+GreatSword;0079;Eternal Glyph
+GreatSword;007A;Worn Great Sword
+GreatSword;007B;Weathered Great Swd
+GreatSword;007C;Epitaph Blade
+GreatSword;007D;Epitaph Eternal
+GreatSword;007E;Alatreon Great Sword
+GreatSword;007F;Alatreon Revolution
+GreatSword;0080;Altheos Evolutia
+GreatSword;0081;Megiddo Blaze
+GreatSword;0082;The Depotheosis
+GreatSword;0083;DUMMY (Special Weapons) RARE 4
+GreatSword;0084;DUMMY (Special Weapons) RARE 8
+GreatSword;0085;Lion's Bane
+GreatSword;0086;Anima Reaper
+GreatSword;0087;Eisenfaust
+GreatSword;0088;Lion's Bane (No Design)
+GreatSword;0089;Anima Reaper (Another Design)
+GreatSword;008A;Eisenfaust (Another Design)
+GreatSword;008B;No Name RARE 1 (? Design)
+GreatSword;008C;No Name RARE 2
+GreatSword;008D;No Name RARE 3 (Lagiacrus Blade Design)
+GreatSword;008E;No Name RARE 4
+GreatSword;008F;No name RARE 4
+GreatSword;0090;No name RARE 5 (Neo Lagia Blade Design)
+GreatSword;0091;No Name RARE 6
+GreatSword;0092;No Name RARE 8 (Nether Great Sword Design)
+GreatSword;0093;No Name RARE 9
+GreatSword;0094;No Name RARE 6 (Silver Rathalos Design)
+GreatSword;0095;No Name RARE 9
+GreatSword;0096;No Name RARE 9
+GreatSword;0097;No name RARE 3 (Ludroth Bone Sword Design)
+GreatSword;0098;No Name RARE 3
+GreatSword;0099;No Name RARE 5
+GreatSword;009A;No Name RARE 8 (Dios Blade Design)
+GreatSword;009B;No Name RARE 9
+GreatSword;009C;No Name RARE 6 (? Design)
+GreatSword;009D;No Name RARE 9
+GreatSword;009E;No Name RARE 9
+GreatSword;009F;No Name RARE 10 (Brazenwall Design)
+GreatSword;00A0;No Name RARE 10
+GreatSword;00A1;No Name RARE 1 (Iron Sword Design)
+GreatSword;00A2;No Name RARE 1
+GreatSword;00A3;No Name RARE 2 (? Design)
+GreatSword;00A4;No Name RARE 3
+GreatSword;00A5;No Name RARE 4
+GreatSword;00A6;No Name RARE 5 (Ice Barroth Design)
+GreatSword;00A7;No Name RARE 8
+GreatSword;00A8;No Name RARE 9
+GreatSword;00A9;No Name RARE 3 (Ceadeus ?  Design)
+GreatSword;00AA;No Name RARE 3
+GreatSword;00AB;No Name RARE 5
+GreatSword;00AC;No Name RARE 8 (Barioth Sand Design)
+GreatSword;00AD;No Name RARE 9
+GreatSword;00AE;No Name RARE 4 (Usurper's Storm Design Glitched)
+GreatSword;00AF;No Name RARE 5
+GreatSword;00B0;No Name RARE 8
+GreatSword;00B1;No Name RARE 3 (Barroth Design)
+GreatSword;00B2;
+GreatSword;00B3;
+GreatSword;00B4;
+GreatSword;00B5;
+GreatSword;00B6;
+GreatSword;00B7;
+GreatSword;00B8;
+GreatSword;00B9;
+GreatSword;00BA;
+GreatSword;00BB;
+GreatSword;00BC;
+GreatSword;00BD;
+GreatSword;00BE;
+GreatSword;00BF;
+GreatSword;00C0;
+GreatSword;00C1;
+GreatSword;00C2;
+GreatSword;00C3;
+GreatSword;00C4;
+GreatSword;00C5;
+GreatSword;00C6;
+GreatSword;00C7;
+GreatSword;00C8;
+GreatSword;00C9;
+GreatSword;00CA;
+GreatSword;00CB;
+GreatSword;00CC;
+GreatSword;00CD;
+GreatSword;00CE;
+GreatSword;00CF;
+GreatSword;00D0;
+GreatSword;00D1;
+GreatSword;00D2;
+GreatSword;00D3;
+GreatSword;00D4;
+GreatSword;00D5;
+GreatSword;00D6;
+GreatSword;00D7;
+GreatSword;00D8;
+GreatSword;00D9;
+GreatSword;00DA;
+GreatSword;00DB;
+GreatSword;00DC;
+GreatSword;00DD;
+GreatSword;00DE;
+GreatSword;00DF;
+GreatSword;00E0;
+GreatSword;00E1;
+GreatSword;00E2;
+GreatSword;00E3;
+GreatSword;00E4;
+GreatSword;00E5;
+GreatSword;00E6;
+GreatSword;00E7;
+GreatSword;00E8;No Name RARE 9
+GreatSword;00E9;No Name RARE 3 (Hidden Blade Design)
+GreatSword;00EA;No Name RARE 3
+GreatSword;00EB;No Name RARE 4
+GreatSword;00EC;No Name RARE 5
+GreatSword;00ED;No Name RARE 8
+GreatSword;00EE;No Name RARE 3
+GreatSword;00EF;No Name RARE 5
+GreatSword;00F0;No Name RARE 8
+GreatSword;00F1
+GreatSword;00F2
+GreatSword;00F3
+GreatSword;00F4
+GreatSword;00F5
+GreatSword;00F6
+GreatSword;00F7
+GreatSword;00F8
+GreatSword;00F9
+GreatSword;00FA
+GreatSword;00FB
+GreatSword;00FC
+GreatSword;00FD
+GreatSword;00FE
+GreatSword;00FF;No Name RARE 10 (Rathalos Azur Design)
+GreatSword;0100;
+GreatSword;0FFE;No Name RARE Glitched (No Design) + Spawn the boss at you OR De Spawn the boss IF the boss doens't spawn just abandon the quest then re choose the same quest.
+GreatSword;0FFF;No Name RARE Glitched (No Design) + Spawn the boss at you OR De Spawn the boss IF the boss doens't spawn just abandon the quest then re choose the same quest.
+GreatSword;1000;No Name RARE Glitched (No Design) + Spawn the boss at you OR De Spawn the boss IF the boss doens't spawn just abandon the quest then re choose the same quest.Gunlance;0000;None
+Gunlance;0001;Iron Gunlance
+Gunlance;0002;Iron Gunlance+
+Gunlance;0003;Steel Gunlance
+Gunlance;0004;Striker's Gunlance
+Gunlance;0005;Defender's Gunlance
+Gunlance;0006;Imperial Guardlance
+Gunlance;0007;General's Arbalance
+Gunlance;0008;Admiral's Arbalance
+Gunlance;0009;Imperial Swornlance
+Gunlance;000A;Hidden Gunlance
+Gunlance;000B;Hidden Gunlance+
+Gunlance;000C;Fading Night
+Gunlance;000D;Eclipse Gunlance
+Gunlance;000E;Alioth's Asterism
+Gunlance;000F;Virnar Gunlance
+Gunlance;0010;End of Night
+Gunlance;0011;Red Rook
+Gunlance;0012;Red Rook+
+Gunlance;0013;Crimson Rook
+Gunlance;0014;Silver Rook
+Gunlance;0015;Chariot Gun
+Gunlance;0016;World's Demise
+Gunlance;0017;Ancient Gyrelance
+Gunlance;0018;Ancient Gyresmite
+Gunlance;0019;Progenesis
+Gunlance;001A;Type 62 Stormlance
+Gunlance;001B;Assault Stormlance
+Gunlance;001C;War Marshal
+Gunlance;001D;Shattershot
+Gunlance;001E;Shatter Ace
+Gunlance;001F;Shatter God
+Gunlance;0020;Lagia Burst
+Gunlance;0021;Lagia Burst+
+Gunlance;0022;Exlagia Gunlance
+Gunlance;0023;Neo Lagia Burst
+Gunlance;0024;Eutaxy Whitebolt
+Gunlance;0025;Eutaxy Whitebolt++
+Gunlance;0026;Nether Gunlance
+Gunlance;0027;nether Jugulus
+Gunlance;0028;Dios Gunlance
+Gunlance;0029;Dios Gunlance+
+Gunlance;002A;Demolition Gunlance
+Gunlance;002B;Zvolta Demolisher
+Gunlance;002C;Lagomberator
+Gunlance;002D;Lagomberatrix
+Gunlance;002E;Lagombalanche
+Gunlance;002F;Flamethrower
+Gunlance;0030;Flamethrower+
+Gunlance;0031;Agna Magma
+Gunlance;0032;Agna Vulcan
+Gunlance;0033;Causta Agnavulcan
+Gunlance;0034;Waterthrower
+Gunlance;0035;Agna Aqua
+Gunlance;0036;Rheo Agnacorso
+Gunlance;0037;Bone Gunlance
+Gunlance;0038;Great Bone Gunlance
+Gunlance;0039;Wyvern Bone Gunlance
+Gunlance;003A;Barroth Loader
+Gunlance;003B;Barroth Loader+
+Gunlance;003C;Rugged Loader
+Gunlance;003D;Roscasludge
+Gunlance;003E;Roscascarp
+Gunlance;003F;Vaskaclast
+Gunlance;0040;Vaskaclast+
+Gunlance;0041;Roscaghast
+Gunlance;0042;Roscavalanche
+Gunlance;0043;Jaggid Gunlance
+Gunlance;0044;Jaggid Gunlance+
+Gunlance;0045;Hurricane Gunlance
+Gunlance;0046;Princess Panoply
+Gunlance;0047;Princess Panoply+
+Gunlance;0048;Ortlinde
+Gunlance;0049;Queen's Panoply
+Gunlance;004A;Shining Ishtar 
+Gunlance;004B;Usurper's Roar
+Gunlance;004C;Despot's Phlogiston
+Gunlance;004D;Oppressor's Skyfall
+Gunlance;004E;Brimstren Drakeblood
+Gunlance;004F;Stygian Avaritia
+Gunlance;0050;Peco Teepee
+Gunlance;0051;Peco Teepee+
+Gunlance;0052;Dreamy Teepee
+Gunlance;0053;Thunder Feather
+Gunlance;0054;Thunderbird
+Gunlance;0055;Thunder Ark
+Gunlance;0056;Marine Fisher
+Gunlance;0057;Abyssal Fisher
+Gunlance;0058;Deep Blue Sea
+Gunlance;0059;Leviathan Gunlance
+Gunlance;005A;Diviathan Gunlance
+Gunlance;005B;Ravenous Gunlance
+Gunlance;005C;Insatiable Gunlance
+Gunlance;005D;Nero's Greed
+Gunlance;005E;Fangbreaker
+Gunlance;005F;Fangdemonium
+Gunlance;0060;Jhen Mortalis
+Gunlance;0061;Worn Gunlance
+Gunlance;0062;Weathered Gunlance
+Gunlance;0063;Obelisk
+Gunlance;0064;Deus Obelisk
+Gunlance;0065;Megiddo Forge
+Gunlance;0066;The Disasualty
+Gunlance;0067;Felyoshka
+Gunlance;0068;Felyoshka+
+Gunlance;0069;Felicitous Felyoshka
+Gunlance;006A;Cornpopper
+Gunlance;006B;Cornpopper+
+Gunlance;006C;Mighty Cornpopper
+Gunlance;006D;Baron's Blazon
+Gunlance;006E;DUMMY RARE 1 (With Design)
+Gunlance;006F;Marquis's Blazon
+Gunlance;0070;DUMMY RARE 1 (With Design)
+Gunlance;0071;Duke's Blazon
+Gunlance;0072;Lightning Blaze
+Gunlance;0073;Baron's Blaze RARE 1 (Weird Design)
+Gunlance;0074;Marquis's Blazon RARE 1 (With Design)
+Gunlance;0075;Duke's Blazon RARE 1 (With Design)
+Gunlance;0076;Lightning Blaze RARE 1 (With Design)
+Gunlance;0077;No Name RARE 2 (With Design)
+Gunlance;0078;
+Gunlance;0079;
+Gunlance;007A;
+Gunlance;007B;
+Gunlance;007C;
+Gunlance;007D;
+Gunlance;007E; 
+Gunlance;007F;
+Gunlance;0080;
+Gunlance;0081;
+Gunlance;0082;
+Gunlance;0083;
+Gunlance;0084;
+Gunlance;0085;
+Gunlance;0086;
+Gunlance;0087;
+Gunlance;0088;
+Gunlance;0089;
+Gunlance;008A;
+Gunlance;008B;
+Gunlance;008C;
+Gunlance;008D;
+Gunlance;008E;
+Gunlance;008F;
+Gunlance;0090;
+Gunlance;0091;
+Gunlance;0092;
+Gunlance;0093;
+Gunlance;0094;
+Gunlance;0095;
+Gunlance;0096;
+Gunlance;0097;
+Gunlance;0098;
+Gunlance;0099;
+Gunlance;009A;
+Gunlance;009B;
+Gunlance;009C;
+Gunlance;009D;
+Gunlance;009E;
+Gunlance;009F;
+Gunlance;00A0;
+Gunlance;00A1;
+Gunlance;00A2;
+Gunlance;00A3;
+Gunlance;00A4;
+Gunlance;00A5;
+Gunlance;00A6;
+Gunlance;00A7;
+Gunlance;00A8;
+Gunlance;00A9;
+Gunlance;00AA;
+Gunlance;00AB;
+Gunlance;00AC;
+Gunlance;00AD;
+Gunlance;00AE;
+Gunlance;00AF;
+Gunlance;00B0;
+Gunlance;00B1;
+Gunlance;00B2;
+Gunlance;00B3;
+Gunlance;00B4;
+Gunlance;00B5;
+Gunlance;00B6;
+Gunlance;00B7;
+Gunlance;00B8;
+Gunlance;00B9;
+Gunlance;00BA;
+Gunlance;00BB;
+Gunlance;00BC;
+Gunlance;00BD;
+Gunlance;00BE;
+Gunlance;00BF;
+Gunlance;00C0;
+Gunlance;00C1;
+Gunlance;00C2;
+Gunlance;00C3;
+Gunlance;00C4;
+Gunlance;00C5;
+Gunlance;00C6;
+Gunlance;00C7;
+Gunlance;00C8;
+Gunlance;00C9;
+Gunlance;00CA;
+Gunlance;00CB;
+Gunlance;00CC;
+Gunlance;00CD;
+Gunlance;00CE;
+Gunlance;00CF;
+Gunlance;00D0;
+Gunlance;00D1;
+Gunlance;00D2;
+Gunlance;00D3;
+Gunlance;00D4;
+Gunlance;00D5;
+Gunlance;00D6;
+Gunlance;00D7;
+Gunlance;00D8;
+Gunlance;00D9;
+Gunlance;00DA;
+Gunlance;00DB;
+Gunlance;00DC;
+Gunlance;00DD;
+Gunlance;00DE;
+Gunlance;00DF;
+Gunlance;00E0;
+Gunlance;00E1;
+Gunlance;00E2;
+Gunlance;00E3;
+Gunlance;00E4;
+Gunlance;00E5;
+Gunlance;00E6;
+Gunlance;00E7;
+Gunlance;00E8;
+Gunlance;00E9;
+Gunlance;00EA;
+Gunlance;00EB;
+Gunlance;00EC;
+Gunlance;00ED;
+Gunlance;00EE;
+Gunlance;00EF;
+Gunlance;00F0;
+Gunlance;00F1;
+Gunlance;00F2;
+Gunlance;00F3;
+Gunlance;00F4;
+Gunlance;00F5;
+Gunlance;00F6;
+Gunlance;00F7;
+Gunlance;00F8;
+Gunlance;00F9;
+Gunlance;00FA;
+Gunlance;00FB;
+Gunlance;00FC;
+Gunlance;00FD;
+Gunlance;00FE;
+Gunlance;00FF;
+Gunlance;0100;No Name RARE 2 (With Design)
+Gunlance;0FFE;No Name RARE 1 (With Design)
+Gunlance;0FFF;No Name RARE 1 (With Design)
+Gunlance;10;No Name RARE 1 (Weird Design)
+Hammer;Hammer;0000;None
+Hammer;0001;Iron Hammer
+Hammer;0002;Iron Hammer+
+Hammer;0003;War Hammer
+Hammer;0004;War Hammer+
+Hammer;0005;War Mace
+Hammer;0006;Iron Striker
+Hammer;0007;Iron Striker+
+Hammer;0008;Iron Impact
+Hammer;0009;Anvil Hammer
+Hammer;000A;Onslaught
+Hammer;000B;Gun Hammer
+Hammer;000C;Deadeye Revolver
+Hammer;000D;Burst Revolver
+Hammer;000E;Plesioth Head
+Hammer;000F;Plesioth Head+
+Hammer;0010;Plesioth Breaker
+Hammer;0011;Verde Plesioth Head
+Hammer;0012;Green Ronperagon
+Hammer;0013;Fang Hammer "Echo"
+Hammer;0014;Fang Hammer "Ruin"
+Hammer;0015;Jhen Mohran Hammer
+Hammer;0016;Binding Bludgeon
+Hammer;0017;Armored Gogue
+Hammer;0018;Armored Megagogue
+Hammer;0019;Vortex Hammer
+Hammer;001A;Vortex Hammer+
+Hammer;001B;High Vortex Hammer
+Hammer;001C;Vortical Hammer
+Hammer;001D;Vortastrophe
+Hammer;001E;Lagio Voltega
+Hammer;001F;Lagio Vortivolte
+Hammer;0020;Frozen Core
+Hammer;0021;Cocytus
+Hammer;0022;Pykrete Punisher
+Hammer;0023;Plume Flint
+Hammer;0024;Peco Flint
+Hammer;0025;Peco Igniter
+Hammer;0026;Peco Lectro
+Hammer;0027;Peco Lightning
+Hammer;0028;Peco Lectrocution
+Hammer;0029;Red Bludgeon
+Hammer;002A;Red Bludgeon+
+Hammer;002B;Huracan Hammer
+Hammer;002C;Huracan Blueblaze
+Hammer;002D;Rathalos Martesia
+Hammer;002E;Rathalos Blueblazon
+Hammer;002F;Leonid Starcrusher
+Hammer;0030;Svarog Starsmasher
+Hammer;0031;Dios Tailhammer
+Hammer;0032;Dios Tailhammer+
+Hammer;0033;Demolition Hammer
+Hammer;0034;Navahio Demolisher
+Hammer;0035;Numbingbird
+Hammer;0036;Paralykeet
+Hammer;0037;Alluring Lotus
+Hammer;0038;Plegia Bocciolo
+Hammer;0039;Plegia Flor
+Hammer;003A;Plegia Fantasia
+Hammer;003B;Usurper's Thunder
+Hammer;003C;Despot's Crackle
+Hammer;003D;Oppressor's Sway
+Hammer;003E;Nether Warhammer
+Hammer;003F;Nether Jargrolnir
+Hammer;0040;Brimstren Drakemaw
+Hammer;0041;Stygian Industria
+Hammer;0042;Bone Hammer
+Hammer;0043;Bone Hammer+
+Hammer;0044;Bone Bludgeon
+Hammer;0045;Bone Bludgeon+
+Hammer;0046;Jupiter's Sphere
+Hammer;0047;Duramboros Fellmace
+Hammer;0048;Archambra Fellmace
+Hammer;0049;Archambra Fellmace+
+Hammer;004A;Archambra Resurgence
+Hammer;004B;Hidden Breaker
+Hammer;004C;Hidden Breaker+
+Hammer;004D;Night Eternal
+Hammer;004E;Virnar Breaker
+Hammer;004F;Midnight Aeternum
+Hammer;0050;Ludroth Bone Mace
+Hammer;0051;Ludroth Bone Maul
+Hammer;0052;Ludroth Splashhammer
+Hammer;0053;Vodyanoy Hammer
+Hammer;0054;Lorelei
+Hammer;0055;Bewitched Venodroth
+Hammer;0056;Violet Venodroth
+Hammer;0057;Dire Evenodroth
+Hammer;0058;Carapace Hammer
+Hammer;0059;Carapace Hammer+
+Hammer;005A;Barroth Hammer
+Hammer;005B;Barroth Martello
+Hammer;005C;Barroth Basher
+Hammer;005D;Barroth Grandbasher
+Hammer;005E;ice Crusher
+Hammer;005F;Ice Obliterator
+Hammer;0060;Barroth Viseberg
+Hammer;0061;Barroth Ravinemaker
+Hammer;0062;Brazenclout
+Hammer;0063;Gigas Hammer
+Hammer;0064;Grongigas Hammer
+Hammer;0065;Meltroknucle
+Hammer;0066;Iragantic Hammer
+Hammer;0067;Uragantuan Hammer
+Hammer;0068;Bull Hammer
+Hammer;0069;Bull Head Hammer
+Hammer;006A;Bull Tusk Hammer
+Hammer;006B;Lobstrosity
+Hammer;006C;King Lobstrosity
+Hammer;006D;Royal Lobstrosity
+Hammer;006E;Devil's Due
+Hammer;006F;Devil's Crush
+Hammer;0070;Nero's Chaos
+Hammer;0071;Gaiasp
+Hammer;0072;Gaiarch
+Hammer;0073;Great Gaiarch
+Hammer;0074;Mother Gaiarch
+Hammer;0075;Gaia Horizon
+Hammer;0076;Portsmark
+Hammer;0077;Rusted Hammer
+Hammer;0078;Tarnished Hammer
+Hammer;0079;Breath Core Hammer
+Hammer;007A;Lava Core Hammer
+Hammer;007B;Crust Core Hammer
+Hammer;007C;Worn Hammer
+Hammer;007D;Weathered Hammer
+Hammer;007E;Pulsating Core
+Hammer;007F;Meteoric Core
+Hammer;0080;Alatreon Hammer
+Hammer;0081;Alatreon Metamorph
+Hammer;0082;Altheos Morphexo
+Hammer;0083;Megiddo Core
+Hammer;0084;The Anteferno
+Hammer;0085;DUMMY RARE 6 (With Design)
+Hammer;0086;Majestic Scepter
+Hammer;0087;Majestic Scepter RARE 1 (No Design)
+Hammer;0088;No Name RARE 1 (With Design)
+Hammer;0089;
+Hammer;008A;
+Hammer;008B;
+Hammer;008C;
+Hammer;008D;
+Hammer;008E;
+Hammer;008F;
+Hammer;0090;
+Hammer;0091;
+Hammer;0092;
+Hammer;0093;   
+Hammer;0094;
+Hammer;0095;
+Hammer;0096;
+Hammer;0097;
+Hammer;0098;
+Hammer;0099;
+Hammer;009A;
+Hammer;009B;
+Hammer;009C;
+Hammer;009D;
+Hammer;009E;
+Hammer;009F;
+Hammer;00A0;
+Hammer;00A1;
+Hammer;00A2;
+Hammer;00A3;
+Hammer;00A4;
+Hammer;00A5;
+Hammer;00A6;
+Hammer;00A7;
+Hammer;00A8;
+Hammer;00A9;
+Hammer;00AA;
+Hammer;00AB;
+Hammer;00AC;
+Hammer;00AD;
+Hammer;00AE;
+Hammer;00AF;
+Hammer;00B0;
+Hammer;00B1;
+Hammer;00B2;
+Hammer;00B3;
+Hammer;00B4;
+Hammer;00B5;
+Hammer;00B6;
+Hammer;00B7;
+Hammer;00B8;
+Hammer;00B9;
+Hammer;00BA;
+Hammer;00BB;
+Hammer;00BC;
+Hammer;00BD;
+Hammer;00BE;
+Hammer;00BF;
+Hammer;00C0;
+Hammer;00C1;
+Hammer;00C2;
+Hammer;00C3;
+Hammer;00C4;
+Hammer;00C5;
+Hammer;00C6;
+Hammer;00C7;
+Hammer;00C8;
+Hammer;00C9;
+Hammer;00CA;
+Hammer;00CB;
+Hammer;00CC;
+Hammer;00CD;
+Hammer;00CE;
+Hammer;00CF;
+Hammer;00D0;
+Hammer;00D1;
+Hammer;00D2;
+Hammer;00D3;
+Hammer;00D4;
+Hammer;00D5;
+Hammer;00D6;
+Hammer;00D7;
+Hammer;00D8;
+Hammer;00D9;
+Hammer;00DA;
+Hammer;00DB;
+Hammer;00DC;
+Hammer;00DD;
+Hammer;00DE;
+Hammer;00DF;
+Hammer;00E0;
+Hammer;00E1;
+Hammer;00E2;
+Hammer;00E3;
+Hammer;00E4;
+Hammer;00E5;
+Hammer;00E6;
+Hammer;00E7;
+Hammer;00E8;
+Hammer;00E9;
+Hammer;00EA;
+Hammer;00EB;
+Hammer;00EC;
+Hammer;00ED;
+Hammer;00EE;
+Hammer;00EF;
+Hammer;00F0;
+Hammer;00F1;
+Hammer;00F2;
+Hammer;0000F3;
+Hammer;00F4;
+Hammer;00F5;
+Hammer;00F6;
+Hammer;00F7;
+Hammer;00F8;
+Hammer;00F9;
+Hammer;00FA;
+Hammer;00FB;
+Hammer;00FC;
+Hammer;00FD;
+Hammer;00FE;
+Hammer;00FF;
+Hammer;0100;
+Hammer;0FFE;
+Hammer;0FFF;No Name RARE 4 (With Design)
+Hammer;1000;No Name RARE 4 (With Design)
+Head;0001;Leather Headgear
+Head;0002;Piscine Mask
+Head;0003;Chainmail Headgear
+Head;0004;Hunter's Helm
+Head;0005;Hunter's Cap
+Head;0006;Bone Helm
+Head;0007;Bone Cap
+Head;0008;Alloy Helm
+Head;0009;Alloy Cap
+Head;000A;Jaggi Helm
+Head;000B;Jaggi Cap
+Head;000C;Bnahabra Hat
+Head;000D;Bnahabra Headpiece
+Head;000E;Rhenoplos Helm
+Head;000F;Rhenoplos Cap
+Head;0010;Qurupeco Helm
+Head;0011;Qurupeco Cap
+Head;0012;Ludroth Helm
+Head;0013;Ludroth Cap
+Head;0014;Baggy Helm
+Head;0015;Baggi Cap
+Head;0016;Barroth Helm
+Head;0017;Barroth Cap
+Head;0018;Gobul Helm
+Head;0019;Gobul Cap
+Head;001A;DUMMY
+Head;001B;DUMMY
+Head;001C;Guild Bard Lobos
+Head;001D;Guild Bard Hat
+Head;001E;Scholar's Beret
+Head;001F;Scholar's Cap
+Head;0020;Rathian Helm
+Head;0021;Rathian Cap
+Head;0022;Gigginox Helm
+Head;0023;Gigginox Cap
+Head;0024;Ingot Helm
+Head;0025;Ingot Cap
+Head;0026;Lagiacrus Helm
+Head;0027;Lagiacrus Cap
+Head;0028;Rathalos Helm
+Head;0029;Rathalos Cap
+Head;002A;Barioth Helm
+Head;002B;Barioth Cap
+Head;002C;Diablos Helm
+Head;002D;Diablos Cap
+Head;002E;Uragaan Helm
+Head;002F;Uragaan Cap
+Head;0030;Agnaktor Helm
+Head;0031;Agnaktor Cap
+Head;0032;Helios Helm
+Head;0033;Helios Cap
+Head;0034;Selene Helm
+Head;0035;Selene Cap
+Head;0036;Wroggi Helm
+Head;0037;Wroggi Cap
+Head;0038;Arzuros Helm
+Head;0039;Arzuros Cap
+Head;003A;Lagombi Helm
+Head;003B;Lagombi Cap
+Head;003C;Volvidon Helm
+Head;003D;Volvidon Cap
+Head;003E;Nibelsnarf Helm
+Head;003F;Nibelsnarf Cap
+Head;0040;Duramboros Helm
+Head;0041;Duramboros Cap
+Head;0042;Yukumo Kasa
+Head;0043;DUMMY
+Head;0044;DUMMY
+Head;0045;DUMMY
+Head;0046;DUMMY
+Head;0047;DUMMY
+Head;0048;DUMMY
+Head;0049;Leather Helm S
+Head;004A;Leather Cap S
+Head;004B;Piscine Mask S
+Head;004C;Piscine Snorkel S
+Head;004D;Chainmail Helm S
+Head;004E;Chainmail Cap S
+Head;004F;Hunter's Helm S
+Head;0050;Hunter's Cap S
+Head;0051;Bone Helm S
+Head;0052;Bone Cap S
+Head;0053;Alloy Helm S
+Head;0054;Alloy Cap S
+Head;0055;Jaggi Helm S
+Head;0056;Jaggi Cap S
+Head;0057;Bnahabra Hat S
+Head;0058;Bnahabra Headpiece S
+Head;0059;Rhenoplos Helm S
+Head;005A;Rhenoplos Cap S
+Head;005B;Slagtoth Hood
+Head;005C;Slagtoth Cowl
+Head;005D;Qurupeco Helm S
+Head;005E;Qurupeco Cap S
+Head;005F;Qurupeco Helm U
+Head;0060;Qurupeco Cap U
+Head;0061;Ludroth Helm S
+Head;0062;Ludroth Cap S
+Head;0063;Ludroth Helm U
+Head;0064;Ludroth Cap U
+Head;0065;Baggi Helm S
+Head;0066;Baggi Cap S
+Head;0067;Wroggi Hat S
+Head;0068;Wroggi Cap S
+Head;0069;Arzuros Helm S
+Head;006A;Arzuros Cap S
+Head;006B;Lagombi Helm S
+Head;006C;Lagombi Cap S
+Head;006D;Volvidon Helm S
+Head;006E;Volvidon Cap S
+Head;006F;Barroth Helm S
+Head;0070;Barroth Cap S
+Head;0071;Barroth Helm U
+Head;0072;Barroth Cap U
+Head;0073;Gobul Helm S
+Head;0074;Gobul Cap S
+Head;0075;Guild Bard Lobos S
+Head;0076;Guild Bard Hat S
+Head;0077;Scholar's Beret S
+Head;0078;Scholar's Cap S
+Head;0079;Rathian Helm S
+Head;007A;Rathian Cap S
+Head;007B;Rath Heart Helm
+Head;007C;Rath Heart Cap
+Head;007D;Gigginox Helm S
+Head;007E;Gigginox Cap S
+Head;007F;Gigginox Helm U
+Head;0080;Gigginox Cap U
+Head;0081;Ingot Helm S
+Head;0082;Ingot Cap S
+Head;0083;Dober Helm
+Head;0084;Dober Cap
+Head;0085;Yukumo Sky Kasa
+Head;0086;Yukumo Land Kasa
+Head;0087;Aelucanth Vertex
+Head;0088;Aelucanth Clypeus
+Head;0089;Rhopessa Vertex
+Head;008A;Rhopessa Clypeus
+Head;008B;Mosgharl Vizor
+Head;008C;Mosgharl Brim
+Head;008D;Lagiacrus Helm S
+Head;008E;Lagiacrus Cap S
+Head;008F;Lagiacrus Helm U
+Head;0090;Lagiacrus Cap U
+Head;0091;Rathalos Helm S
+Head;0092;Rathalos Cap S
+Head;0093;Rath Soul Helm
+Head;0094;Rath Soul Cap
+Head;0095;Barioth Helm S
+Head;0096;Barioth Cap S
+Head;0097;Barioth Helm U
+Head;0098;Barioth Cap U
+Head;0099;Diablos Helm S
+Head;009A;Diablos Cap S
+Head;009B;Diablos Helm U
+Head;009C;Diablos Cap U
+Head;009D;Uragaan Helm S
+Head;009E;Uragaan Cap S
+Head;009F;Uragaan Helm U
+Head;00A0;Uragaan Cap U
+Head;00A1;Agnaktor Helm S
+Head;00A2;Agnaktor Cap S
+Head;00A3;Agnaktor Helm U
+Head;00A4;Agnaktor Cap U
+Head;00A5;Vangis Helm
+Head;00A6;Vangis Cap
+Head;00A7;Damascus Helm
+Head;00A8;Damascus Cap
+Head;00A9;DUMMY
+Head;00AA;DUMMY
+Head;00AB;DUMMY
+Head;00AC;DUMMY
+Head;00AD;Yamato Kabuto
+Head;00AE;Mutsu Eboshi
+Head;00AF;Hyuga Hachigane
+Head;00B0;Amagi Hachigane
+Head;00B1;Escadora Wisdom
+Head;00B2;Escadora Sagesse
+Head;00B3;Zinogre Helm
+Head;00B4;Zinogre Cap
+Head;00B5;Nibelsnarf Helm S
+Head;00B6;Nibelsnarf Cap S
+Head;00B7;Duramboros Helm S
+Head;00B8;Duramboros Cap S
+Head;00B9;Nargacuga Helm
+Head;00BA;Nargacuga Cap
+Head;00BB;Plesioth Helm
+Head;00BC;Plesioth Cap
+Head;00BD;Brachydios Helm
+Head;00BE;Brachydios Cap
+Head;00BF;Dianthus Cappa
+Head;00C0;Campanille Cappa
+Head;00C1;Ranger's Headgear
+Head;00C2;Archer's Turban
+Head;00C3;DUMMY
+Head;00C4;DUMMY
+Head;00C5;DUMMY
+Head;00C6;DUMMY
+Head;00C7;DUMMY
+Head;00C8;DUMMY
+Head;00C9;DUMMY
+Head;00CA;DUMMY
+Head;00CB;DUMMY
+Head;00CC;DUMMY
+Head;00CD;DUMMY
+Head;00CE;DUMMY
+Head;00CF;Ingot Helm X
+Head;00D0;Ingot Cap X
+Head;00D1;Bnahabra Hat X
+Head;00D2;Bnahabra Headpiece X
+Head;00D3;Rhenoplos Helm X
+Head;00D4;Rhenoplos Cap X
+Head;00D5;Slagtoth Hood X
+Head;00D6;Slagtoth Cowl X
+Head;00D7;Jaggi Helm X
+Head;00D8;Jaggi Cap X
+Head;00D9;Baggi Helm X
+Head;00DA;Baggi Cap X
+Head;00DB;Wroggi Hat X
+Head;00DC;Wroggi Cap X
+Head;00DD;Arzuros Helm X
+Head;00DE;Arzuros Cap X
+Head;00DF;Lagombi Helm X
+Head;00E0;Lagombi Cap X
+Head;00E1;Volvidon Helm X
+Head;00E2;Volvidon Cap X
+Head;00E3;Qurupeco Helm X
+Head;00E4;Qurupeco Cap X
+Head;00E5;Qurupeco Helm Z
+Head;00E6;Qurupeco Cap Z
+Head;00E7;Ludroth Helm X
+Head;00E8;Ludroth Cap X
+Head;00E9;Ludroth Helm Z
+Head;00EA;Ludroth Cap Z
+Head;00EB;Barroth Helm X
+Head;00EC;Barroth Cap X
+Head;00ED;Barroth Helm Z
+Head;00EE;Barroth Cap Z
+Head;00EF;Gobul Helm X
+Head;00F0;Gobul Cap X
+Head;00F1;Rathalos Helm X
+Head;00F2;Rathalos Cap X
+Head;00F3;Rath Soul Helm Z
+Head;00F4;Rath Soul Cap Z
+Head;00F5;Silver Solhelm
+Head;00F6;Silver Solcap
+Head;00F7;Rathian Helm X
+Head;00F8;Rathian Cap X
+Head;00F9;Rath Heart Helm Z
+Head;00FA;Rath Heart Cap Z
+Head;00FB;Golden Lunehelm
+Head;00FC;Golden Lunecap
+Head;00FD;Lagiacrus Helm X
+Head;00FE;Lagiacrus Cap X
+Head;00FF;Lagiacrus Helm Z
+Head;0100;Lagiacrus Cap Z
+Head;0101;Nether Helm
+Head;0102;Nether Cap
+Head;0103;Gigginox Helm X
+Head;0104;Gigginox Cap X
+Head;0105;Gigginox Helm Z
+Head;0106;Gigginox Cap Z
+Head;0107;Barioth Helm X
+Head;0108;Barioth Cap X
+Head;0109;Barioth Helm Z
+Head;010A;Barioth Cap Z
+Head;010B;Diablos Helm X
+Head;010C;Diablos Cap X
+Head;010D;Diablos Helm Z
+Head;010E;Diablos Cap Z
+Head;010F;Uragaan Helm X
+Head;0110;Uragaan Cap X
+Head;0111;Uragaan Helm Z
+Head;0112;Uragaan Cap Z
+Head;0113;Agnaktor Helm X
+Head;0114;Agnaktor Cap X
+Head;0115;Agnaktor Helm Z
+Head;0116;Agnaktor Cap Z
+Head;0117;Helios Helm X
+Head;0118;Helios Cap X
+Head;0119;Helios Helm Z
+Head;011A;Helios Cap Z
+Head;011B;Selene Helm X
+Head;011C;Selene Cap X
+Head;011D;Selene Helm Z
+Head;011E;Selene Cap Z
+Head;011F;Grand Yamato Kabuto
+Head;0120;Grand Mutsu Eboshi
+Head;0121;Grand H. Hachigane
+Head;0122;Grand Amagi Jingasa
+Head;0123;Yamato Kabuto Prime
+Head;0124;Mutsu Eboshi Prime
+Head;0125;H. Hachigane Prime
+Head;0126;Amagi Jingasa Prime
+Head;0127;Vangis Helm X
+Head;0128;Vangis Cap X
+Head;0129;Escadora Wisdom X
+Head;012A;Escadora Sagesse X
+Head;012B;Zinogre Helm X
+Head;012C;Zinogre Cap X
+Head;012D;Zinogre Helm Z
+Head;012E;Zinogre Cap Z
+Head;012F;Nibelsnarf Helm X
+Head;0130;Nibelsnarf Cap X
+Head;0131;Duramboros Helm X
+Head;0132;Duramboros Cap X
+Head;0133;Duramboros Helm Z
+Head;0134;Duramboros Cap Z
+Head;0135;Nargacuga Helm X
+Head;0136;Nargacuga Cap X
+Head;0137;Nargacuga Helm Z
+Head;0138;Nargacuga Cap Z
+Head;0139;Lambent Casque
+Head;013A;Silhouette Casque
+Head;013B;Plesioth Helm X
+Head;013C;Plesioth Cap X
+Head;013D;Plesioth Helm Z
+Head;013E;Plesioth Cap Z
+Head;013F;Brachydios Helm X
+Head;0140;Brachydios Cap X
+Head;0141;Miralis Diadem
+Head;0142;Miralis Crown
+Head;0143;Damascus Helm X
+Head;0144;Damascus Cap X
+Head;0145;Dober Helm X
+Head;0146;Dober Cap X
+Head;0147;DUMMY
+Head;0148;DUMMY
+Head;0149;Aelucanth Vertex X
+Head;014A;Aelucanth Clypeus X
+Head;014B;Rhopessa Vertex X
+Head;014C;Rhopessa Clypeus X
+Head;014D;Mosgharl Vizor X
+Head;014E;Mosgharl Brim X
+Head;014F;Dianthus Wealcap
+Head;0150;Campanile Wealcap
+Head;0151;Strider's Headgear
+Head;0152;Deadeye's Turban
+Head;0153;Guild Bard Lobos X
+Head;0154;Guild Bard Hat X
+Head;0155;Scholar's Beret X
+Head;0156;Scholar's Cap X
+Head;0157;DUMMY
+Head;0158;DUMMY
+Head;0159;Sailor Hat
+Head;015A;Sailor Cap
+Head;015B;Shadow Shades
+Head;015C;Jaggi Mask
+Head;015D;Gargwa Mask
+Head;015E;Bullfango Mask
+Head;015F;Skull Mask
+Head;0160;Chakra Earring
+Head;0161;DUMMY
+Head;0162;DUMMY
+Head;0163;DUMMY
+Head;0164;DUMMY
+Head;0165;DUMMY
+Head;0166;DUMMY
+Head;0167;DUMMY
+Head;0168;DUMMY
+Head;0169;DUMMY
+Head;016A;DUMMY
+Head;016B;DUMMY
+Head;016C;DUMMY
+Head;016D;DUMMY
+Head;016E;DUMMY
+Head;016F;DUMMY
+Head;0170;DUMMY
+HeavyBowgun;0000;None
+HeavyBowgun;0001;Bone Blaster
+HeavyBowgun;0002;Bone Blaster+
+HeavyBowgun;0003;Bone Buster
+HeavyBowgun;0004;Queen's Longfire
+HeavyBowgun;0005;Queen's Farflier
+HeavyBowgun;0006;Queen's Scionfire
+HeavyBowgun;0007;Empress's Blossom
+HeavyBowgun;0008;Empress's Flower
+HeavyBowgun;0009;Empress's Garden
+HeavyBowgun;000A;Spheniscine Slayer
+HeavyBowgun;000B;Spheniscine Ruler
+HeavyBowgun;000C;Spheniscine Overlord
+HeavyBowgun;000D;Spheniscine God
+HeavyBowgun;000E;Arzuros Gun
+HeavyBowgun;000F;Arzuros Rumblegun
+HeavyBowgun;0010;Arzuros Fishergun
+HeavyBowgun;0011;Arzuros Ace
+HeavyBowgun;0012;Type 46 Gunflage I
+HeavyBowgun;0013;Type 46 Gunflage II
+HeavyBowgun;0014;Type 46 Gunflage III
+HeavyBowgun;0015;Nibelflage Prototype
+HeavyBowgun;0016;Super Trench Snarfer
+HeavyBowgun;0017;Pressurized Plaser
+HeavyBowgun;0018;Pressurized Plaser+
+HeavyBowgun;0019;Verdant Washbuckler
+HeavyBowgun;001A;Captain Verde
+HeavyBowgun;001B;Tropeco Gun
+HeavyBowgun;001C;Tropeco Flambogun
+HeavyBowgun;001D;Pecopious Gun
+HeavyBowgun;001E;Pecopious Thunder
+HeavyBowgun;001F;Paco Pico Peco
+HeavyBowgun;0020;Precision Pico Peco
+HeavyBowgun;0021;Dios Cannon
+HeavyBowgun;0022;Dios Cannon+
+HeavyBowgun;0023;Demolition Cannon
+HeavyBowgun;0024;Haize Demolisher
+HeavyBowgun;0025;Usurper's Tremor
+HeavyBowgun;0026;Despot's Paroxysm
+HeavyBowgun;0027;Oppressor's Making
+HeavyBowgun;0028;Stygian Temperantia
+HeavyBowgun;0029;Hidden Gambit
+HeavyBowgun;002A;Baleful Night
+HeavyBowgun;002B;Virnar Heavy Rifle
+HeavyBowgun;002C;Sinister Midnight
+HeavyBowgun;002D;Eclipse Gambit
+HeavyBowgun;002E;Dual Threat
+HeavyBowgun;002F;Dual Threat+
+HeavyBowgun;0030;Diablazooka
+HeavyBowgun;0031;Nero's Blazooka
+HeavyBowgun;0032;Griffon Blazooka
+HeavyBowgun;0033;Lagia Blitz
+HeavyBowgun;0034;Lagia Blitz+
+HeavyBowgun;0035;Thunderblitz Cannon
+HeavyBowgun;0036;Neo Lagia Blitz
+HeavyBowgun;0037;Blitzador Whitebolt
+HeavyBowgun;0038;Nether Salvatore
+HeavyBowgun;0039;Agnaboom
+HeavyBowgun;003A;Agnablaster
+HeavyBowgun;003B;Agna Hellblazer
+HeavyBowgun;003C;Agna Magnum
+HeavyBowgun;003D;Agna Scorpion
+HeavyBowgun;003E;Avel Agnagun
+HeavyBowgun;003F;Calm Agnagun
+HeavyBowgun;0040;Zeth Agnagun
+HeavyBowgun;0041;Jhen Cannon
+HeavyBowgun;0042;Jhen Dracannon
+HeavyBowgun;0043;Hallowed Dracannon
+HeavyBowgun;0044;Vulcannon
+HeavyBowgun;0045;Vulcannon+
+HeavyBowgun;0046;Vulmagnum
+HeavyBowgun;0047;Gigant Launcher
+HeavyBowgun;0048;Gigant Cannon
+HeavyBowgun;0049;Moby Deus
+HeavyBowgun;004A;Frater Deus
+HeavyBowgun;004B;Ark Precursor
+HeavyBowgun;004C;Arken Antiphon
+HeavyBowgun;004D;Chaos Wing
+HeavyBowgun;004E;Altheos Aetheria
+HeavyBowgun;004F;Carrozza Bazooka
+HeavyBowgun;0050;Queen's Carrozza
+HeavyBowgun;0051;Cendrillon
+HeavyBowgun;0052;Wishing Star
+HeavyBowgun;0053;Meteorite
+HeavyBowgun;0054;Great Meteor
+HeavyBowgun;0055;Aquamatic "Needler"
+HeavyBowgun;0056;Aquamatic "Firelash"
+HeavyBowgun;0057;Aquamatic "Ashmaker"
+HeavyBowgun;0058;Carbalite Cannon
+HeavyBowgun;0059;Meteor Cannon
+HeavyBowgun;005A;Galaxy Cannon
+HeavyBowgun;005B;The Hexclamation
+HeavyBowgun;005C;DUMMY RARE 1 (No Design)
+HeavyBowgun;005D;No Name RARE 2 (With Design)
+HeavyBowgun;005E;
+HeavyBowgun;005F;
+HeavyBowgun;0060;
+HeavyBowgun;0061;
+HeavyBowgun;0062;
+HeavyBowgun;0063;
+HeavyBowgun;0064;
+HeavyBowgun;0065;
+HeavyBowgun;0066;
+HeavyBowgun;0067;
+HeavyBowgun;0068;
+HeavyBowgun;0069;
+HeavyBowgun;006A;
+HeavyBowgun;006B;
+HeavyBowgun;006C;
+HeavyBowgun;006D;
+HeavyBowgun;006E;
+HeavyBowgun;006F;
+HeavyBowgun;0070;
+HeavyBowgun;0071;
+HeavyBowgun;0072;
+HeavyBowgun;0073;
+HeavyBowgun;0074;
+HeavyBowgun;0075;
+HeavyBowgun;0076;
+HeavyBowgun;0077;
+HeavyBowgun;0078;
+HeavyBowgun;0079;
+HeavyBowgun;007A;
+HeavyBowgun;007B;
+HeavyBowgun;007C;
+HeavyBowgun;007D;
+HeavyBowgun;007E; 
+HeavyBowgun;007F;
+HeavyBowgun;0080;
+HeavyBowgun;0081;
+HeavyBowgun;0082;
+HeavyBowgun;0083;
+HeavyBowgun;0084;
+HeavyBowgun;0085;
+HeavyBowgun;0086;
+HeavyBowgun;0087;
+HeavyBowgun;0088;
+HeavyBowgun;0089;
+HeavyBowgun;008A;
+HeavyBowgun;008B;
+HeavyBowgun;008C;
+HeavyBowgun;008D;
+HeavyBowgun;008E;
+HeavyBowgun;008F;
+HeavyBowgun;0090;
+HeavyBowgun;0091;
+HeavyBowgun;0092;
+HeavyBowgun;0093;
+HeavyBowgun;0094;
+HeavyBowgun;0095;
+HeavyBowgun;0096;
+HeavyBowgun;0097;
+HeavyBowgun;0098;
+HeavyBowgun;0099;
+HeavyBowgun;009A;
+HeavyBowgun;009B;
+HeavyBowgun;009C;
+HeavyBowgun;009D;
+HeavyBowgun;009E;
+HeavyBowgun;009F;
+HeavyBowgun;00A0;
+HeavyBowgun;00A1;
+HeavyBowgun;00A2;
+HeavyBowgun;00A3;
+HeavyBowgun;00A4;
+HeavyBowgun;00A5;
+HeavyBowgun;00A6;
+HeavyBowgun;00A7;
+HeavyBowgun;00A8;
+HeavyBowgun;00A9;
+HeavyBowgun;00AA;
+HeavyBowgun;00AB;
+HeavyBowgun;00AC;
+HeavyBowgun;00AD;
+HeavyBowgun;00AE;
+HeavyBowgun;00AF;
+HeavyBowgun;00B0;
+HeavyBowgun;00B1;
+HeavyBowgun;00B2;
+HeavyBowgun;00B3;
+HeavyBowgun;00B4;
+HeavyBowgun;00B5;
+HeavyBowgun;00B6;
+HeavyBowgun;00B7;
+HeavyBowgun;00B8;
+HeavyBowgun;00B9;
+HeavyBowgun;00BA;
+HeavyBowgun;00BB;
+HeavyBowgun;00BC;
+HeavyBowgun;00BD;
+HeavyBowgun;00BE;
+HeavyBowgun;00BF;
+HeavyBowgun;00C0;
+HeavyBowgun;00C1;
+HeavyBowgun;00C2;
+HeavyBowgun;00C3;
+HeavyBowgun;00C4;
+HeavyBowgun;00C5;
+HeavyBowgun;00C6;
+HeavyBowgun;00C7;
+HeavyBowgun;00C8;
+HeavyBowgun;00C9;
+HeavyBowgun;00CA;
+HeavyBowgun;00CB;
+HeavyBowgun;00CC;
+HeavyBowgun;00CD;
+HeavyBowgun;00CE;
+HeavyBowgun;00CF;
+HeavyBowgun;00D0;
+HeavyBowgun;00D1;
+HeavyBowgun;00D2;
+HeavyBowgun;00D3;
+HeavyBowgun;00D4;
+HeavyBowgun;00D5;
+HeavyBowgun;00D6;
+HeavyBowgun;00D7;
+HeavyBowgun;00D8;
+HeavyBowgun;00D9;
+HeavyBowgun;00DA;
+HeavyBowgun;00DB;
+HeavyBowgun;00DC;
+HeavyBowgun;00DD;
+HeavyBowgun;00DE;
+HeavyBowgun;00DF;
+HeavyBowgun;00E0;
+HeavyBowgun;00E1;
+HeavyBowgun;00E2;
+HeavyBowgun;00E3;
+HeavyBowgun;00E4;
+HeavyBowgun;00E5;
+HeavyBowgun;00E6;
+HeavyBowgun;00E7;
+HeavyBowgun;00E8;
+HeavyBowgun;00E9;
+HeavyBowgun;00EA;
+HeavyBowgun;00EB;
+HeavyBowgun;00EC;
+HeavyBowgun;00ED;
+HeavyBowgun;00EE;
+HeavyBowgun;00EF;
+HeavyBowgun;00F0;
+HeavyBowgun;00F1;
+HeavyBowgun;00F2;
+HeavyBowgun;0000F3;
+HeavyBowgun;00F4;
+HeavyBowgun;00F5;
+HeavyBowgun;00F6;
+HeavyBowgun;00F7;
+HeavyBowgun;00F8;
+HeavyBowgun;00F9;
+HeavyBowgun;00FA;
+HeavyBowgun;00FB;
+HeavyBowgun;00FC;
+HeavyBowgun;00FD;
+HeavyBowgun;00FE;
+HeavyBowgun;00FF;
+HeavyBowgun;0100;
+HeavyBowgun;0FFE;
+HeavyBowgun;0FFF;
+HeavyBowgun;1000;
+HuntingHorn;0000;None
+HuntingHorn;0001;Metal Bagpipe
+HuntingHorn;0002;Metal Bagpipe+
+HuntingHorn;0003;Great Bagpipe
+HuntingHorn;0004;Heavy Bagpipe
+HuntingHorn;0005;Heavy Bagpipe+
+HuntingHorn;0006;Fortissimo
+HuntingHorn;0007;Rinforzato
+HuntingHorn;0008;Usurper's Growl
+HuntingHorn;0009;Despot's Thunderclap
+HuntingHorn;000A;Brimstren Drakesong
+HuntingHorn;000B;Stygian Tristitia
+HuntingHorn;000C;Hidden Harmonic
+HuntingHorn;000D;Cry in the Night
+HuntingHorn;000E;Eclipse Tone
+HuntingHorn;000F;Qurupeco Horn
+HuntingHorn;0010;Qurupeco Trumpet
+HuntingHorn;0011;Qurupeco Honker
+HuntingHorn;0012;Magnifico Trumpet
+HuntingHorn;0013;Imperilude
+HuntingHorn;0014;Type 63 Warmonica
+HuntingHorn;0015;Snarfonix
+HuntingHorn;0016;Soltdier's Snarfonica
+HuntingHorn;0017;Sandpipe
+HuntingHorn;0018;Sandcrier
+HuntingHorn;0019;Sandscreecher
+HuntingHorn;001A;Sandsinger
+HuntingHorn;001B;Sandsoother
+HuntingHorn;001C;Ice Kazoo
+HuntingHorn;001D;Glacial Kazoo
+HuntingHorn;001E;Frost Groaner
+HuntingHorn;001F;Frost General
+HuntingHorn;0020;Agnakdio
+HuntingHorn;0021;Brandoneon
+HuntingHorn;0022;Scaldertina
+HuntingHorn;0023;Bone Horn
+HuntingHorn;0024;Bone Horn+
+HuntingHorn;0025;Hunter's Horn
+HuntingHorn;0026;Hunter's Horn+
+HuntingHorn;0027;Swell Shell
+HuntingHorn;0028;Vertex Shell
+HuntingHorn;0029;Turban Shell
+HuntingHorn;002A;Zurogong Primo
+HuntingHorn;002B;Zurogong Secundo
+HuntingHorn;002C;Zurogong Tertio
+HuntingHorn;002D;Bariguiro
+HuntingHorn;002E;Algigurio
+HuntingHorn;002F;Frigiguiro
+HuntingHorn;0030;Brazengaita
+HuntingHorn;0031;Gigas Gaita
+HuntingHorn;0032;Archigigas Gaita
+HuntingHorn;0033;Droth Drone
+HuntingHorn;0034;Droth Drone+
+HuntingHorn;0035;Droth Roar
+HuntingHorn;0036;Black Coffin
+HuntingHorn;0037;Shadow Coffin
+HuntingHorn;0038;Darkest Coffin
+HuntingHorn;0039;Bloodstopper
+HuntingHorn;003A;Bloodcurtler
+HuntingHorn;003B;Bloodfreezer
+HuntingHorn;003C;Valkyrie Chordmaker
+HuntingHorn;003D;Valkyrie Chordmaker+
+HuntingHorn;003E;Queen's Chordmaker
+HuntingHorn;003F;Coral Chordmaker
+HuntingHorn;0040;Coral Chordmaker+
+HuntingHorn;0041;Gold Chordmaker
+HuntingHorn;0042;Lunar Chordmaker
+HuntingHorn;0043;Vicello Nulo
+HuntingHorn;0044;Vicello Unu
+HuntingHorn;0045;Vicello Nulo (W)
+HuntingHorn;0046;Vicello Unu (W)
+HuntingHorn;0047;Vicello Du (W)
+HuntingHorn;0048;Vicello Nulo (Y)
+HuntingHorn;0049;Vicello Unu (Y)
+HuntingHorn;004A;Vicello Du (Y)
+HuntingHorn;004B;Vicello Nulo (G)
+HuntingHorn;004C;Vicello Unu (G)
+HuntingHorn;004D;Vicello Du (G)
+HuntingHorn;004E;Vicello Trio (G)
+HuntingHorn;004F;Cindervone
+HuntingHorn;0050;Scaldrovone
+HuntingHorn;0051;Meltrovone
+HuntingHorn;0052;Magia Charm
+HuntingHorn;0053;Magia Chambell
+HuntingHorn;0054;Aria Rhota
+HuntingHorn;0055;Worn Horn
+HuntingHorn;0056;Weathered Horn
+HuntingHorn;0057;Avenir's Music Box
+HuntingHorn;0058;Eternal Music Box
+HuntingHorn;0059;Dios Bell
+HuntingHorn;005A;Dios Bell+
+HuntingHorn;005B;Demolition Chime
+HuntingHorn;005C;Timbral Demolisher
+HuntingHorn;005D;Lagia Horn
+HuntingHorn;005E;Lagia Horn+
+HuntingHorn;005F;Lagia Thunderpeal
+HuntingHorn;0060;Nether Flutte
+HuntingHorn;0061;Nether Simphony
+HuntingHorn;0062;Megiddo Mode
+HuntingHorn;0063;The Apocalypse
+HuntingHorn;0064;Voltage Verve
+HuntingHorn;0065;High Voltage Verve
+HuntingHorn;0066;Voltage Verve RARE 1 (No Design)
+HuntingHorn;0067;High Voltage Verve RARE 1 (With Design)
+HuntingHorn;0068;No Name RARE 1 (With Design)
+HuntingHorn;0069;
+HuntingHorn;006A;
+HuntingHorn;006B;
+HuntingHorn;006C;
+HuntingHorn;006D;
+HuntingHorn;006E;
+HuntingHorn;006F;
+HuntingHorn;0070;
+HuntingHorn;0071;
+HuntingHorn;0072;
+HuntingHorn;0073;
+HuntingHorn;0074;
+HuntingHorn;0075;
+HuntingHorn;0076;
+HuntingHorn;0077;
+HuntingHorn;0078;
+HuntingHorn;0079;
+HuntingHorn;007A;
+HuntingHorn;007B;
+HuntingHorn;007C;
+HuntingHorn;007D;
+HuntingHorn;007E; 
+HuntingHorn;007F;
+HuntingHorn;0080;
+HuntingHorn;0081;
+HuntingHorn;0082;
+HuntingHorn;0083;
+HuntingHorn;0084;
+HuntingHorn;0085;
+HuntingHorn;0086;
+HuntingHorn;0087;
+HuntingHorn;0088;
+HuntingHorn;0089;
+HuntingHorn;008A;
+HuntingHorn;008B;
+HuntingHorn;008C;
+HuntingHorn;008D;
+HuntingHorn;008E;
+HuntingHorn;008F;
+HuntingHorn;0090;
+HuntingHorn;0091;
+HuntingHorn;0092;
+HuntingHorn;0093;
+HuntingHorn;0094;
+HuntingHorn;0095;
+HuntingHorn;0096;
+HuntingHorn;0097;
+HuntingHorn;0098;
+HuntingHorn;0099;
+HuntingHorn;009A;
+HuntingHorn;009B;
+HuntingHorn;009C;
+HuntingHorn;009D;
+HuntingHorn;009E;
+HuntingHorn;009F;
+HuntingHorn;00A0;
+HuntingHorn;00A1;
+HuntingHorn;00A2;
+HuntingHorn;00A3;
+HuntingHorn;00A4;
+HuntingHorn;00A5;
+HuntingHorn;00A6;
+HuntingHorn;00A7;
+HuntingHorn;00A8;
+HuntingHorn;00A9;
+HuntingHorn;00AA;
+HuntingHorn;00AB;
+HuntingHorn;00AC;
+HuntingHorn;00AD;
+HuntingHorn;00AE;
+HuntingHorn;00AF;
+HuntingHorn;00B0;
+HuntingHorn;00B1;
+HuntingHorn;00B2;
+HuntingHorn;00B3;
+HuntingHorn;00B4;
+HuntingHorn;00B5;
+HuntingHorn;00B6;
+HuntingHorn;00B7;
+HuntingHorn;00B8;
+HuntingHorn;00B9;
+HuntingHorn;00BA;
+HuntingHorn;00BB;
+HuntingHorn;00BC;
+HuntingHorn;00BD;
+HuntingHorn;00BE;
+HuntingHorn;00BF;
+HuntingHorn;00C0;
+HuntingHorn;00C1;
+HuntingHorn;00C2;
+HuntingHorn;00C3;
+HuntingHorn;00C4;
+HuntingHorn;00C5;
+HuntingHorn;00C6;
+HuntingHorn;00C7;
+HuntingHorn;00C8;
+HuntingHorn;00C9;
+HuntingHorn;00CA;
+HuntingHorn;00CB;
+HuntingHorn;00CC;
+HuntingHorn;00CD;
+HuntingHorn;00CE;
+HuntingHorn;00CF;
+HuntingHorn;00D0;
+HuntingHorn;00D1;
+HuntingHorn;00D2;
+HuntingHorn;00D3;
+HuntingHorn;00D4;
+HuntingHorn;00D5;
+HuntingHorn;00D6;
+HuntingHorn;00D7;
+HuntingHorn;00D8;
+HuntingHorn;00D9;
+HuntingHorn;00DA;
+HuntingHorn;00DB;
+HuntingHorn;00DC;
+HuntingHorn;00DD;
+HuntingHorn;00DE;
+HuntingHorn;00DF;
+HuntingHorn;00E0;
+HuntingHorn;00E1;
+HuntingHorn;00E2;
+HuntingHorn;00E3;
+HuntingHorn;00E4;
+HuntingHorn;00E5;
+HuntingHorn;00E6;
+HuntingHorn;00E7;
+HuntingHorn;00E8;
+HuntingHorn;00E9;
+HuntingHorn;00EA;
+HuntingHorn;00EB;
+HuntingHorn;00EC;
+HuntingHorn;00ED;
+HuntingHorn;00EE;
+HuntingHorn;00EF;
+HuntingHorn;00F0;
+HuntingHorn;00F1;
+HuntingHorn;00F2;
+HuntingHorn;00F3;
+HuntingHorn;00F4;
+HuntingHorn;00F5;
+HuntingHorn;00F6;
+HuntingHorn;00F7;
+HuntingHorn;00F8;
+HuntingHorn;00F9;
+HuntingHorn;00FA;
+HuntingHorn;00FB;
+HuntingHorn;00FC;
+HuntingHorn;00FD;
+HuntingHorn;00FE;
+HuntingHorn;00FF;
+HuntingHorn;0100;
+HuntingHorn;0FFE;
+HuntingHorn;0FFF;
+HuntingHorn;1000;
+Items;0001;(None)
+Items;0002;Book of Combo 1
+Items;0003;Book of Combo 2
+Items;0004;Book of Combo 3
+Items;0005;Book of Combo 4
+Items;0006;Book of Combo 4
+Items;0007;Organizer Guide
+Items;0008;Pack Rat Guide
+Items;0009;Potion
+Items;000A;Mega Potion
+Items;000B;Nutrients
+Items;000C;Mega Nutrients
+Items;000D;Antidote
+Items;000E;Immunizer
+Items;000F;Dash Juice
+Items;0010;Mega Dash Juice
+Items;0011;Demondrug
+Items;0012;Mega Demondrug
+Items;0013;Might Pill
+Items;0014;Armorskin
+Items;0015;Mega Armorskin
+Items;0016;Adamant Pill
+Items;0017;Cool Drink
+Items;0018;Hot Drink
+Items;0019;Cleanser
+Items;001A;Psychoserum
+Items;001B;Herbal Medicine
+Items;001C;Max Potion
+Items;001D;Ancient Potion
+Items;001E;Catalyst
+Items;001F;Energy Drink
+Items;0020;Air Philter
+Items;0021;Mega Air Philter
+Items;0022;Gunpowder
+Items;0023;Lifecrystals
+Items;0024;Lifepowder
+Items;0025;Mystery Charm
+Items;0026;Shining Carm
+Items;0027;Timeworn Charm
+Items;0028;Enduring Charm
+Items;0029;Powercharm
+Items;002A;Powertalon
+Items;002B;Armorcharm
+Items;002C;Armortalon
+Items;002D;Tranquilizer
+Items;002E;Raw Meat
+Items;002F;Poisoned Meat
+Items;0030;Tinger Meat
+Items;0031;Drugged Meat
+Items;0032;Rare Steak
+Items;0033;Well-done Steak
+Items;0034;Burnt Meat
+Items;0035;Hot Meat
+Items;0036;Chilled Meat
+Items;0037;Pink Liver
+Items;0038;Ethnic Wyvrnmeat
+Items;0039;Boomerang
+Items;003A;Throwing Knife
+Items;003B;Poison Knife
+Items;003C;Sleep Knife
+Items;003D;Paralysis Knife
+Items;003E;Tranq Knife
+Items;003F;Bomb Casing
+Items;0040;Paintball
+Items;0041;Flash Bomb
+Items;0042;Sonic Bomb
+Items;0043;Dung
+Items;0044;Super-sized Dung
+Items;0045;Fertile Mud
+Items;0046;Dung Bomb
+Items;0047;Smoke Bomb
+Items;0048;Poison Smoke Bmb
+Items;0049;Farcaster
+Items;004A;Tranq Bomb
+Items;004B;Oxygen Supply
+Items;004C;Spider Web
+Items;004D;Net
+Items;004E;Trap Tool
+Items;004F;Pitfall Trap
+Items;0050;Shock Trap
+Items;0051;Small Barrel
+Items;0052;Large Barrel
+Items;0053;Barrel Bomb S
+Items;0054;Barrel Bomb S+
+Items;0055;Barrel Bomb L
+Items;0056;Barrel Bomb L+
+Items;0057;Bounce Bomb
+Items;0058;Bounce Bomb+
+Items;0059;Felvine Bomb
+Items;005A;Huskberry
+Items;005B;Bone Husk S
+Items;005C;Bone Husk L
+Items;005D;Normal S Lv1
+Items;005E;Normal S Lv2
+Items;005F;Normal S Lv3
+Items;0060;Pierce S Lv1
+Items;0061;Pierce S Lv2
+Items;0062;Pierce S Lv3
+Items;0063;Pellet S Lv1
+Items;0064;Pellet S Lv2
+Items;0065;Pellet S Lv3
+Items;0066;Crag S Lv1
+Items;0067;Crag S Lv2
+Items;0068;Crag S Lv3
+Items;0069;Clust S Lv1
+Items;006A;Clust S Lv2
+Items;006B;Clust S Lv3
+Items;006C;Flaming S
+Items;006D;Water S
+Items;006E;Thunder S
+Items;006F;Freeze S
+Items;0070;Dragon S
+Items;0071;Recov S Lv1
+Items;0072;Recov S Lv2
+Items;0073;Poison S Lv1
+Items;0074;Poison S Lv2
+Items;0075;Para S Lv1
+Items;0076;Para S Lv2
+Items;0077;Sleep S Lv1
+Items;0078;Sleep S Lv2
+Items;0079;Tranq S
+Items;007A;Paint S
+Items;007B;Demon S
+Items;007C;DUMMY 1
+Items;007D;Armor S
+Items;007E;DUMMY 2
+Items;007F;Sub S Lv1
+Items;0080;Sub S Lv2
+Items;0081;Exhaust S Lv1
+Items;0082;Exhaust S Lv2
+Items;0083;Slicing S
+Items;0084;DUMMY 3
+Items;0085;DUMMY 4
+Items;0086;WyvernFire
+Items;0087;UW Ballista Ammo
+Items;0088;(No Coating)
+Items;0089;Empty Phial
+Items;008A;Power Coating
+Items;008B;C.Range Coating
+Items;008C;Poison Coating
+Items;008D;Para Coating
+Items;008E;Sleep Coating
+Items;008F;Exhaust Coating
+Items;0090;Paint Coating
+Items;0091;DUMMY 5
+Items;0092;Worm
+Items;0093;DUMMY 6
+Items;0094;Mega Fishing Fly
+Items;0095;Frog
+Items;0096;Whetfish Bait
+Items;0097;Sushifish Bait
+Items;0098;Tuna Bait
+Items;0099;DUMMY 7
+Items;009A;Goldenfish Bait
+Items;009B;Burst Bait
+Items;009C;DUMMY 8
+Items;009D;Old Pickaxe
+Items;009E;Iron Pickaxe
+Items;009F;Mega Pickaxe
+Items;00A0;Old Bug Net
+Items;00A1;Bug Net
+Items;00A2;Mega Bug Net
+Items;00A3;Fishing Harpoon
+Items;00A4;Mega Harpoon
+Items;00A5;BBQ Spit
+Items;00A6;Double BBQ Spit
+Items;00A7;Whetstone
+Items;00A8;Binoculars
+Items;00A9;Garbage
+Items;00AA;Field Horn
+Items;00AB;Health Horn
+Items;00AC;Antidote Horn
+Items;00AD;Demon Horn
+Items;00AE;Armor Horn
+Items;00AF;Honey
+Items;00B0;Herb
+Items;00B1;Antidote Herb
+Items;00B2;Fire Herb
+Items;00B3;DUMMY 9
+Items;00B4;Ivy
+Items;00B5;Sleep Herb
+Items;00B6;Sap Plant
+Items;00B7;Felvine
+Items;00B8;Cactus Flower
+Items;00B9;Airweed
+Items;00BA;Hot Pepper
+Items;00BB;DUMMY 10
+Items;00BC;Blue Mushroom
+Items;00BD;Nitroshroom
+Items;00BE;Parashroom
+Items;00BF;Toadstool
+Items;00C0;Exciteshroom
+Items;00C1;DUMMY 11
+Items;00C2;Dragon Toadstool
+Items;00C3;Bindshroom
+Items;00C4;Paintberry
+Items;00C5;Might Seed
+Items;00C6;Adamant Seed
+Items;00C7;Dragonfell Berry
+Items;00C8;Scatternut
+Items;00C9;Needleberry
+Items;00CA;DUMMY 12
+Items;00CB;Bomberry
+Items;00CC;DUMMY 13
+Items;00CD;DUMMY 14
+Items;00CE;DUMMY 15
+Items;00CF;DUMMY 16
+Items;00D0;Nulberry
+Items;00D1;Bumblepumpkin
+Items;00D2;Broken Shell
+Items;00D3;Black Pearl
+Items;00D4;Jumbo Pearl
+Items;00D5;Stone
+Items;00D6;Iron Ore
+Items;00D7;Earth Crystal
+Items;00D8;Machalite Ore
+Items;00D9;Dragonite Ore
+Items;00DA;Pelagicite Ore
+Items;00DB;DUMMY 17
+Items;00DC;DUMMY 18
+Items;00DD;DUMMY 19
+Items;00DE;Carbalite Ore
+Items;00DF;Eltalite Ore
+Items;00E0;Fucium Ore
+Items;00E1;Meldspar Ore
+Items;00E2;Bathycite Ore
+Items;00E3;Lava Nugget
+Items;00E4;Firestone
+Items;00E5;Firecell Stone
+Items;00E6;Allfire Stone
+Items;00E7;Lightcrystal
+Items;00E8;Isisium
+Items;00E9;DUMMY 20
+Items;00EA;Gracium
+Items;00EB;Antiseptic Stone
+Items;00EC;Ice Crystal
+Items;00ED;Armor Stone
+Items;00EE;Armor Sphere
+Items;00EF;Armor Sphere+
+Items;00F0;Adv Armor Sphere
+Items;00F1;Hrd Armor Sphere
+Items;00F2;Hvy Armor Sphere
+Items;00F3;DUMMY 21
+Items;00F4;Tru Armor Sphere
+Items;00F5;Whetfish
+Items;00F6;Sushifish
+Items;00F7;Sleepyfish
+Items;00F8;Pin Tuna
+Items;00F9;Popfish
+Items;00FA;Scatterfish
+Items;00FB;Burst Arowana
+Items;00FC;Bomb Arowana
+Items;00FD;Glutton Tuna
+Items;00FE;Small Goldenfish
+Items;00FF;Wanchovy
+Items;0100;DUMMY 22
+Items;0101;Blue Cutthroat
+Items;0102;Humspun Conch
+Items;0103;DUMMY 23
+Items;0104;Insect Husk
+Items;0105;Yambug
+Items;0106;Bughopper
+Items;0107;DUMMY 215
+Items;0108;Stinkhopper
+Items;0109;Snakebee Larva
+Items;010A;GodBug
+Items;010B;Bitterbug
+Items;010C;Flashbug
+Items;010D;Thunderbug
+Items;010E;Fulgurbug
+Items;010F;Carpenterbug
+Items;0110;Killer Beetle
+Items;0111;Hercudrome
+Items;0112;DUMMY 24
+Items;0113;King Scarab
+Items;0114;Rare Scarab
+Items;0115;DUMMY 25
+Items;0116;Flutterfly
+Items;0117;DUMMY 26
+Items;0118;Bomb Sac
+Items;0119;Screamer
+Items;011A;Poison Sac
+Items;011B;Toxin Sac
+Items;011C;DUMMY 27
+Items;011D;Paralysis
+Items;011E;Omniplegia Sac
+Items;011F;Sleep Sac
+Items;0120;Coma Sac
+Items;0121;Flame Sac
+Items;0122;Inferno Sac
+Items;0123;Conflagrant Saac
+Items;0124;Aqua Sac
+Items;0125;Torrent Sac
+Items;0126;DUMMY 217
+Items;0127;Thunder Sac
+Items;0128;Lightning Sac
+Items;0129;Frost Sac
+Items;012A;Freezer Sac
+Items;012B;Dash Extract
+Items;012C;Pale Extract
+Items;012D;Monster Bone S
+Items;012E;Monster Bone M
+Items;012F;Monster Bone L
+Items;0130;Mystery Bone
+Items;0131;Unknown Skull
+Items;0132;Bone
+Items;0133;Avian Stoutbone
+Items;0134;DUMMY 218
+Items;0135;Monster Bone+
+Items;0136;Monster Keebone
+Items;0137;Monster Hardbone
+Items;0138;Monster Slogbone
+Items;0139;Avian Finebone
+Items;013A;Jumbo Bone
+Items;013B;Stoutbone
+Items;013C;Dragonbone Relic
+Items;013D;Wyvern Fang
+Items;013E;Wyvern Claw
+Items;013F;Wyvern Stone
+Items;0140;Lrg Wyvern Stone
+Items;0141;Bird Wyvern Gem
+Items;0142;Fey Wyvern Gem
+Items;0143;ElderDragonBlood
+Items;0144;DUMMY 28
+Items;0145;Azure Dragongem
+Items;0146;Azure Drgnsphire
+Items;0147;Beautiful Scale
+Items;0148;Shining Starfish
+Items;0149;Armorfish Morsel
+Items;014A;Fine pelt
+Items;014B;Power Paddle
+Items;014C;Curved Fang
+Items;014D;Dragonbone Piece
+Items;014E;Abalone Piece
+Items;014F;Fossil Piece
+Items;0150;Stunning Quill
+Items;0151;Saturnian
+Items;0152;Mystic Narwhal
+Items;0153;Perfect Paddle
+Items;0154;Moonlight Fang
+Items;0155;Glittering Scale
+Items;0156;Gaint Skull
+Items;0157;Atlantis Crab
+Items;0158;Queen Needle
+Items;0159;Ancient Skin Oil
+Items;015A;Flamboyant Quill
+Items;015B;Eldest Saturnian
+Items;015C;Queen's Spirit
+Items;015D;Vermillion Scale
+Items;015E;Sea-King's Scale
+Items;015F;Old Egg
+Items;0160;Saturnian Trap
+Items;0161;BugMaker! Pro
+Items;0162;Funky Pheromones
+Items;0163;Shroom Germ
+Items;0164;Shroom Germ+
+Items;0165;Bizzy Bees
+Items;0166;Fish Finder
+Items;0167;Treasure Tracker
+Items;0168;Spare Spear
+Items;0169;Pittance Fang
+Items;016A;Fortune Fang
+Items;016B;Gold Needle
+Items;016C;Wyverngold
+Items;016D;Pirate Booty
+Items;016E;Steel Egg
+Items;016F;Silver Egg
+Items;0170;Golden Egg
+Items;0171;Kelbi Horn Objet
+Items;0172;Twstd Horn Objet
+Items;0173;MohranFang Objet
+Items;0174;Poogie
+Items;0175;Eggie Poogie
+Items;0176;Rath Poogie
+Items;0177;Sandstone Plant
+Items;0178;Marshland Plant
+Items;0179;Snowflake Plant
+Items;017A;Prismshroom Lamp
+Items;017B;Qurupeco Lamp
+Items;017C;Sirensea Lamp
+Items;017D;Oceanic Fountain
+Items;017E;Bubbly Fountain
+Items;017F;Magma Fountain
+Items;0180;Iron Figure
+Items;0181;Machalite Figure
+Items;0182;Dragonite Figure
+Items;0183;Model Sandskiff
+Items;0184;Model Airship
+Items;0185;Model Poogieship
+Items;0186;Guildie (Red)
+Items;0187;Guildie (Green)
+Items;0188;Guildie (Blue)
+Items;0189;Great Poogi
+Items;018A;Incomplete Crown
+Items;018B;Crown's Gemstone
+Items;018C;Dazzling Crown
+Items;018D;Prize Gold Sword
+Items;018E;Golden Medallion
+Items;018F;Kelbi Horn
+Items;0190;Blue Kelbi Horn
+Items;0191;Warm Pelt
+Items;0192;High-qualty Pelt
+Items;0193;Gargwa Feather
+Items;0194;DUMMY 29
+Items;0195;DUMMY 30
+Items;0196;Anteka Antler
+Items;0197;DUMMY 31
+Items;0198;Bnahabra Shell
+Items;0199;DUMMY 32
+Items;019A;Bnaha Carapace
+Items;019B;Bnahabra Wing
+Items;019C;DUMMY 33
+Items;019D;Bnahabra Cutwing
+Items;019E;Bnahabra Spine
+Items;019F;Altaroth Jaw
+Items;01A0;DUMMY 34
+Items;01A1;Altaroth Stomach
+Items;01A2;Prized Stomach
+Items;01A3;Quality Sac
+Items;01A4;Bullfango Pelt
+Items;01A5;DUMMY 35
+Items;01A6;Bullfango Head
+Items;01A7;Monster Fluid
+Items;01A8;Monster Broth
+Items;01A9;Rhenoplos Shell
+Items;01AA;Rhenoplos Bone
+Items;01AB;Rhenoplos Scalp
+Items;01AC;DUMMY 36
+Items;01AD;Rheno Carapace
+Items;01AE;DUMMY 219
+Items;01AF;Slagtoth Hide+
+Items;01B0;DUMMY 37
+Items;01B1;Big Fin
+Items;01B2;DUMMY 38
+Items;01B3;Quality Fin
+Items;01B4;Giant Fin
+Items;01B5;Sharpend Fang
+Items;01B6;Velvety Hide
+Items;01B7;Sharqskin
+Items;01B8;Jaggi Scale
+Items;01B9;Jaggi Scale+
+Items;01BA;DUMMY 39
+Items;01BB;Jaggi Hide
+Items;01BC;DUMMY 40
+Items;01BD;DUMMY 41
+Items;01BE;Bird Wyvern Fang
+Items;01BF;G.Jaggi Hide
+Items;01C0;G.Jaggi Hide+
+Items;01C1;Great Jaggi Piel
+Items;01C2;G.Jaggi Claw
+Items;01C3;G.Jaggi Claw+
+Items;01C4;DUMMY 42
+Items;01C5;King's Frill
+Items;01C6;Imperial Frill
+Items;01C7;Great Jaggi Head
+Items;01C8;DUMMY 43
+Items;01C9;Baggi Hide
+Items;01CA;Baggi Scale
+Items;01CB;Baggi Scale+
+Items;01CC;DUMMY 44
+Items;01CD;G.Baggi Hide
+Items;01CE;G.Baggi Hide+
+Items;01CF;Great Baggi Piel
+Items;01D0;G.Baggi Claw
+Items;01D1;G.Baggi Claw+
+Items;01D2;DUMMY 45
+Items;01D3;King' Crest
+Items;01D4;Imperial Crest
+Items;01D5;Wroggi Scale
+Items;01D6;Wroggi Scale+
+Items;01D7;DUMMY 46
+Items;01D8;Wroggi Hide
+Items;01D9;Wroggi Fang
+Items;01DA;G.Wroggi Hide
+Items;01DB;G.Wroggi Piel
+Items;01DC;G.Wroggi Hide+
+Items;01DD;G.Wroggi Brace
+Items;01DE;DUMMY 47
+Items;01DF;G.Wroggi Brace+
+Items;01E0;King's Beak
+Items;01E1;Imperial Beak
+Items;01E2;Qurupeco Sacle
+Items;01E3;Qurupeco Scale+
+Items;01E4;Qurupeco Shard
+Items;01E5;Qurupeco Feather
+Items;01E6;Lustrous Feather
+Items;01E7;Qurupeco Wing
+Items;01E8;Peco Fellwing
+Items;01E9;Vivid Feather
+Items;01EA;Strange Beak
+Items;01EB;Wonderful Beak
+Items;01EC;Alluring Beak
+Items;01ED;Flintstone
+Items;01EE;Quality Flint
+Items;01EF;C.Peco Scale+
+Items;01F0;C.Peco Shard
+Items;01F1;C.Peco Wing
+Items;01F2;C.Peco Fellwing
+Items;01F3;Voltstone
+Items;01F4;High Voltstone
+Items;01F5;Hydro Hide
+Items;01F6;Hydro Hide+
+Items;01F7;DUMMY 48
+Items;01F8;Immature Songe
+Items;01F9;Quality Sponge
+Items;01FA;Spongy Hide
+Items;01FB;Spongy Hide+
+Items;01FC;Spongy Piel
+Items;01FD;R.Ludroth Scal
+Items;01FE;R.Ludroth Scal+
+Items;01FF;R.Ludroth Shard
+Items;0200;R.Ludroth Claw
+Items;0201;R.Ludroth Claw+
+Items;0202;R.Ludroth Talon
+Items;0203;R.Ludroth Crest
+Items;0204;R.Ludroth Crest+
+Items;0205;Chic Crest
+Items;0206;R.Ludroth Tail
+Items;0207;Plum Spongy Hide
+Items;0208;Plum Spongy Piel
+Items;0209;P.Ludroth Scale+
+Items;020A;P.Ludroth Shard
+Items;020B;P.Ludroth Claw+
+Items;020C;P.Ludroth Talon
+Items;020D;Barroth Shell
+Items;020E;Barroth Carapace
+Items;020F;Barroth Cortex
+Items;0210;Barroth Ridge
+Items;0211;Barroth Ridge+
+Items;0212;Barroth Chine
+Items;0213;Barroth Claw
+Items;0214;Barroth Claw+
+Items;0215;Barroth Talon
+Items;0216;Barroth Scalp
+Items;0217;Barroth Crown
+Items;0218;Barroth Tail
+Items;0219;J.Barr Carapace
+Items;021A;J.Barroth Cortex
+Items;021B;J.Barroth Ridge+
+Items;021C;J.Barroth Chine
+Items;021D;J.Barroth Claw+
+Items;021E;J.Barroth Talon
+Items;021F;J.Barroth Scalp
+Items;0220;J.Barroth Crown
+Items;0221;J.Barroth Tail
+Items;0222;J.Barroth Lash
+Items;0223;Frozen Glob
+Items;0224;DUMMY 49
+Items;0225;Gobul Hide
+Items;0226;Hobul Hide+
+Items;0227;Gobul Piel
+Items;0228;Gobul Fin
+Items;0229;Gobul Fin+
+Items;022A;Fine Gobul Fin
+Items;022B;Gobul Spike
+Items;022C;Gobul Skike+
+Items;022D;Gobul Surspike
+Items;022E;Gobul Whisker
+Items;022F;Gobul Kingwhisker
+Items;0230;Gobul Latern
+Items;0231;Gobul Latern+
+Items;0232;Gobul Beacon
+Items;0233;Rathian Scale
+Items;0234;Rathian Scale+
+Items;0235;Rathian Shard
+Items;0236;Rathian Shell
+Items;0237;Rathian Carapace
+Items;0238;Rathian Cortex
+Items;0239;Rathian Webbing
+Items;023A;Rathian Spike
+Items;023B;Rathian Spike+
+Items;023C;Rathian Surspike
+Items;023D;Rathian Plate
+Items;023E;Rathian Mantel
+Items;023F;Rahtian Ruby
+Items;0240;DUMMY 50
+Items;0241;P.Rathian Scale+
+Items;0242;P.Rathian Shard
+Items;0243;P.Rath Carapace
+Items;0244;P.Rathian Cortex
+Items;0245;G.Rathian Shard
+Items;0246;G.Rathian Cortex
+Items;0247;G.Rahtian Surspike
+Items;0248;Rathalos Scale
+Items;0249;Rathalos Scale+
+Items;024A;Rathalos Shard
+Items;024B;Rathalos Shell
+Items;024C;Rathalos Carapace
+Items;024D;Rathalos Cortex
+Items;024E;Rathalos Webbing
+Items;024F;Rahtalos Fellwing
+Items;0250;Rathalos Tail
+Items;0251;Rathalos Lash
+Items;0252;Rahtalos Plate
+Items;0253;Rathalos Mantel
+Items;0254;Rathalos Ruby
+Items;0255;Rathalos Talon
+Items;0256;Rath Ripper
+Items;0257;Rath Marrow
+Items;0258;Rath Medulla
+Items;0259;Rath Gleem
+Items;025A;A.Rath Scale+
+Items;025B;A.Rath Shard
+Items;025C;A.Rath Carapace
+Items;025D;A.Rath Cortex
+Items;025E;A.Rathalos Tail
+Items;025F;A.Rathalos Lash
+Items;0260;A.Rathalos Wing
+Items;0261;S.Rathalos Shard
+Items;0262;S.Rath Cortex
+Items;0263;S.Rathalos Lash
+Items;0264;DUMMY 215
+Items;0265;DUMMY 51
+Items;0266;DUMMY 52
+Items;0267;Gigginox Hide
+Items;0268;Gigginox Hide+
+Items;0269;Gigginox Piel
+Items;026A;Uncanny Hide
+Items;026B;Uncanny Hide+
+Items;026C;Gigginox Claw
+Items;026D;Gigginox Claw+
+Items;026E;Gigginox Talon
+Items;026F;DUMMY 53
+Items;0270;DUMMY 54
+Items;0271;Fearsome Maw
+Items;0272;Venom Gland
+Items;0273;Grim Venom Gland
+Items;0274;Foul Venom Gland
+Items;0275;B.Giggi Hide+
+Items;0276;B.Giggi Piel
+Items;0277;B.Giggi Claw+
+Items;0278;B.Giggi Talon
+Items;0279;Lagiacrus Scale
+Items;027A;Lagiacrus Scale+
+Items;027B;Lagiacrus Shard
+Items;027C;Shell Shocker
+Items;027D;Shell Shocker+
+Items;027E;Deathly Shocker
+Items;027F;Lagiacrus Hide
+Items;0280;Lagiacrus Hide+
+Items;0281;Lagiacrus Claw
+Items;0282;Lagiacrus Claw+
+Items;0283;Lagiacrus Talon
+Items;0284;Lagiacrus Tail
+Items;0285;Lagiacrus Flail
+Items;0286;Lagiacrus Horn
+Items;0287;Lagiacrus Horn+
+Items;0288;Lagia Sapphire
+Items;0289;Lagiacrus Mantel
+Items;028A;Lagiacrus Plate
+Items;028B;I.Lagi Scale+
+Items;028C;I.Lagi Shard
+Items;028D;I.Lagi Shocker+
+Items;028E;I.Lagi D-Shocker
+Items;028F;I.Lagi Hide+
+Items;0290;I.Lagi Piel
+Items;0291;DUMMY 55
+Items;0292;DUMMY 56
+Items;0293;DUMMY 57
+Items;0294;DUMMY 58
+Items;0295;I.Lagi Horn+
+Items;0296;I.Lagi Hardhorn
+Items;0297;DUMMY 59
+Items;0298;DUMMY 60
+Items;0299;DUMMY 61
+Items;029A;A.Lagi Shard
+Items;029B;A.Lagi D-Shocker
+Items;029C;A.Lagi Piel
+Items;029D;DUMMY 62
+Items;029E;DUMMY 63
+Items;029F;A.Lagi Hardhorn
+Items;02A0;A.Lagi Dynamo
+Items;02A1;Barioth Shell
+Items;02A2;Barioth Carapace
+Items;02A3;Barioth Cortex
+Items;02A4;Barioth Pelt
+Items;02A5;Barioth Pelt+
+Items;02A6;Barioth Fur
+Items;02A7;Barioth Claw
+Items;02A8;Barioth Claw+
+Items;02A9;Barioth Talon
+Items;02AA;Barioth Spike
+Items;02AB;DUMMY 64
+Items;02AC;Barioth Tail
+Items;02AD;Barioth Lash
+Items;02AE;Amber Tusks
+Items;02AF;Amber Tusks+
+Items;02B0;Hvy Amber Tusks
+Items;02B1;S.Bari Carapace
+Items;02B2;S.Barioth Cortex
+Items;02B3;S.Barioth Pelt+
+Items;02B4;S.Barioth Fur
+Items;02B5;S.Barioth Claw+
+Items;02B6;S.Barioth Talon
+Items;02B7;S.Barioth Tail
+Items;02B8;S.Barioth Lash
+Items;02B9;Indigo Tusks+
+Items;02BA;Hvy Indigo Tusks
+Items;02BB;Rugged PLeura
+Items;02BC;Rugged PLeura+
+Items;02BD;Diablos Shell
+Items;02BE;Diablos Carapace
+Items;02BF;Diablos Cortex
+Items;02C0;Diablos Ridge
+Items;02C1;Diablos Ridge+
+Items;02C2;Diablos Chine
+Items;02C3;Diablos Tailcase
+Items;02C4;DUMMY 65
+Items;02C5;Diablos Fang
+Items;02C6;Twiested Horn
+Items;02C7;Majestic Horn
+Items;02C8;Stout Horn
+Items;02C9;Diablos Marrow
+Items;02CA;Diablos Medulla
+Items;02CB;B.Diab Carapace
+Items;02CC;B.Diablos Cortex
+Items;02CD;B.Diablos Ridge+
+Items;02CE;B.Diablos Chine
+Items;02CF;DUMMY 66
+Items;02D0;DUMMY 67
+Items;02D1;Blackcurl Horn
+Items;02D2;Blackcurl Horn+
+Items;02D3;Uragaan Scale
+Items;02D4;Uragaan Scale+
+Items;02D5;Uragaan Shard
+Items;02D6;Uragaan Shell
+Items;02D7;Uragaan Carapace
+Items;02D8;Uragaan Cortex
+Items;02D9;Uragaan Jaw
+Items;02DA;Uragaan Jaw+
+Items;02DB;Uragaan Scute
+Items;02DC;Uragaan Scute+
+Items;02DD;Uragaan Marrow
+Items;02DE;Uragaan Ruby
+Items;02DF;Uragaan Pallium
+Items;02E0;S.Uragaan Scale+
+Items;02E1;S.Uragaan Shard
+Items;02E2;S.Urag Carapace
+Items;02E3;S.Uragaan Cortex
+Items;02E4;S.Uragaan Maw
+Items;02E5;S.Uragaan Jaw+
+Items;02E6;S.Uaraaan Scute
+Items;02E7;S.Uragaan Scute+
+Items;02E8;Uroktor Scale
+Items;02E9;Uroktor Scale+
+Items;02EA;Supple Piel
+Items;02EB;Agnaktor Scale
+Items;02EC;DUMMY 68
+Items;02ED;Agnaktor Shell
+Items;02EE;Agnk Carapace
+Items;02EF;Agnaktor Hide
+Items;02F0;Agnaktor Hide+
+Items;02F1;Agnaktor Piel
+Items;02F2;Agnaktor Claw
+Items;02F3;Agnaktor Claw+
+Items;02F4;Agnaktor Talon
+Items;02F5;Agnaktor Fin
+Items;02F6;Agnaktor Fin+
+Items;02F7;Fine Agnak Fin
+Items;02F8;Agnaktor Beak
+Items;02F9;DUMMY 69
+Items;02FA;Agnaktor Tail
+Items;02FB;DUMMY 70
+Items;02FC;Scalding Pleura+
+Items;02FD;Scorching Pleura
+Items;02FE;G.Agnak Carapace
+Items;02FF;G.Agnak Cortex
+Items;0300;G.Agnak Hide+
+Items;0301;G.Agnak Piel
+Items;0302;G.Agnak Claw+
+Items;0303;G.Agnak Talon
+Items;0304;G.Agnak Fin+
+Items;0305;Fine G.Agnak Fin
+Items;0306;G.Agnak Beak
+Items;0307;DUMMY 71
+Items;0308;G.Agnak Tail
+Items;0309;DUMMY 72
+Items;030A;Dewy PLeura+
+Items;030B;Drenched Pleura
+Items;030C;Ceadeus Scale
+Items;030D;Ceadeus Hide
+Items;030E;Ceadeus Fur
+Items;030F;Ceadues Tail
+Items;0310;Crooked Horn
+Items;0311;Luminous Organ
+Items;0312;Deep Dragongem
+Items;0313;G.Ceadeus Shard
+Items;0314;G.Ceudeus Coat
+Items;0315;G.Ceadeus Fur
+Items;0316;DUMMY 73
+Items;0317;Crooked Hardhorn
+Items;0318;DUMMY 74
+Items;0319;Dark Dragongem
+Items;031A;DUMMY 75
+Items;031B;Mohran Scale+
+Items;031C;DUMMY 76
+Items;031D;Mohran Carapace
+Items;031E;DUMMY 77
+Items;031F;Mohran Brace+
+Items;0320;DUMMY 209
+Items;0321;Sturdy Fang+
+Items;0322;Earth Dragongem
+Items;0323;DUMMY 78
+Items;0324;H.Jhen Shard
+Items;0325;DUMMY 79
+Items;0326;H.Jhen Rockskin
+Items;0327;DUMMY 80
+Items;0328;H.Jhen Allbrace
+Items;0329;DUMMY 81
+Items;032A;Deific Fang
+Items;032B;Earth Drgnsphire
+Items;032C;Deviljho Scale
+Items;032D;Deviljho Shard
+Items;032E;Deviljho Hide
+Items;032F;Deviljho Coat
+Items;0330;Deviljho Fang
+Items;0331;Vile Fang
+Items;0332;Deviljho Talon
+Items;0333;Deviljho Ripper
+Items;0334;Deviljho Scalp
+Items;0335;DUMMY 82
+Items;0336;Deviljho Tail
+Items;0337;Deviljho Flail
+Items;0338;Deviljho Saliva
+Items;0339;Black Blood
+Items;033A;Deviljho Gem
+Items;033B;Develjho Crook
+Items;033C;Alatreon Scute
+Items;033D;Alatreon Pallium
+Items;033E;Alatreon Plate
+Items;033F;Alatreon Mantel
+Items;0340;Alatreon Talon
+Items;0341;Alatreon Ripper
+Items;0342;Alatreon Webbing
+Items;0343;Aatreo Direwing
+Items;0344;Alatreon Tail
+Items;0345;Alatreo Diretail
+Items;0346;Brkn Skypiercer
+Items;0347;DUMMY 83
+Items;0348;Skypiercer
+Items;0349;Skyswayer
+Items;034A;Arzuros Pelt
+Items;034B;Arzuros Pelt+
+Items;034C;DUMMY 84
+Items;034D;Azuros Shell
+Items;034E;Arzuros Carapace
+Items;034F;Arzuros Cortex
+Items;0350;Arzuros Brace
+Items;0351;Arzuros Brace+
+Items;0352;Arzuros Allbrace
+Items;0353;Lagombi Pelt
+Items;0354;Lagombi Pelt+
+Items;0355;Lagombi Fur
+Items;0356;Lagombi Ear
+Items;0357;Lagombi Ear+
+Items;0358;Lagombi Auricle
+Items;0359;Lagom Plastron
+Items;035A;Lagom Plastron+
+Items;035B;DUMMY 85
+Items;035C;Lagombi Claw
+Items;035D;Lagombi Claw+
+Items;035E;DUMMY 86
+Items;035F;Volvidon Shell
+Items;0360;Voli Carapace
+Items;0361;Volvidon Cortex
+Items;0362;Volvidon Claw
+Items;0363;Volvidon Claw+
+Items;0364;Volvidon Talon
+Items;0365;Volvi Rickrack
+Items;0366;DUMMY 87
+Items;0367;Nibelsnarf Shell
+Items;0368;Nibel Carapace
+Items;0369;Nibel Cortex
+Items;036A;Nibelsnarf Hide
+Items;036B;Nibelsnarf Hide+
+Items;036C;Nibelsnarf Piel
+Items;036D;Nibelsnarf Claw
+Items;036E;Nibelsnarf Claw+
+Items;036F;Nibelsnarf Talon
+Items;0370;Nibelsnarf Scalp
+Items;0371;DUMMY 88
+Items;0372;Vivid Fluid
+Items;0373;Brilliant Fluid
+Items;0374;Dazzling Fluid
+Items;0375;DUMMY 89
+Items;0376;Zinogre Carapace
+Items;0377;Zinofre Cortex
+Items;0378;DUMMY 90
+Items;0379;Zinogre Shocker+
+Items;037A;Zin Electrofur+
+Items;037B;DUMMY 91
+Items;037C;Zinogre Horn+
+Items;037D;Zinogre Hardhorn
+Items;037E;DUMMY 92
+Items;037F;Zinogre Claw+
+Items;0380;Zingore Talon
+Items;0381;Zinogre Tail
+Items;0382;Zinogre Lash
+Items;0383;DUMMY 94
+Items;0384;Zin Electrofur
+Items;0385;Zin D-Shocker
+Items;0386;DUMMY 208
+Items;0387;Zinogre Jasper
+Items;0388;Zin Skymerald
+Items;0389;S.Zin Cortex
+Items;038A;S.Zin Dragonhair
+Items;038B;S.zin Hardhorn
+Items;038C;S.Zinogre Talon
+Items;038D;S.Zinogre Lash
+Items;038E;S.Zin Dragonshell
+Items;038F;S.Zin Skymerald
+Items;0390;Nargacuga Scale+
+Items;0391;Nargacuga Shard
+Items;0392;Nargacuga Mantel
+Items;0393;DUMMY 95
+Items;0394;Nargacuga Fur
+Items;0395;Nargacuga Tail
+Items;0396;Nargacuga Lash
+Items;0397;Narga Tailspike
+Items;0398;Narga Tailspear
+Items;0399;DUMMY 96
+Items;039A;Narga Razor+
+Items;039B;Nargacuga Fang+
+Items;039C;Hvy Narga Fang
+Items;039D;Narga Medulla
+Items;039E;DUMMY 97
+Items;039F;G.Narga Shard
+Items;03A0;DUMMY 98
+Items;03A1;G.Narga Dapples
+Items;03A2;DUMMY 99
+Items;03A3;G.Narga Razor+
+Items;03A4;DUMMY 100
+Items;03A5;Hvy G.Narga Fang
+Items;03A6;L.Narga Shard
+Items;03A7;L.Narga Dapples
+Items;03A8;L.Narga Razor
+Items;03A9;Hvy L.Narga Fang
+Items;03AA;Duramboros Shell
+Items;03AB;Duram Carapace
+Items;03AC;Duram Cortex
+Items;03AD;Duram Mossplate
+Items;03AE;Hard Mossplate
+Items;03AF;Heavy Mossplate
+Items;03B0;Duramboros Hump
+Items;03B1;Marbeld Hump
+Items;03B2;Duram Tailcase
+Items;03B3;Duram Tailcase+
+Items;03B4;Duram Hardtail
+Items;03B5;Duramboros Horn
+Items;03B6;Duramboros Horn+
+Items;03B7;Duram Hardhorn
+Items;03B8;Duram Tailbone
+Items;03B9;Duram Sacrum
+Items;03BA;Durambolite
+Items;03BB;R.Duram Shell
+Items;03BC;R.Duram Plate
+Items;03BD;DUMMY 101
+Items;03BE;R.Duram Hardtail
+Items;03BF;DUMMY 102
+Items;03C0;DUMMY 103
+Items;03C1;Lrg Lobstershell
+Items;03C2;DUMMY 105
+Items;03C3;Plesioth Fang+
+Items;03C4;Hvy Plesio Fang
+Items;03C5;Plesioth Scale+
+Items;03C6;Plesioth Shard
+Items;03C7;Plesioth Fin+
+Items;03C8;Fine Plesio Fin
+Items;03C9;DUMMY 105
+Items;03CA;G.Plesio Hard
+Items;03CB;DUMMY 107
+Items;03CC;Fine G.lesi Fin
+Items;03CD;Brach Carapace
+Items;03CE;Brach Cortex
+Items;03CF;Brach Ebonshell
+Items;03D0;Brach Ebenshell+
+Items;03D1;DUMMY 108
+Items;03D2;DUMMY 109
+Items;03D3;Brach Scalp
+Items;03D4;Brach Scalp+
+Items;03D5;Mystery Slime
+Items;03D6;Glowing Slime
+Items;03D7;Brach Pouder
+Items;03D8;Brach Pouder+
+Items;03D9;Brachydios Tail
+Items;03DA;DUMMY 110
+Items;03DB;Brachydios Gem
+Items;03DC;Brach Pallium
+Items;03DD;Miralis Scale
+Items;03DE;Miralis Fireback
+Items;03DF;Mirelis Fireclaw
+Items;03E0;DUMMY 111
+Items;03E1;DUMMY 112
+Items;03E2;Miralis Evil Eye
+Items;03E3;DUMMY 113
+Items;03E4;Miralis Hellwing
+Items;03E5;DUMMY 114
+Items;03E6;DUMMY 115
+Items;03E7;Miralis Smelter
+Items;03E8;Immortal Heart
+Items;03E9;DUMMY 116
+Items;03EA;Gushing Magma
+Items;03EB;Dire Dragongem
+Items;03EC;Rustshard
+Items;03ED;Ancient Shard
+Items;03EE;Rusted Fragment
+Items;03EF;Large Fragment
+Items;03F0;Slender Fragment
+Items;03F1;Long Fragment
+Items;03F2;Map
+Items;03F3;First-aid Med
+Items;03F4;Ration
+Items;03F5;DUMMY
+Items;03F6;Mini Whetstone
+Items;03F7;EZ Shock Trap
+Items;03F8;EZ Flash Bomb
+Items;03F9;EZ Sonic Bomb
+Items;03FA;EZ Max Potion
+Items;03FB;EZ Pitfall Trap
+Items;03FC;Mini Oxy Supply
+Items;03FD;EZ Barel Bomb L
+Items;03FE;Ballista Ammo
+Items;03FF;Ballista Binder
+Items;0400;DUMMY 117
+Items;0401;Cannon Ammo
+Items;0402;Anti-Dragon Bomb
+Items;0403;Torch
+Items;0404;Paw Pass Ticket
+Items;0405;Royal Honey
+Items;0406;Unique Mushroom
+Items;0407;Choice Mushroom
+Items;0408;Ripened Mushroom
+Items;0409;Great Shroom
+Items;040A;Super Sprout
+Items;040B;DUMMY 118
+Items;040C;DUMMY 119
+Items;040D;Sliverfish
+Items;040E;DUMMY 120
+Items;040F;DUMMY 121
+Items;0410;Goldenfish
+Items;0411;Royal Rhino
+Items;0412;Divine Rhino
+Items;0413;Sliver Cricket
+Items;0414;Gold Cricket
+Items;0415;Auristone Piece
+Items;0416;Auristone Chunk
+Items;0417;Balmstone Piece
+Items;0418;Balmstone Chunk
+Items;0419;Crystal Bone
+Items;041A;Golden Bone
+Items;041B;Bloodstone
+Items;041C;Deep Bloodstone
+Items;041D;Coal
+Items;041E;Volatile Coal
+Items;041F;Wyvern Egg
+Items;0420;Herbivore Egg
+Items;0421;Gargwa Egg
+Items;0422;Gold Gargwa Egg
+Items;0423;DUMMY 206
+Items;0424;Powderstone
+Items;0425;Gargwa Guano
+Items;0426;White Liver
+Items;0427;Slagtoth Oil
+Items;0428;Popo Tongue
+Items;0429;Secret Stash
+Items;042A;Round Acorn
+Items;042B;Fine Stomach
+Items;042C;Luminous Stomach
+Items;042D;Giggi Extract
+Items;042E;Monster Guts
+Items;042F;Red Coral Stone
+Items;0430;Wyvern Tear
+Items;0431;Lrg Wyvern Taer
+Items;0432;Beast Tear
+Items;0433;Lrg Beast Tear
+Items;0434;Bird Coin
+Items;0435;DUMMY 122
+Items;0436;DUMMY 123
+Items;0437;DUMMY 124
+Items;0438;DUMMY 125
+Items;0439;DUMMY 126
+Items;043A;DUMMY 127
+Items;043B;Leviathan Coin
+Items;043C;DUMMY 128
+Items;043D;DUMMY 129
+Items;043E;DUMMY 130
+Items;043F;DUMMY 131
+Items;0440;DUMMY 214
+Items;0441;Pinnacle Coin
+Items;0442;Hunter King Coin
+Items;0443;Voucher
+Items;0444;Gourmet Voucher
+Items;0445;Sharq Ticket
+Items;0446;DUMMY 132
+Items;0447;DUMMY 133
+Items;0448;Thunderclap Diploma
+Items;0449;DUMMY
+Items;044A;DUMMY
+Items;044B;DUMMY 134
+Items;044C;Shadowed Edge
+Items;044D;Medal Voucher L
+Items;044E;Lion's Claw
+Items;044F;Conqeror's Seal
+Items;0450;DUMMY 135
+Items;0451;Commendation
+Items;0452;DUMMY 146
+Items;0453;Pawprint Stamp
+Items;0454;Aquaglow Jewel
+Items;0455;Sunspire Jewel
+Items;0456;Bloodrun Jewel
+Items;0457;Lazurite Jewel
+Items;0458;Paralysis Jwl 1
+Items;0459;Paralysis Jwl 2
+Items;045A;Pep Jewel 1
+Items;045B;Pep Jewel 2
+Items;045C;Steadfast Jwl 1
+Items;045D;Standfast Jwl 1
+Items;045E;Antidote Jewel 1
+Items;045F;Antidote Jewel 2
+Items;0460;Tracker Jewel 1
+Items;0461;Trekker Jewel 1
+Items;0462;Ninja Jewel 1
+Items;0463;Vitality Jewel 1
+Items;0464;Recovery Jewel 1
+Items;0465;Recovery Jewel 2
+Items;0466;Razor Jewel 1
+Items;0467;Razor Jewel 3
+Items;0468;Handicraft Jwl 2
+Items;0469;Handicraft Jwl 3
+Items;046A;Fencer Jewel 1
+Items;046B;Fencer Jewel 3
+Items;046C;Expert Jewel 1
+Items;046D;Expert Jewel 2
+Items;046E;Expert Jewel 3
+Items;046F;Grinder Jewel 1
+Items;0470;Ironwall Jewel 1
+Items;0471;Ironwall Jewel 2
+Items;0472;Shield Jewel 1
+Items;0473;Shield Jewel 2
+Items;0474;Quickload Jwl 1
+Items;0475;Quickload Jwl 2
+Items;0476;Absorber Jewel 1
+Items;0477;Absoerber Jewel 3
+Items;0478;Forceshot Jwl 1
+Items;0479;Forceshot Jwl 3
+Items;047A;Pierce Jewel 1
+Items;047B;Pierce Jewel 3
+Items;047C;Pellet Jewel 1
+Items;047D;Pellet Jewel 3
+Items;047E;ShotPlus Jewel 1
+Items;047F;ShotPlus Jewel 2
+Items;0480;PiercePluss Jwl 1
+Items;0481;DUMMY 137
+Items;0482;PelletPlus Jwl 1
+Items;0483;CragPlus Jewel 1
+Items;0484;ClustPlus Jwl 1
+Items;0485;Disabler Jewel 1
+Items;0486;Disabler Jewel 2
+Items;0487;Element Jewel 1
+Items;0488;Element Jewel 3
+Items;0489;Bombardier Jwl 1
+Items;048A;DUMMY 138
+Items;048B;Hungerless Jwl 1
+Items;048C;Metabolism Jwl 1
+Items;048D;Attack Jewel 1
+Items;048E;Attack Jewel 2
+Items;048F;Attack Jewel 3
+Items;0490;Defense Jewel 1
+Items;0491;Defense Jewel 2
+Items;0492;Protection Jwl 1
+Items;0493;Asylum 1
+Items;0494;Earplug Jewel 1
+Items;0495;Earplug Jewel 3
+Items;0496;Alarm Jewel 1
+Items;0497;Friendship Jwl 1
+Items;0498;Friendship Jwl 2
+Items;0499;Transportr Jwl 1
+Items;049A;Fire Res Jewel 1
+Items;049B;Water Res Jwl 1
+Items;049C;Ice Res Jewel 1
+Items;049D;ThunderRes Jwl 1
+Items;049E;Dragon Res Jwl 1
+Items;049F;Heat Res Jewel 1
+Items;04A0;Cold Res Jewel 1
+Items;04A1;Wind Res Jewel 1
+Items;04A2;Wind Res Jewel 2
+Items;04A3;DUMMY 139
+Items;04A4;Gathering Jwl 1
+Items;04A5;Spree Jewel 1
+Items;04A6;Blessing Jewel 1
+Items;04A7;Fate Jewel 1
+Items;04A8;Fate Jewel 3
+Items;04A9;DUMMY 140
+Items;04AA;Psychic Jewel 1
+Items;04AB;Medicine Jewel 1
+Items;04AC;Medicine Jewel 2
+Items;04AD;Professor Jewel 1
+Items;04AE;Factory Jewel 1
+Items;04AF;Evasion Jewel 1
+Items;04B0;Evasion Jewel 2
+Items;04B1;Potential Jwl 1
+Items;04B2;Potential Jwl 2
+Items;04B3;Enduring Jewel 1
+Items;04B4;Sprinter Jewel 1
+Items;04B5;Sprinter Jewel 3
+Items;04B6;Capacity Jewel 2
+Items;04B7;Capacity Jewel 3
+Items;04B8;Sniper Jewel 1
+Items;04B9;Gobbler Jewel 1
+Items;04BA;Gobbler Jewel 3
+Items;04BB;Carver Jewel 1
+Items;04BC;Carver Jewel 3
+Items;04BD;Footing Jewel 1
+Items;04BE;Tectonic Jewel 1
+Items;04BF;DUMMY 141
+Items;04C0;Jumping Jewel 1
+Items;04C1;DUMMY 142
+Items;04C2;Draw Jewel 1
+Items;04C3;Draw Jewel 2
+Items;04C4;Trapmaster Jwl 1
+Items;04C5;Physique Jewel 1
+Items;04C6;Physique Jewel 2
+Items;04C7;Capture Jewel 1
+Items;04C8;Capture Jewel 3
+Items;04C9;Perception Jwl 1
+Items;04CA;Charger Jewel 1
+Items;04CB;Charger Jewel 3
+Items;04CC;Fresh Air Jwl 1
+Items;04CD;Stopflow Jewel 1
+Items;04CE;Swimmer Jewel 1
+Items;04CF;Diver Jewel 1
+Items;04D0;Gambit Jewel 1
+Items;04D1;Gambit Jewel 3
+Items;04D2;Resitor Jewel 1
+Items;04D3;Release Jewel 2
+Items;04D4;Catalyst Jewel 3
+Items;04D5;Fortitude Jwl 1
+Items;04D6;Fortitude Jwl 2
+Items;04D7;Salvo Jewel 1
+Items;04D8;Salvo Jewel 3
+Items;04D9;Dungmaster Jwl 1
+Items;04DA;Torchlight Jwl 1
+Items;04DB;(No Mask)
+Items;04DC;BBQ With Mask
+Items;04DD;Sharpen w/Mask
+Items;04DE;Return Via Mask
+Items;04DF;Slime S
+Items;04E0;DUMMY 143
+Items;04E1;Flying Wyverns Vol 1
+Items;04E2;Flying Wyverns Vol 2
+Items;04E3;Flying Wyverns Vol 3
+Items;04E4;Bird Wyverns Vol 1
+Items;04E5;Bird Wyverns Vol 2
+Items;04E6;Brute Wyverns Vol 1
+Items;04E7;Brute Wyverns Vol 2
+Items;04E8;Brute Wyverns VOl 3
+Items;04E9;Leviathans Vol 1
+Items;04EA;Leviathans Vol 2
+Items;04EB;Leviathans Vol 3
+Items;04EC;Fanged Wyverns Vol 1
+Items;04ED;Fanged Wyverns Vol 2
+Items;04EE;Fanged Beasts
+Items;04EF;Invalid Message
+Items;04F0;Piscine Wyverns
+Items;04F1;Elder Dragons Vol 1
+Items;04F2;Elder Dragons Vol 2
+Items;04F3;Elder Dragons Vol 3
+Items;04F4;Lynians
+Items;04F5;Neopteron
+Items;04F6;Herbivores Vol 1
+Items;04F7;Herbivores Vol 2
+Items;04F8;Deviljho
+Items;04F9;Brachydios
+Items;04FA;Dire Miralis
+Items;04FB;Plesioth Vol 1
+Items;04FC;Plesioth Vol 2
+Items;04FD;Deadorant
+Items;04FE;Emperor Jopper
+Items;04FF;Elder Dragonbone
+Items;0500;DUMMY 145
+Items;0501;Purecrystak
+Items;0502;Admant Orb
+Items;0503;Lagiacrus Piel
+Items;0504;DUMMY 146
+Items;0505;Nightmarish Maw
+Items;0506;DUMMY 147
+Items;0507;DUMMY 148
+Items;0508;DUMMY 149
+Items;0509;Slime Coating
+Items;050A;DUMMY 150
+Items;050B;Blossom Cricket
+Items;050C;L.Narg Tailspear
+Items;050D;DUMMY 151
+Items;050E;G.Narg Tailspear
+Items;050F;DUMMY 152
+Items;0510;Agnaktor Cortex
+Items;0511;Revolting Piel
+Items;0512;Cryo Sac
+Items;0513;Flood Sac
+Items;0514;Monster Essence
+Items;0515;DUMMY 153
+Items;0516;Massive Bone
+Items;0517;DUMMY 154
+Items;0518;Prized Pelt
+Items;0519;DUMMY 155
+Items;051A;DUMMY 156
+Items;051B;Speartuna
+Items;051C;Nargacuga Pelt+
+Items;051D;Narga Razor
+Items;051E;VE Ticket
+Items;051F;VE Deluxe Ticket
+Items;0520;VE Bronze Ticket
+Items;0521;VE Sliver Ticket
+Items;0522;VE Golden Ticket
+Items;0523;VE Cosmic Ticket
+Items;0524;DUMMY 157
+Items;0525;DUMMY 158
+Items;0526;Maiden Butterfly
+Items;0527;DUMMY 159
+Items;0528;DUMMY 160
+Items;0529;DUMMY 161
+Items;052A;DUMMY 162
+Items;052B;DUMMY 163
+Items;052C;Chum-Chum Ticket
+Items;052D;DUMMY 164
+Items;052E;Lagia Hardhorn
+Items;052F;DUMMY 165
+Items;0530;DUMMY 166
+Items;0531;DUMMY 167
+Items;0532;Heftcorn
+Items;0533;DUMMY 210
+Items;0534;DUMMY 212
+Items;0535;Bullfango Tusk
+Items;0536;DUMMY 168
+Items;0537;DUMMY 169
+Items;0538;DUMMY 170
+Items;0539;Butterfly Beetle
+Items;053A;DUMMY 171
+Items;053B;DUMMY 172
+Items;053C;Diablos Hardtail
+Items;053D;Barroth Lash
+Items;053E;DUMMY 173
+Items;053F;DUMMY 174
+Items;0540;DUMMY 175
+Items;0541;Scalding PLeura
+Items;0542;DUMMY 176
+Items;0543;Crested Crown
+Items;0544;Ryal Crest
+Items;0545;Realmless Crown
+Items;0546;Giant Fossil
+Items;0547;DUMMY 177
+Items;0548;R.Ludroth Lash
+Items;0549;Mohran Shard
+Items;054A;Mohran Rockskin
+Items;054B;Mohran Allbrace
+Items;054C;Rathalos Wing
+Items;054D;Pesioth Webbing
+Items;054E;Hrd Ples Webbing
+Items;054F;Fish
+Items;0550;DUMMY 178
+Items;0551;DUMMY 179
+Items;0552;Small Golden Egg
+Items;0553;Bronze Coin
+Items;0554;Silver Coin
+Items;0555;Gold Coin
+Items;0556;Sparkiy Fragment
+Items;0557;Plesioth Head
+Items;0558;Uber Plesio Head
+Items;0559;Beast Coin
+Items;055A;Flying Coin
+Items;055B;Piscine Coin
+Items;055C;Brute Coin
+Items;055D;Port Gal (Red)
+Items;055E;Port Gal (Blue)
+Items;055F;Port Gal (Green)
+Items;0560;Port Gal (White)
+Items;0561;Slickaxe
+Items;0562;Mooncatcher Fang
+Items;0563;Glossy Scale
+Items;0564;DUMMY 180
+Items;0565;DUMMY 181
+Items;0566;DUMMY 182
+Items;0567;DUMMY 183
+Items;0568;DUMMY 184
+Items;0569;DUMMY 185
+Items;056A;DUMMY 186
+Items;056B;DUMMY 187
+Items;056C;DUMMY 188
+Items;056D;DUMMY 189
+Items;056E;DUMMY 190
+Items;056F;DUMMY 191
+Items;0570;Thick Skull
+Items;0571;Sarvory Bear Paw
+Items;0572;Peco Pipes
+Items;0573;Billowy Mane
+Items;0574;Volvidon Tongue
+Items;0575;Quality Mud Pack
+Items;0576;DUMMY 192
+Items;0577;DUMMY 193
+Items;0578;Rathian Loin
+Items;0579;Tender Liver
+Items;057A;P.Rathian Loin
+Items;057B;Supersized Scale
+Items;057C;Rathalos Ribs
+Items;057D;Prime Plesioth
+Items;057E;Diablos Heart
+Items;057F;Bag of Zs
+Items;0580;Large Obsidian
+Items;0581;Duram Truffle
+Items;0582;DUMMY 194
+Items;0583;Zinogre Head
+Items;0584;DUMMY 195
+Items;0585;Nargacuga Eye
+Items;0586;Celestial Scale
+Items;0587;Alabaster Scale
+Items;0588;Worldeater Belly
+Items;0589;DUMMY 196
+Items;058A;DUMMY 197
+Items;058B;DUMMY 198
+Items;058C;DUMMY 199
+Items;058D;DUMMY 200
+Items;058E;DUMMY 201
+Items;058F;DUMMY 202
+Items;0590;DUMMY 203
+Items;0591;DUMMY 204
+Items;0592;DUMMY 205
+Items;0593;Exquisite Meat
+Items;0594;DUMMY
+Items;0595;Top Secret Formula
+Items;0596;Flashbolt Diploma
+Items;0597;DUMMY 207
+Items;0598;DUMMY
+Items;0599;Captain's IOU
+Items;059A;Hades's Skull
+Items;059B;DUMMY
+Items;059C;Crown of Glory
+Items;059D;DUMMY
+Items;059E;DUMMY
+Items;059F;Medal Voucher G
+Items;05A0;Far East Sword
+Items;05A1;DUMMY
+Items;05A2;DUMMY
+Items;05A3;Miniature Ticket
+Items;05A4;Fierce Soul
+Items;05A5;DUMMY 220
+Items;05A6;Flying Wyverns Vol 4
+Items;05A7;Flying Wyverns Vol 5
+Items;05A8;Def Lock Jewel 1
+Items;05A9;Sterile Jewel 1
+Items;05AA;Aseptic Juwel 1
+Items;05AB;Blaze Jewel 1
+Items;05AC;Blaze Jewel 2
+Items;05AD;Stream Jewel 1
+Items;05AE;Stream Jewel 2
+Items;05AF;Bolt Jewel 1
+Items;05B0;Bolt Jewel 2
+Items;05B1;Frost Jewel 1
+Items;05B2;Frost Jewel 2
+Items;05B3;Dragon Jewel 1
+Items;05B4;Dragon Jewel 2
+Items;05B5;Tenderizer Jwl 1
+Items;05B6;Tenderizer Jwl 3
+Items;05B7;Destroyer Jwl 1
+Items;05B8;Destroyer Jwl 3
+Items;05B9;Throttle Jewel 1
+Items;05BA;Throttle Jewel 2
+Items;05BB;KO Jewel 1
+Items;05BC;Drain Jewel 1
+Items;05BD;Drain Jewel 2
+Items;05BE;Sonorous Jewel 1
+Items;05BF;Artillery Jwl 1
+Items;05C0;Resistor Jewel 3
+Items;05C1;Nul-Fire Jewel 1
+Items;05C2;Nul-Water Jwl 1
+Items;05C3;Nul-Thundr Jwl 1
+Items;05C4;Nul-Ice Jewel 1
+Items;05C5;Nul-Dragon Jwl 1
+Items;05C6;Sheath Jewel 1
+Items;05C7;Steath Jewel 2
+Items;05C8;Refresh Jewel 1
+Items;05C9;Refresh Jewel 2
+Items;05CA;Ranger Jewel 1
+Items;05CB;SlicePlus Jwl 1
+Items;05CC;Paracoat Jewel 1
+Items;05CD;Paracoat Jewel 2
+Items;05CE;Sleepcoat Jwl 1
+Items;05CF;Poisoncoat Jwl 1
+Items;05D0;Powercoat Jwl 1
+Items;05D1;Powercoat Jwl 2
+Items;05D2;Rangecoat Jwl 1
+Items;05D3;Draincoat Jwl 1
+Items;05D4;Stopflow Jewel 2
+Items;05D5;Guts Jewel 1
+Items;05D6;Guts Jewel 2
+Items;05D7;Meateater Jwl 1
+Items;05D8;Meatlover Jwl 1
+Items;05D9;Slider Jewel 1
+Items;05DA;Glider Jewel 1
+Items;05DB;Honeybee Jewel 1
+Items;05DC;Queenbee Jewel 1
+Items;05DD;Biology Jewel 1
+Items;05DE;Microbio Jewel 1
+Items;05DF;Spirit Jewel 1
+Items;05E0;Spirit Jewel 2
+Items;05E1;Flawless Jewel 1
+Items;05E2;Flawless Jewel 2
+Items;05E3;Steady Jewel 1
+Items;05E4;Steady Jewel 3
+Items;05E5;Fish Jewel 1
+Items;05E6;Fish Jewel 2
+Items;05E7;Player Jewel 1
+Items;05E8;Morale Jewel 1
+Items;05E9;Leader Jewel 1
+Items;05EA;Leader Jewel 2
+Items;05EB;Dust of Life
+Items;05EC;KO Jewel 2
+Items;05ED;Diablos Hardhorn
+Items;05EE;Ghostly Quartz
+Items;05EF;Crushing Fang
+Items;05F0;Cloudy Moonshard
+Items;05F1;Bulky Pelt
+Items;05F2;Excellent Fang
+Items;05F3;Fish with Mask
+Items;05F4;Gloamgrass Bud
+Items;05F5;Platinum Needle
+Items;05F6;Goldmine Fang
+Items;05F7;Wyverngold Lore
+Items;05F8;Charmer Jewel 1
+Items;05F9;Dracophage Bug
+Items;05FA;Tanzia Chips
+Items;05FB;SlimePlus Jwl 1
+Items;05FC;Slimecoat Jwl 1Lance;0000;None
+Lance;0001;Iron Lance
+Lance;0002;Iron Lance+
+Lance;0003;Thane Lance
+Lance;0004;Thane Lance+
+Lance;0005;Knight Lance
+Lance;0006;Rampart
+Lance;0007;Rampart+
+Lance;0008;Babel Spear
+Lance;0009;Elder Babel Spear
+Lance;000A;Lost Babel
+Lance;000B;Drill Lance
+Lance;000C;Megadrill Lance
+Lance;000D;Gigadrill Lance
+Lance;000E;Red Tail
+Lance;000F;Hellfire
+Lance;0010;Spear of Prominence
+Lance;0011;Red Prominence
+Lance;0012;Silver Prominence
+Lance;0013;Sol Prominence
+Lance;0014;Blue Tail
+Lance;0015;Blue Prominence
+Lance;0016;Soul of Prominence
+Lance;0017;Tusk Lance
+Lance;0018;Tusk Lance+
+Lance;0019;Sabertooth
+Lance;001A;Sheira Stolrata
+Lance;001B;Shiera Vitalica
+Lance;001C;Azure Crest
+Lance;001D;Azure Crest+
+Lance;001E;Great Azure
+Lance;001F;Bandera Azul
+Lance;0020;Aqua Spear
+Lance;0021;Aqua Spear+
+Lance;0022;Stream Spear
+Lance;0023;Emerald Spear
+Lance;0024;Esmeralda's Tide
+Lance;0025;Rockabye Spear
+Lance;0026;Requieù Spear
+Lance;0027;Acrus Lance
+Lance;0028;Acrus Lance+
+Lance;0029;High Acrus Lance
+Lance;002A;Doris Spear
+Lance;002B;Amphitrite
+Lance;002C;Neo Acrus Lance
+Lance;002D;Gaius Whitebolt
+Lance;002E;Nether Warlance
+Lance;002F;Nether Terracontier
+Lance;0030;Boros Spear
+Lance;0031;Boros Spear+
+Lance;0032;Temblor Illboros
+Lance;0033;Giga Sassoboros
+Lance;0034;Tremblor Granboros
+Lance;0035;Shadow Javelin
+Lance;0036;Shadow Javelin+
+Lance;0037;Toxic Javelin
+Lance;0038;Iron Noxnymph
+Lance;0039;Luinox the Thirsty
+Lance;003A;Hidden Stinger
+Lance;003B;Night Rains Black
+Lance;003C;Avidya Lance
+Lance;003D;Eclipse Lance
+Lance;003E;Dubhe's Asterism
+Lance;003F;Bone Lance
+Lance;0040;Bone Lance+
+Lance;0041;Longhorn Spear
+Lance;0042;Longhorn Spear+
+Lance;0043;Longtusk Spear
+Lance;0044;Ploshasta
+Lance;0045;Rhenohasta
+Lance;0046;Diablos Lance
+Lance;0047;Diablos Spear
+Lance;0048;Cera Creos
+Lance;0049;Black Tempest
+Lance;004A;Black Tempest+
+Lance;004B;Rising Tempest
+Lance;004C;Gobulu Muruka
+Lance;004D;Gobulu Muruka+
+Lance;004E;Gobulaluku Muraaka
+Lance;004F;Gobulaluku Bosca
+Lance;0050;Gobulaluku Aquir
+Lance;0051;Rugged Lance
+Lance;0052;Rugged Lance+
+Lance;0053;Barroth Carver
+Lance;0054;Crusher Lance
+Lance;0055;Bordenshiold's Ice
+Lance;0056;Arktika's Ice
+Lance;0057;Usurper's Coming
+Lance;0058;Despot's Cacophony
+Lance;0059;Oppressor's Genesis
+Lance;005A;Brimstren Draketail
+Lance;005B;Stygian Ira
+Lance;005C;Spiral Heat
+Lance;005D;Agnaktor Firelance
+Lance;005E;Vaskignator
+Lance;005F;Spiral Water
+Lance;0060;Agnaktor Aqualance
+Lance;0061;Varunagnaktor
+Lance;0062;Ludroth Bone Spear
+Lance;0063;Spiral Lance
+Lance;0064;Spiral Lance+
+Lance;0065;Spiral Splash
+Lance;0066;Ceadeus Horn
+Lance;0067;Great Ceadeus Horn
+Lance;0068;Fathom Arcana
+Lance;0069;Exia Lordlance
+Lance;006A;Bella Nocuus
+Lance;006B;Bel Nefastro
+Lance;006C;Bel Nefastro+
+Lance;006D;Wild Boar Lance
+Lance;006E;Wild Boar Lance+
+Lance;006F;Bulldrome Spear
+Lance;0070;Dios Stinger
+Lance;0071;Dios Stinger+
+Lance;0072;Demolition Lance
+Lance;0073;Albrach Demolisher
+Lance;0074;Gried Lance
+Lance;0075;Fiendish Tower
+Lance;0076;Nero's Atrocity
+Lance;0077;Blue Crater
+Lance;0078;Smalt Crater
+Lance;0079;Doom Crown
+Lance;007A;Eterno Crown
+Lance;007B;Aidion Crown
+Lance;007C;Rusted Lnace
+Lance;007D;Tarnished Lance
+Lance;007E;Undertaker
+Lance;007F;High Undertaker
+Lance;0080;Neo Undertaker
+Lance;0081;Worn Spear
+Lance;0082;Weathered Spear
+Lance;0083;Skyscraper
+Lance;0084;Skysunderer
+Lance;0085;Plegis Needle
+Lance;0086;Plegis Needle+
+Lance;0087;Mighty Plegis
+Lance;0088;Sharq Byte
+Lance;0089;Sharq Attaq
+Lance;008A;Sharq Assawlt
+Lance;008B;Megiddo Spire
+Lance;008C;The Immaelestrom
+Lance;008D;Alatreon Lance
+Lance;008E;Alatreon Gleam
+Lance;008F;Altheos Gloralis
+Lance;0090;ML001: Baltzenger
+Lance;0091;Banderlance "Byakko"
+Lance;0092;ML001: Baltzenger RARE 4 (No Design)
+Lance;0093;Banderlance 'Byakko" RARE 4 (No Design)
+Lance;0094;No Name RARE 4 (No Design)
+Lance;0095;
+Lance;0096;
+Lance;0097;
+Lance;0098;
+Lance;0099;
+Lance;009A;
+Lance;009B;
+Lance;009C;
+Lance;009D;
+Lance;009E;
+Lance;009F;
+Lance;00A0;
+Lance;00A1;
+Lance;00A2;
+Lance;00A3;
+Lance;00A4;
+Lance;00A5;
+Lance;00A6;
+Lance;00A7;
+Lance;00A8;
+Lance;00A9;
+Lance;00AA;
+Lance;00AB;
+Lance;00AC;
+Lance;00AD;
+Lance;00AE;
+Lance;00AF;
+Lance;00B0;
+Lance;00B1;
+Lance;00B2;
+Lance;00B3;
+Lance;00B4;
+Lance;00B5;
+Lance;00B6;
+Lance;00B7;
+Lance;00B8;
+Lance;00B9;
+Lance;00BA;
+Lance;00BB;
+Lance;00BC;
+Lance;00BD;
+Lance;00BE;
+Lance;00BF;
+Lance;00C0;
+Lance;00C1;
+Lance;00C2;
+Lance;00C3;
+Lance;00C4;
+Lance;00C5;
+Lance;00C6;
+Lance;00C7;
+Lance;00C8;
+Lance;00C9;
+Lance;00CA;
+Lance;00CB;
+Lance;00CC;
+Lance;00CD;
+Lance;00CE;
+Lance;00CF;
+Lance;00D0;
+Lance;00D1;
+Lance;00D2;
+Lance;00D3;
+Lance;00D4;
+Lance;00D5;
+Lance;00D6;
+Lance;00D7;
+Lance;00D8;
+Lance;00D9;
+Lance;00DA;
+Lance;00DB;
+Lance;00DC;
+Lance;00DD;
+Lance;00DE;
+Lance;00DF;
+Lance;00E0;
+Lance;00E1;
+Lance;00E2;
+Lance;00E3;
+Lance;00E4;
+Lance;00E5;
+Lance;00E6;
+Lance;00E7;
+Lance;00E8;
+Lance;00E9;
+Lance;00EA;
+Lance;00EB;
+Lance;00EC;
+Lance;00ED;
+Lance;00EE;
+Lance;00EF;
+Lance;00F0;
+Lance;00F1;
+Lance;00F2;
+Lance;0000F3;
+Lance;00F4;
+Lance;00F5;
+Lance;00F6;
+Lance;00F7;
+Lance;00F8;
+Lance;00F9;
+Lance;00FA;
+Lance;00FB;
+Lance;00FC;
+Lance;00FD;
+Lance;00FE;
+Lance;00FF;
+Lance;0100;
+Lance;0FFE;No Name RARE 1 (No Desgin)
+Lance;0FFF;No Name RARE 3 (No Design)
+Lance;1000;No Name RARE 1 (Weird Desgin)
+Legs;0001;Leather Pants
+Legs;0002;Piscine Breeches
+Legs;0003;Chainmail Pants
+Legs;0004;Loc Lac Boots
+Legs;0005;Hunter's Greaves
+Legs;0006;Hunter's Leggings
+Legs;0007;Bone Greaves
+Legs;0008;Bone Leggings
+Legs;0009;Alloy Greaves
+Legs;000A;Alloy Leggings
+Legs;000B;Jaggi Greaves
+Legs;000C;jaggi Leggings
+Legs;000D;Bnahabra Boots
+Legs;000E;Bnahabra Pants
+Legs;000F;Rhenoplos Greaves
+Legs;0010;Rhenoplos Leggings
+Legs;0011;Qurupeco Greaves
+Legs;0012;Qurupeco Leggings
+Legs;0013;Ludroth Greaves
+Legs;0014;Ludroth Leggings
+Legs;0015;Baggi Greaves
+Legs;0016;Baggi Leggings
+Legs;0017;Barroth Greaves
+Legs;0018;Barroth Leggings
+Legs;0019;Gobul Greaves
+Legs;001A;Gobul Leggings
+Legs;001B;DUMMY
+Legs;001C;DUMMY
+Legs;001D;Guild Bard Boots
+Legs;001E;Guild Bard Galters
+Legs;001F;Scholar's Socks
+Legs;0020;Scholar's Sandals
+Legs;0021;Rathian Greaves
+Legs;0022;Rathian Leggings
+Legs;0023;Gigginox Greaves
+Legs;0024;Gigginox Leggings
+Legs;0025;Ingot Greaves
+Legs;0026;Ingot Leggings
+Legs;0027;Lagiacrus Greaves
+Legs;0028;Lagiacrus Leggings
+Legs;0029;Rathalos Greaves
+Legs;002A;Rathalos Leggings
+Legs;002B;Barioth Greaves
+Legs;002C;Barioth Leggings
+Legs;002D;Diablos Greaves
+Legs;002E;Diablos Leggings
+Legs;002F;Uragaan Greaves
+Legs;0030;Uragaan Leggings
+Legs;0031;Agnaktor Greaves
+Legs;0032;Agnaktor Leggings
+Legs;0033;Helios Greaves
+Legs;0034;Helios Leggings
+Legs;0035;Selene Greaves
+Legs;0036;Selene Leggings
+Legs;0037;Wroggi Greaves
+Legs;0038;Wroggi Leggings
+Legs;0039;Arzuros Greaves
+Legs;003A;Arzuros Leggings
+Legs;003B;Lagombi Greaves
+Legs;003C;Lagombi Leggings
+Legs;003D;Volvidon Greaves
+Legs;003E;Volvidon Leggings
+Legs;003F;Nibelsnarf Greaves
+Legs;0040;Nibelsnarf Leggings
+Legs;0041;Duramboros Greaves
+Legs;0042;Duramboros Leggings
+Legs;0043;Yukumo Hakama
+Legs;0044;DUMMY
+Legs;0045;DUMMY
+Legs;0046;DUMMY
+Legs;0047;DUMMY
+Legs;0048;DUMMY
+Legs;0049;DUMMY
+Legs;004A;DUMMY
+Legs;004B;DUMMY
+Legs;004C;Leather Greaves S
+Legs;004D;Leather Leggings S
+Legs;004E;Piscine Breeches S
+Legs;004F;Piscine Leggings S
+Legs;0050;Chainmail Greaves S
+Legs;0051;Chainmail Leggings S
+Legs;0052;Loc Lac Boots S
+Legs;0053;Loc Lac Galters S
+Legs;0054;Hunter's Greaves S
+Legs;0055;Hunter's Leggings S
+Legs;0056;Bone Greaves S
+Legs;0057;Bone Leggings S
+Legs;0058;Alloy Greaves S
+Legs;0059;Alloy Leggings S
+Legs;005A;Jaggi Greaves S
+Legs;005B;Jaggi Leggings S
+Legs;005C;Bnahabra Boots S
+Legs;005D;Bnahabra Pants S
+Legs;005E;Rhenoplos Greaves S
+Legs;005F;Rhenoplos Leggings S
+Legs;0060;Qurupeco Greaves S
+Legs;0061;Qurupeco Leggings S
+Legs;0062;Qurupeco Greaves U
+Legs;0063;Qurupeco Leggings U
+Legs;0064;Ludroth Greaves S
+Legs;0065;Ludroth Leggings S
+Legs;0066;Ludroth Greaves U
+Legs;0067;Ludroth Leggings U
+Legs;0068;Baggi Greaves S
+Legs;0069;Baggi Leggings S
+Legs;006A;Wroggi Greaves S
+Legs;006B;Wroggi Leggings S
+Legs;006C;Arzuros Greaves S
+Legs;006D;Arzuros Leggings S
+Legs;006E;Lagombi Greaves S
+Legs;006F;Lagombi Leggings S
+Legs;0070;Volvidon Greaves S
+Legs;0071;Volvidon Leggings S
+Legs;0072;Barroth Greaves S
+Legs;0073;Barroth Leggings S
+Legs;0074;Barroth Greaves U
+Legs;0075;Barroth Leggings U
+Legs;0076;Gobul Greaves S
+Legs;0077;Gobul Leggings S
+Legs;0078;Guild Bard Boots S
+Legs;0079;Guild Bard Galters S
+Legs;007A;Scholar's Socks S
+Legs;007B;Scholar's Sandals S
+Legs;007C;Rathian Greaves S
+Legs;007D;Rathian Leggings S
+Legs;007E;Rath Heart Greaves
+Legs;007F;Rath Heart Leggings
+Legs;0080;Gigginox Greaves S
+Legs;0081;Gigginox Leggings S
+Legs;0082;Gigginox Greaves U
+Legs;0083;Gigginox Leggings U
+Legs;0084;Ingot Greaves S
+Legs;0085;Ingot Leggings S
+Legs;0086;Dober Greaves
+Legs;0087;Dober Leggings
+Legs;0088;Yukumo Sky Hakama
+Legs;0089;Yukumo Land Hakama
+Legs;008A;Aelucanth Crura
+Legs;008B;Aelucanth Tarsi
+Legs;008C;Rhopessa Crura
+Legs;008D;Rhopessa Tarsi
+Legs;008E;Mosgharl Roots
+Legs;008F;Mosgharl Radicles
+Legs;0090;Artian Greaves
+Legs;0091;Artian Leggings
+Legs;0092;Lagiacrus Greaves S
+Legs;0093;Lagiacrus Leggings S
+Legs;0094;Lagiacrus Greaves U
+Legs;0095;Lagiacrus Leggings U
+Legs;0096;Rathalos Greaves S
+Legs;0097;Rathalos Leggings S
+Legs;0098;Rath Soul Greaves
+Legs;0099;Rath Soul Leggings
+Legs;009A;Barioth Greaves S
+Legs;009B;Barioth Leggings S
+Legs;009C;Barioth Greaves U
+Legs;009D;Barioth Leggings U
+Legs;009E;Diablos Greaves S
+Legs;009F;Diablos Leggings S
+Legs;00A0;Diablos Greaves U
+Legs;00A1;Diablos Leggings U
+Legs;00A2;Uragaan Greaves S
+Legs;00A3;Uragaan Leggings S
+Legs;00A4;Uragaan Greaves U
+Legs;00A5;Uragaan Leggings U
+Legs;00A6;Agnaktor Greaves S
+Legs;00A7;Agnaktor Leggings S
+Legs;00A8;Agnaktor Greaves U
+Legs;00A9;Agnaktor Leggings U
+Legs;00AA;Vangis Greaves
+Legs;00AB;Vangis Leggings
+Legs;00AC;Damascus Greaves
+Legs;00AD;Damascus Leggings
+Legs;00AE;DUMMY
+Legs;00AF;DUMMY
+Legs;00B0;DUMMY
+Legs;00B1;DUMMY
+Legs;00B2;Yamato Gusoku
+Legs;00B3;Mutsu Gusoku
+Legs;00B4;Hyuga Hakama
+Legs;00B5;Amagi Hakama
+Legs;00B6;Escadora Scale
+Legs;00B7;Escadora Scala
+Legs;00B8;Zinogre Greaves
+Legs;00B9;Zinogre Leggings
+Legs;00BA;Nibelsnarf Greaves S
+Legs;00BB;Nibelsnarf Leggings S
+Legs;00BC;Duramboros Greaves S
+Legs;00BD;Duramboros Leggings S
+Legs;00BE;Nargacuga Greaves
+Legs;00BF;Nargacuga Leggings
+Legs;00C0;Plesioth Greaves
+Legs;00C1;Plesioth Leggings
+Legs;00C2;Brachydios Greaves
+Legs;00C3;Brachydios Leggings
+Legs;00C4;Dianthus Breeches
+Legs;00C5;Campanile Breeches
+Legs;00C6;Ranger's Espadrilles
+Legs;00C7;Archer's Espadrilles
+Legs;00C8;DUMMY
+Legs;00C9;DUMMY
+Legs;00CA;DUMMY
+Legs;00CB;DUMMY
+Legs;00CC;DUMMY
+Legs;00CD;DUMMY
+Legs;00CE;DUMMY
+Legs;00CF;DUMMY
+Legs;00D0;DUMMY
+Legs;00D1;DUMMY
+Legs;00D2;DUMMY
+Legs;00D3;DUMMY
+Legs;00D4;Ingot Greaves X
+Legs;00D5;Ingot Leggings X
+Legs;00D6;Bnahabra Boots X
+Legs;00D7;Bnahabra Pants X
+Legs;00D8;Rhenoplos Greaves X
+Legs;00D9;Rhenoplos Leggings X
+Legs;00DA;Jaggi Greaves X
+Legs;00DB;Jaggi Leggings X
+Legs;00DC;Baggi Greaves X
+Legs;00DD;Baggi Leggings X
+Legs;00DE;Wroggi Greaves X
+Legs;00DF;Wroggi Leggings X
+Legs;00E0;Arzuros Greaves X
+Legs;00E1;Arzuros Leggings X
+Legs;00E2;Lagombi Greaves X
+Legs;00E3;Lagombi Leggings X
+Legs;00E4;Volvidon Greaves X
+Legs;00E5;Volvidon Leggings X
+Legs;00E6;Qurupeco Greaves X
+Legs;00E7;Qurupeco Leggings X
+Legs;00E8;Qurupeco Greaves Z
+Legs;00E9;Qurupeco Leggings Z
+Legs;00EA;Ludroth Greaves X
+Legs;00EB;Ludroth Leggings X
+Legs;00EC;Ludroth Greaves Z
+Legs;00ED;Ludroth Leggings Z
+Legs;00EE;Barroth Greaves X
+Legs;00EF;Barroth Leggings X
+Legs;00F0;Barroth Greaves Z
+Legs;00F1;Barroth Leggings Z
+Legs;00F2;Gobul Greaves X
+Legs;00F3;Gobul Leggings X
+Legs;00F4;Rathalos Greaves X
+Legs;00F5;Rathalos Leggings X
+Legs;00F6;Rath Soul Greaves Z
+Legs;00F7;Rath Soul Leggings Z
+Legs;00F8;Silver Solgreaves
+Legs;00F9;Silver solleggings
+Legs;00FA;Rathian Greaves X
+Legs;00FB;Rathian Leggings X
+Legs;00FC;Rath Heart Greaves Z
+Legs;00FD;Rath Heart Leggings Z
+Legs;00FE;Golden Lunegreaves
+Legs;00FF;Golden Luneleggings
+Legs;0100;Lagiacrus Greaves X
+Legs;0101;Lagiacrus Leggings X
+Legs;0102;Lagiacrus Greaves Z
+Legs;0103;Lagiacrus Leggings Z
+Legs;0104;Nether Greaves
+Legs;0105;Nether Leggings
+Legs;0106;Gigginox Greaves X
+Legs;0107;Gigginox Leggings X
+Legs;0108;Gigginox Greaves Z
+Legs;0109;Gigginox Leggings Z
+Legs;010A;Barioth Greaves X
+Legs;010B;Barioth Leggings X
+Legs;010C;Barioth Greaves Z
+Legs;010D;Barioth Leggings Z
+Legs;010E;Diablos Greaves X
+Legs;010F;Diablos Leggings X
+Legs;0110;Diablos Greaves Z
+Legs;0111;Diablos Leggings Z
+Legs;0112;Uragaan Greaves X
+Legs;0113;Uragaan Leggings X
+Legs;0114;Uragaan Greaves Z
+Legs;0115;Uragaan Leggings Z
+Legs;0116;Agnaktor Greaves X
+Legs;0117;Agnaktor Leggings X
+Legs;0118;Agnaktor Greaves Z
+Legs;0119;Agnaktor Leggings Z
+Legs;011A;Helios Greaves X
+Legs;011B;Helios Leggings X
+Legs;011C;Helios Greaves Z
+Legs;011D;Helios Leggings Z
+Legs;011E;Selene Greaves X
+Legs;011F;Selene Leggings X
+Legs;0120;Selene Greaves Z
+Legs;0121;Selene Leggings Z
+Legs;0122;Grand Yamato Gusoku
+Legs;0123;Grand Mutsu Gusoku
+Legs;0124;Grand Hyuga Hakama
+Legs;0125;Grand Amagi Hakama
+Legs;0126;Yamato Gusoku Prime
+Legs;0127;Mutsu Gusoku Prime
+Legs;0128;Hyuga Hakama Prime
+Legs;0129;Amagi Hakama Prime
+Legs;012A;Vangis Greaves X
+Legs;012B;Vangis Leggings X
+Legs;012C;Escadora Scale X
+Legs;012D;Escadora Scala X
+Legs;012E;Zinogre Greaves X
+Legs;012F;Zinogre Leggings X
+Legs;0130;Zinogre Greaves Z
+Legs;0131;Zinogre Leggings Z
+Legs;0132;Nibelsnarf Greaves X
+Legs;0133;Nibelsnarf Leggings X
+Legs;0134;Duramboros Greaves X
+Legs;0135;Duramboros Leggings X
+Legs;0136;Duramboros Greaves Z
+Legs;0137;Duramboros Leggings Z
+Legs;0138;Nargacuga Greaves X
+Legs;0139;Nargacuga Leggings X
+Legs;013A;Nargacuga Greaves Z
+Legs;013B;Nargacuga Leggings Z
+Legs;013C;Lambent Galters
+Legs;013D;Silhouette Galters
+Legs;013E;Plesioth Greaves X
+Legs;013F;Plesioth Leggings X
+Legs;0140;Plesioth Greaves Z
+Legs;0141;Plesioth Leggings Z
+Legs;0142;Brachydios Greaves X
+Legs;0143;Brachydios Leggings X
+Legs;0144;Miralis Drogues
+Legs;0145;Miralis Kedges
+Legs;0146;Damascus Greaves X
+Legs;0147;Damascus Leggings X
+Legs;0148;Dober Greaves X
+Legs;0149;Dober Leggings X
+Legs;014A;DUMMY
+Legs;014B;DUMMY
+Legs;014C;DUMMY
+Legs;014D;DUMMY
+Legs;014E;Aelucanth Crura X
+Legs;014F;Aelucanth Tarsi X
+Legs;0150;Rhopessa Crura X
+Legs;0151;Rhopessa Tarsi X
+Legs;0152;Mosgharl Roots X
+Legs;0153;Mosgharl Radicles X
+Legs;0154;Artian Greaves X
+Legs;0155;Artian Leggings X
+Legs;0156;Dianthus Wealpants
+Legs;0157;Campanile Wealpants
+Legs;0158;Strider's Espadrilles
+Legs;0159;Deadeye's Espadrilles
+Legs;015A;Guild Bard Boots X
+Legs;015B;Guild Bard Galters X
+Legs;015C;Scholar's Socks X
+Legs;015D;Scholar's Sandals X
+Legs;015E;DUMMY
+Legs;015F;DUMMY
+Legs;0160;Sailor Socks
+Legs;0161;Sailor Sandals
+Legs;0162;Chakra Anklet
+Legs;0163;DUMMY
+Legs;0164;DUMMY
+Legs;0165;DUMMY
+Legs;0166;DUMMY
+Legs;0167;DUMMY
+Legs;0168;DUMMY
+Legs;0169;DUMMY
+Legs;016A;DUMMY
+Legs;016B;DUMMY
+Legs;016C;DUMMY
+Legs;016D;DUMMY
+Legs;016E;DUMMY
+Legs;016F;DUMMY
+Legs;0170;DUMMY
+LightBowgun;0000;None
+LightBowgun;0001;Cross Bowgun
+LightBowgun;0002;Cross Bowgun+
+LightBowgun;0003;Cross Blitz
+LightBowgun;0004;Hunter's Rifle
+LightBowgun;0005;Sniper Shot
+LightBowgun;0006;Sniper Ascension
+LightBowgun;0007;Barro Barrel
+LightBowgun;0008;Barro Barrel+
+LightBowgun;0009;Barrozooka
+LightBowgun;000A;Aurora Flare
+LightBowgun;000B;Avalauncher
+LightBowgun;000C;Glacialahti
+LightBowgun;000D;Artica Cannon
+LightBowgun;000E;Dios Blaster
+LightBowgun;000F;Dios Blaster+
+LightBowgun;0010;Demolition Gun
+LightBowgun;0011;Ballista Demolisher
+LightBowgun;0012;Jaggid Fire
+LightBowgun;0013;Bandit Fire
+LightBowgun;0014;Bandit's Rage
+LightBowgun;0015;Merciless Rage
+LightBowgun;0016;Royal Launcher
+LightBowgun;0017;Royal Torrent
+LightBowgun;0018;Royal Inundation
+LightBowgun;0019;Maelstrom
+LightBowgun;001A;Maelstrom+
+LightBowgun;001B;Plesioth Drencher
+LightBowgun;001C;Jade Storm
+LightBowgun;001D;Jade Tempest
+LightBowgun;001E;Gobul Shooter
+LightBowgun;001F;Crimson Angler
+LightBowgun;0020;Crimson Angler+
+LightBowgun;0021;Zhen Angler
+LightBowgun;0022;Gobul Ganador
+LightBowgun;0023;Poison Stinger
+LightBowgun;0024;Poison Aftermath
+LightBowgun;0025;Immortal Shacle
+LightBowgun;0026;Immortal Gaol
+LightBowgun;0027;Immortal Prison
+LightBowgun;0028;Bloodthirsty Binder
+LightBowgun;0029;Crimson Seeker
+LightBowgun;002A;Deadly Chaser
+LightBowgun;002B;Specter of Grief
+LightBowgun;002C;Blizzard Cannon
+LightBowgun;002D;Blizzard Volley
+LightBowgun;002E;Tabula Blizzara
+LightBowgun;002F;Diamond Frost
+LightBowgun;0030;Diamond Crest
+LightBowgun;0031;Valkyrie Fire
+LightBowgun;0032;Valkyrie Flame
+LightBowgun;0033;Valkyrie Blaze
+LightBowgun;0034;Valkyrie's Heart
+LightBowgun;0035;Pinkcutioner
+LightBowgun;0036;Blossomayhem
+LightBowgun;0037;Hidden Eye
+LightBowgun;0038;Night Owl
+LightBowgun;0039;Virnar Gazer
+LightBowgun;003A;Squallhawk
+LightBowgun;003B;Eclipse Gazer
+LightBowgun;003C;Thundacrus
+LightBowgun;003D;Thundacrus+
+LightBowgun;003E;Thundacrus Rex
+LightBowgun;003F;Neo Thundacrus
+LightBowgun;0040;Eclair Whitebolt
+LightBowgun;0041;Rathling Gun
+LightBowgun;0042;Rathling Doombringer
+LightBowgun;0043;Rathling Phoenix
+LightBowgun;0044;Azurathling Skysear
+LightBowgun;0045;Azurathling Sunsear
+LightBowgun;0046;Usurper's Crime
+LightBowgun;0047;Despot's Wildfire
+LightBowgun;0048;Oppressor's Rift
+LightBowgun;0049;Orcus Barqus
+LightBowgun;004A;Nether Phioxion
+LightBowgun;004B;Stygian Invidia
+LightBowgun;004C;Durambarrel
+LightBowgun;004D;Taurambarrel
+LightBowgun;004E;Aldebaran Dreadgun
+LightBowgun;004F;Horn of Taurus
+LightBowgun;0050;Crown of Taurus
+LightBowgun;0051;Devil's Grin
+LightBowgun;0052;Devil's Madness
+LightBowgun;0053;Diregun "Dementia"
+LightBowgun;0054;Doomgun "Dementia"
+LightBowgun;0055;Demon's Isle
+LightBowgun;0056;Demon's Island
+LightBowgun;0057;Kettleblower
+LightBowgun;0058;Kettleblower Deluxe
+LightBowgun;0059;Master Kettleblower
+LightBowgun;005A;God's Isle
+LightBowgun;005B;God's Island
+LightBowgun;005C;God's Archipelago
+LightBowgun;005D;Gourd Shot
+LightBowgun;005E;Teasel Shot
+LightBowgun;005F;Crookneck Shot
+LightBowgun;0060;The Willuminator
+LightBowgun;0061;No Name RARE 1 (No Design)
+LightBowgun;0062;
+LightBowgun;0063;
+LightBowgun;0064;
+LightBowgun;0065;
+LightBowgun;0066;
+LightBowgun;0067;
+LightBowgun;0068;
+LightBowgun;0069;
+LightBowgun;006A;
+LightBowgun;006B;
+LightBowgun;006C;
+LightBowgun;006D;
+LightBowgun;006E;
+LightBowgun;006F;
+LightBowgun;0070;
+LightBowgun;0071;
+LightBowgun;0072;
+LightBowgun;0073;
+LightBowgun;0074;
+LightBowgun;0075;
+LightBowgun;0076;
+LightBowgun;0077;
+LightBowgun;0078;
+LightBowgun;0079;
+LightBowgun;007A;
+LightBowgun;007B;
+LightBowgun;007C;
+LightBowgun;007D;
+LightBowgun;007E; 
+LightBowgun;007F;
+LightBowgun;0080;
+LightBowgun;0081;
+LightBowgun;0082;
+LightBowgun;0083;
+LightBowgun;0084;
+LightBowgun;0085;
+LightBowgun;0086;
+LightBowgun;0087;
+LightBowgun;0088;
+LightBowgun;0089;
+LightBowgun;008A;
+LightBowgun;008B;
+LightBowgun;008C;
+LightBowgun;008D;
+LightBowgun;008E;
+LightBowgun;008F;
+LightBowgun;0090;
+LightBowgun;0091;
+LightBowgun;0092;
+LightBowgun;0093;
+LightBowgun;0094;
+LightBowgun;0095;
+LightBowgun;0096;
+LightBowgun;0097;
+LightBowgun;0098;
+LightBowgun;0099;
+LightBowgun;009A;
+LightBowgun;009B;
+LightBowgun;009C;
+LightBowgun;009D;
+LightBowgun;009E;
+LightBowgun;009F;
+LightBowgun;00A0;
+LightBowgun;00A1;
+LightBowgun;00A2;
+LightBowgun;00A3;
+LightBowgun;00A4;
+LightBowgun;00A5;
+LightBowgun;00A6;
+LightBowgun;00A7;
+LightBowgun;00A8;
+LightBowgun;00A9;
+LightBowgun;00AA;
+LightBowgun;00AB;
+LightBowgun;00AC;
+LightBowgun;00AD;
+LightBowgun;00AE;
+LightBowgun;00AF;
+LightBowgun;00B0;
+LightBowgun;00B1;
+LightBowgun;00B2;
+LightBowgun;00B3;
+LightBowgun;00B4;
+LightBowgun;00B5;
+LightBowgun;00B6;
+LightBowgun;00B7;
+LightBowgun;00B8;
+LightBowgun;00B9;
+LightBowgun;00BA;
+LightBowgun;00BB;
+LightBowgun;00BC;
+LightBowgun;00BD;
+LightBowgun;00BE;
+LightBowgun;00BF;
+LightBowgun;00C0;
+LightBowgun;00C1;
+LightBowgun;00C2;
+LightBowgun;00C3;
+LightBowgun;00C4;
+LightBowgun;00C5;
+LightBowgun;00C6;
+LightBowgun;00C7;
+LightBowgun;00C8;
+LightBowgun;00C9;
+LightBowgun;00CA;
+LightBowgun;00CB;
+LightBowgun;00CC;
+LightBowgun;00CD;
+LightBowgun;00CE;
+LightBowgun;00CF;
+LightBowgun;00D0;
+LightBowgun;00D1;
+LightBowgun;00D2;
+LightBowgun;00D3;
+LightBowgun;00D4;
+LightBowgun;00D5;
+LightBowgun;00D6;
+LightBowgun;00D7;
+LightBowgun;00D8;
+LightBowgun;00D9;
+LightBowgun;00DA;
+LightBowgun;00DB;
+LightBowgun;00DC;
+LightBowgun;00DD;
+LightBowgun;00DE;
+LightBowgun;00DF;
+LightBowgun;00E0;
+LightBowgun;00E1;
+LightBowgun;00E2;
+LightBowgun;00E3;
+LightBowgun;00E4;
+LightBowgun;00E5;
+LightBowgun;00E6;
+LightBowgun;00E7;
+LightBowgun;00E8;
+LightBowgun;00E9;
+LightBowgun;00EA;
+LightBowgun;00EB;
+LightBowgun;00EC;
+LightBowgun;00ED;
+LightBowgun;00EE;
+LightBowgun;00EF;
+LightBowgun;00F0;
+LightBowgun;00F1;
+LightBowgun;00F2;
+LightBowgun;0000F3;
+LightBowgun;00F4;
+LightBowgun;00F5;
+LightBowgun;00F6;
+LightBowgun;00F7;
+LightBowgun;00F8;
+LightBowgun;00F9;
+LightBowgun;00FA;
+LightBowgun;00FB;
+LightBowgun;00FC;
+LightBowgun;00FD;
+LightBowgun;00FE;
+LightBowgun;00FF;
+LightBowgun;0100;
+LightBowgun;0FFE;
+LightBowgun;0FFF;
+LightBowgun;1000;
+LongSword;0000;None
+LongSword;0001;Iron Katana
+LongSword;0002;Iron Grace
+LongSword;0003;Iron Gospel
+LongSword;0004;Chainslaughter
+LongSword;0005;Rumbalarum
+LongSword;0006;Thunder Saw
+LongSword;0007;Usurper's Boltslicer
+LongSword;0008;Despot's Boltbreaker
+LongSword;0009;Oppressor's Law
+LongSword;000A;Nether Katana
+LongSword;000B;Nether Dilemnity
+LongSword;000C;Stygian Guta
+LongSword;000D;Rimeblade
+LongSword;000E;Rimeblossom
+LongSword;000F;Rime & Treason
+LongSword;0010;Edel's Ice
+LongSword;0011;Hidden Saber
+LongSword;0012;Hidden Saber+
+LongSword;0013;Deepest Night
+LongSword;0014;Eclipse Saber
+LongSword;0015;Megrez's Asterism
+LongSword;0016;Virnar Saber
+LongSword;0017;Depths of Midnight
+LongSword;0018;Wroggi Sword
+LongSword;0019;Nightshade's Bite
+LongSword;001A;Belladonna's Bite
+LongSword;001B;Thunderclap
+LongSword;001C;Thunderclap+
+LongSword;001D;Heaven's Thunder
+LongSword;001E;Heaven's Sunderer
+LongSword;001F;Truest Sunderer
+LongSword;0020;Plesioth Splasher
+LongSword;0021;Plesioth Splasher+
+LongSword;0022;Verdant Splash
+LongSword;0023;Verdant Splash+
+LongSword;0024;Jade Vagalhao
+LongSword;0025;Arzuros Naginata
+LongSword;0026;Arzuros Naginata+
+LongSword;0027;Arzuros Strikequill
+LongSword;0028;Guan Dao
+LongSword;0029;Yan Yue Dao
+LongSword;002A;Yi Duan
+LongSword;002B;Drowning Shaft
+LongSword;002C;Douser Bardiche
+LongSword;002D;Wasserfallis
+LongSword;002E;Enfeebling Glaive
+LongSword;002F;Dispatcher Glaive
+LongSword;0030;Asthenia Glaive
+LongSword;0031;Canine Katana
+LongSword;0032;Lupine Katana
+LongSword;0033;Cerberus Katana
+LongSword;0034;Ananta Boneblade
+LongSword;0035;Ananta Boneblade+
+LongSword;0036;Shadowblinder
+LongSword;0037;Soulbinder
+LongSword;0038;Soulstrangler
+LongSword;0039;Diapason
+LongSword;003A;Diapason+
+LongSword;003B;Crimsonfork
+LongSword;003C;Chrome Mazurka
+LongSword;003D;Chrome Waltz
+LongSword;003E;Wyvern Blade "Fire"
+LongSword;003F;Wyvern Blade "Flame"
+LongSword;0040;Wyvern Blade "Flare"
+LongSword;0041;Wyvern Blade "Pale"
+LongSword;0042;Wyvern Blade "Bloom"
+LongSword;0043;Wyvern Blade "Blaze"
+LongSword;0044;Wyvern Blade "Rose"
+LongSword;0045;Mountain Reaper
+LongSword;0046;Mountain Archreaper
+LongSword;0047;Wild Heights
+LongSword;0048;Grandfolly
+LongSword;0049;Tribulation
+LongSword;004A;Bleeding Cross
+LongSword;004B;Bleeding Cross+
+LongSword;004C;Mephitic Katana
+LongSword;004D;Vampiric Edge
+LongSword;004E;Carmilla Bloodsucker
+LongSword;004F;Crimson Cross
+LongSword;0050;Lost Eden
+LongSword;0051;Banished Blood
+LongSword;0052;Law of the Guilty
+LongSword;0053;Dancing Flames
+LongSword;0054;Dancing Hellfire
+LongSword;0055;Principal Flame
+LongSword;0056;Snow Siren
+LongSword;0057;Blizzard Siren
+LongSword;0058;Glacial Diva
+LongSword;0059;Dios Katana
+LongSword;005A;Dios Katana+
+LongSword;005B;Demolition Katana
+LongSword;005C;Pyro Demolisher
+LongSword;005D;Barbarian Blade
+LongSword;005E;Barbarian "Sharq"
+LongSword;005F;Kibamaru
+LongSword;0060;Megiddo Katana
+LongSword;0061;The Adjudition
+LongSword;0062;Dark Claw
+LongSword;0063;Dark Claw "Demise"
+LongSword;0064;Altheos Altrusta
+LongSword;0065;Raver "Cruelty"
+LongSword;0066;Raver "Calamity"
+LongSword;0067;Nero's Calamity
+LongSword;0068;Windeater
+LongSword;0069;Soundeater
+LongSword;006A;Zephyr
+LongSword;006B;Hairtail's Hairblade
+LongSword;006C;Fresh Hairblade
+LongSword;006D;Premium Hairblade
+LongSword;006E;Tenebra
+LongSword;006F;Tenebra D
+LongSword;0070;Rising Soul
+LongSword;0071;DUMMY RARE 6 (With Design)
+LongSword;0072;DUMMY RARE 9 (With Design)
+LongSword;0073;Tenebra RARE 1 (Weird Design)
+LongSword;0074;Tenebra D RARE 1 (With Design)
+LongSword;0075;Rising Soul RARE 1 (With Design)
+LongSword;0076;
+LongSword;0077;
+LongSword;0078;
+LongSword;0079;
+LongSword;007A;
+LongSword;007B;
+LongSword;007C;
+LongSword;007D;
+LongSword;007E; 
+LongSword;007F;
+LongSword;0080;No Name RARE 10 (With Design)
+LongSword;0081;
+LongSword;0082;
+LongSword;0083;
+LongSword;0084;
+LongSword;0085;
+LongSword;0086;
+LongSword;0087;
+LongSword;0088;
+LongSword;0089;
+LongSword;008A;
+LongSword;008B;
+LongSword;008C;
+LongSword;008D;
+LongSword;008E;
+LongSword;008F;
+LongSword;0090;
+LongSword;0091;
+LongSword;0092;
+LongSword;0093;
+LongSword;0094;
+LongSword;0095;
+LongSword;0096;
+LongSword;0097;
+LongSword;0098;
+LongSword;0099;
+LongSword;009A;
+LongSword;009B;
+LongSword;009C;
+LongSword;009D;
+LongSword;009E;
+LongSword;009F;
+LongSword;00A0;
+LongSword;00A1;
+LongSword;00A2;
+LongSword;00A3;
+LongSword;00A4;
+LongSword;00A5;
+LongSword;00A6;
+LongSword;00A7;
+LongSword;00A8;
+LongSword;00A9;
+LongSword;00AA;
+LongSword;00AB;
+LongSword;00AC;
+LongSword;00AD;
+LongSword;00AE;
+LongSword;00AF;
+LongSword;00B0;
+LongSword;00B1;
+LongSword;00B2;
+LongSword;00B3;
+LongSword;00B4;
+LongSword;00B5;
+LongSword;00B6;
+LongSword;00B7;
+LongSword;00B8;
+LongSword;00B9;
+LongSword;00BA;
+LongSword;00BB;
+LongSword;00BC;
+LongSword;00BD;
+LongSword;00BE;
+LongSword;00BF;
+LongSword;00C0;
+LongSword;00C1;
+LongSword;00C2;
+LongSword;00C3;
+LongSword;00C4;
+LongSword;00C5;
+LongSword;00C6;
+LongSword;00C7;
+LongSword;00C8;
+LongSword;00C9;
+LongSword;00CA;
+LongSword;00CB;
+LongSword;00CC;
+LongSword;00CD;
+LongSword;00CE;
+LongSword;00CF;
+LongSword;00D0;
+LongSword;00D1;
+LongSword;00D2;
+LongSword;00D3;
+LongSword;00D4;
+LongSword;00D5;
+LongSword;00D6;
+LongSword;00D7;
+LongSword;00D8;
+LongSword;00D9;
+LongSword;00DA;
+LongSword;00DB;
+LongSword;00DC;
+LongSword;00DD;
+LongSword;00DE;
+LongSword;00DF;
+LongSword;00E0;
+LongSword;00E1;
+LongSword;00E2;
+LongSword;00E3;
+LongSword;00E4;
+LongSword;00E5;
+LongSword;00E6;
+LongSword;00E7;
+LongSword;00E8;
+LongSword;00E9;
+LongSword;00EA;
+LongSword;00EB;
+LongSword;00EC;
+LongSword;00ED;
+LongSword;00EE;
+LongSword;00EF;
+LongSword;00F0;
+LongSword;00F1;
+LongSword;00F2;
+LongSword;0000F3;
+LongSword;00F4;
+LongSword;00F5;
+LongSword;00F6;
+LongSword;00F7;
+LongSword;00F8;
+LongSword;00F9;
+LongSword;00FA;
+LongSword;00FB;
+LongSword;00FC;
+LongSword;00FD;
+LongSword;00FE;
+LongSword;00FF;
+LongSword;0100;
+LongSword;0FFE;No Name RARE 4 (With Design)
+LongSword;0FFF;No Name RARE 1 (With Design)
+LongSword;1000;
+SwitchAxe;0000;None
+SwitchAxe;0001;Bone Axe
+SwitchAxe;0002;Bone Axe+
+SwitchAxe;0003;Bone Smasher
+SwitchAxe;0004;Assault Axe
+SwitchAxe;0005;Assault Axe+
+SwitchAxe;0006;Blitzkrieg
+SwitchAxe;0007;Blitzkrieg+
+SwitchAxe;0008;Bastion Blitz
+SwitchAxe;0009;Hidden Axe
+SwitchAxe;000A;Night's Crescent
+SwitchAxe;000B;Avidya Axe
+SwitchAxe;000C;Eclipse Axe
+SwitchAxe;000D;Mizar's Asterism
+SwitchAxe;000E;Tyrannos
+SwitchAxe;000F;Terror Tyrannos
+SwitchAxe;0010;Saligia Vileaxe
+SwitchAxe;0011;Saligia Enderaxe
+SwitchAxe;0012;Bolt Axe
+SwitchAxe;0013;Bolt Axe+
+SwitchAxe;0014;High Bolt Axe
+SwitchAxe;0015;Volt Axe
+SwitchAxe;0016;Megavolt Axe
+SwitchAxe;0017;Neo Bolt Axe
+SwitchAxe;0018;Remiel Whitebolt
+SwitchAxe;0019;Nether Direaxe
+SwitchAxe;001A;Nether Excellion
+SwitchAxe;001B;Arzuros Axe
+SwitchAxe;001C;Arzuros Axe+
+SwitchAxe;001D;Arzuros Massifax
+SwitchAxe;001E;Arzuros Revelax
+SwitchAxe;001F;Dios Axe
+SwitchAxe;0020;Dios Axe+
+SwitchAxe;0021;Demolition Axe
+SwitchAxe;0022;Brisant Demolisher
+SwitchAxe;0023;Amber Slash
+SwitchAxe;0024;Amber Slash+
+SwitchAxe;0025;Amber Hoarfrost
+SwitchAxe;0026;Galefrost
+SwitchAxe;0027;Giga Galefrost
+SwitchAxe;0028;Azurite Slash Axe
+SwitchAxe;0029;Gale Azurite
+SwitchAxe;002A;Giga Gale Azurite
+SwitchAxe;002B;Pecospander
+SwitchAxe;002C;Pecospander+
+SwitchAxe;002D;Qurupexspander
+SwitchAxe;002E;Motor Burst
+SwitchAxe;002F;Motor Burst+
+SwitchAxe;0030;Gigant Burst
+SwitchAxe;0031;Giganceladus
+SwitchAxe;0032;Sparqlepeco
+SwitchAxe;0033;Peco Volt
+SwitchAxe;0034;Peco Glitz
+SwitchAxe;0035;Wild Axe
+SwitchAxe;0036;Wild Axe+
+SwitchAxe;0037;Ground Dasher
+SwitchAxe;0038;Heavy Divider
+SwitchAxe;0039;Heavy Divider+
+SwitchAxe;003A;Grunhart
+SwitchAxe;003B;Hartschlagen
+SwitchAxe;003C;Nainokami
+SwitchAxe;003D;Axe Semper Tyrannis
+SwitchAxe;003E;Grand Chaos
+SwitchAxe;003F;Axe of Gaia
+SwitchAxe;0040;Axe of Thanatos
+SwitchAxe;0041;Axe of Demons
+SwitchAxe;0042;Axe of Hades
+SwitchAxe;0043;Fire Tempest
+SwitchAxe;0044;Flame Tempest
+SwitchAxe;0045;Helstrong Firebath
+SwitchAxe;0046;Liquid Storm
+SwitchAxe;0047;Aqua Tempest
+SwitchAxe;0048;Helstrong Deluge
+SwitchAxe;0049;Binding Roller
+SwitchAxe;004A;Binding Roller+
+SwitchAxe;004B;Vermilingua
+SwitchAxe;004C;Vermilion Bloodaxe
+SwitchAxe;004D;Usurper's Downpour
+SwitchAxe;004E;Despot's Cloudburst
+SwitchAxe;004F;Brimstren Drakefang
+SwitchAxe;0050;Stygian Vanagloria
+SwitchAxe;0051;Ludroth Axe
+SwitchAxe;0052;Ludroth Axe+
+SwitchAxe;0053;Splish Splax
+SwitchAxe;0054;Demonbind
+SwitchAxe;0055;Grand Demonbind
+SwitchAxe;0056;Celestial Demonbind
+SwitchAxe;0057;Finslash
+SwitchAxe;0058;Finslash+
+SwitchAxe;0059;Mega Rhipidon
+SwitchAxe;005A;Dragonmaiden Axe
+SwitchAxe;005B;Dragonmaiden Axe+
+SwitchAxe;005C;Gríðr's Landmaker
+SwitchAxe;005D;Gríðr's Landforger
+SwitchAxe;005E;Azure Rose
+SwitchAxe;005F;Azure Rosebloom
+SwitchAxe;0060;Grim Cat
+SwitchAxe;0061;Grimmig Katze
+SwitchAxe;0062;Felyne Fatality
+SwitchAxe;0063;Rough Edge
+SwitchAxe;0064;Tough Breaker
+SwitchAxe;0065;Soulbreaker
+SwitchAxe;0066;Soulcrusher
+SwitchAxe;0067;Helios Crusher
+SwitchAxe;0068;Inceadeus
+SwitchAxe;0069;Great Inceadeus
+SwitchAxe;006A;Ceadeed Axe
+SwitchAxe;006B;Dark Switch Axe
+SwitchAxe;006C;Black Harvest
+SwitchAxe;006D;Altheos Voracion
+SwitchAxe;006E;Megiddo Crest
+SwitchAxe;006F;The Crimsidian
+SwitchAxe;0070;Sinister Saints
+SwitchAxe;0071;Dragon's Roar
+SwitchAxe;0072;Sinister Saints RARE 1 (No Design)
+SwitchAxe;0073;Dragon's Roar RARE 1 (With Design)
+SwitchAxe;0074;No Name RARE 1 (With Design)
+SwitchAxe;0075;
+SwitchAxe;0076;
+SwitchAxe;0077;
+SwitchAxe;0078;
+SwitchAxe;0079;
+SwitchAxe;007A;
+SwitchAxe;007B;
+SwitchAxe;007C;
+SwitchAxe;007D;
+SwitchAxe;007E; 
+SwitchAxe;007F;
+SwitchAxe;0080;
+SwitchAxe;0081;
+SwitchAxe;0082;
+SwitchAxe;0083;
+SwitchAxe;0084;
+SwitchAxe;0085;
+SwitchAxe;0086;
+SwitchAxe;0087;
+SwitchAxe;0088;
+SwitchAxe;0089;
+SwitchAxe;008A;
+SwitchAxe;008B;
+SwitchAxe;008C;
+SwitchAxe;008D;
+SwitchAxe;008E;
+SwitchAxe;008F;
+SwitchAxe;0090;
+SwitchAxe;0091;
+SwitchAxe;0092;
+SwitchAxe;0093;
+SwitchAxe;0094;
+SwitchAxe;0095;
+SwitchAxe;0096;
+SwitchAxe;0097;
+SwitchAxe;0098;
+SwitchAxe;0099;
+SwitchAxe;009A;
+SwitchAxe;009B;
+SwitchAxe;009C;
+SwitchAxe;009D;
+SwitchAxe;009E;
+SwitchAxe;009F;
+SwitchAxe;00A0;
+SwitchAxe;00A1;
+SwitchAxe;00A2;
+SwitchAxe;00A3;
+SwitchAxe;00A4;
+SwitchAxe;00A5;
+SwitchAxe;00A6;
+SwitchAxe;00A7;
+SwitchAxe;00A8;
+SwitchAxe;00A9;
+SwitchAxe;00AA;
+SwitchAxe;00AB;
+SwitchAxe;00AC;
+SwitchAxe;00AD;
+SwitchAxe;00AE;
+SwitchAxe;00AF;
+SwitchAxe;00B0;
+SwitchAxe;00B1;
+SwitchAxe;00B2;
+SwitchAxe;00B3;
+SwitchAxe;00B4;
+SwitchAxe;00B5;
+SwitchAxe;00B6;
+SwitchAxe;00B7;
+SwitchAxe;00B8;
+SwitchAxe;00B9;
+SwitchAxe;00BA;
+SwitchAxe;00BB;
+SwitchAxe;00BC;
+SwitchAxe;00BD;
+SwitchAxe;00BE;
+SwitchAxe;00BF;
+SwitchAxe;00C0;
+SwitchAxe;00C1;
+SwitchAxe;00C2;
+SwitchAxe;00C3;
+SwitchAxe;00C4;
+SwitchAxe;00C5;
+SwitchAxe;00C6;
+SwitchAxe;00C7;
+SwitchAxe;00C8;
+SwitchAxe;00C9;
+SwitchAxe;00CA;
+SwitchAxe;00CB;
+SwitchAxe;00CC;
+SwitchAxe;00CD;
+SwitchAxe;00CE;
+SwitchAxe;00CF;
+SwitchAxe;00D0;
+SwitchAxe;00D1;
+SwitchAxe;00D2;
+SwitchAxe;00D3;
+SwitchAxe;00D4;
+SwitchAxe;00D5;
+SwitchAxe;00D6;
+SwitchAxe;00D7;
+SwitchAxe;00D8;
+SwitchAxe;00D9;
+SwitchAxe;00DA;
+SwitchAxe;00DB;
+SwitchAxe;00DC;
+SwitchAxe;00DD;
+SwitchAxe;00DE;
+SwitchAxe;00DF;
+SwitchAxe;00E0;
+SwitchAxe;00E1;
+SwitchAxe;00E2;
+SwitchAxe;00E3;
+SwitchAxe;00E4;
+SwitchAxe;00E5;
+SwitchAxe;00E6;
+SwitchAxe;00E7;
+SwitchAxe;00E8;
+SwitchAxe;00E9;
+SwitchAxe;00EA;
+SwitchAxe;00EB;
+SwitchAxe;00EC;
+SwitchAxe;00ED;
+SwitchAxe;00EE;
+SwitchAxe;00EF;
+SwitchAxe;00F0;
+SwitchAxe;00F1;
+SwitchAxe;00F2;
+SwitchAxe;0000F3;
+SwitchAxe;00F4;
+SwitchAxe;00F5;
+SwitchAxe;00F6;
+SwitchAxe;00F7;
+SwitchAxe;00F8;
+SwitchAxe;00F9;
+SwitchAxe;00FA;
+SwitchAxe;00FB;
+SwitchAxe;00FC;
+SwitchAxe;00FD;
+SwitchAxe;00FE;
+SwitchAxe;00FF;
+SwitchAxe;0100;No Name RARE 6 (With Design)
+SwitchAxe;0FFE;
+SwitchAxe;0FFF;
+SwitchAxe;1000;
+SwordAndShield;0000;None
+SwordAndShield;0001;Hunter's Knife
+SwordAndShield;0002;Hunter's Knife+
+SwordAndShield;0003;Hunter's Dagger
+SwordAndShield;0004;Assasin's Dagger
+SwordAndShield;0005;Icicle Spike
+SwordAndShield;0006;Icicle Spike+
+SwordAndShield;0007;Nardebosche
+SwordAndShield;0008;Nardebosche+
+SwordAndShield;0009;Cryo Cross
+SwordAndShield;000A;Grey Brume
+SwordAndShield;000B;Gran Bhavani
+SwordAndShield;000C;Spiked Saber
+SwordAndShield;000D;Clawed Saber
+SwordAndShield;000E;Serevento
+SwordAndShield;000F;Shadow Saber
+SwordAndShield;0010;Shadow Saber+
+SwordAndShield;0011;Toxic Fang
+SwordAndShield;0012;Hellt Epee
+SwordAndShield;0013;Hellnox Epee
+SwordAndShield;0014;Hidden Edge
+SwordAndShield;0015;Flash in the Night
+SwordAndShield;0016;Avidya Edge
+SwordAndShield;0017;Eclipse Edge
+SwordAndShield;0018;Phecda's Asterism
+SwordAndShield;0019;Soldier's Dagger
+SwordAndShield;001A;Commander's Dagger
+SwordAndShield;001B;Hydra Knife
+SwordAndShield;001C;Hydra Knife+
+SwordAndShield;001D;Deadly Knife
+SwordAndShield;001E;Baumfäller
+SwordAndShield;001F;Dendrotomy
+SwordAndShield;0020;Plutocatena
+SwordAndShield;0021;Hypnos Knife
+SwordAndShield;0022;Hypnos Knife+
+SwordAndShield;0023;Morpheus Knife
+SwordAndShield;0024;Plesioth Finspike
+SwordAndShield;0025;Plesioth Direspkie
+SwordAndShield;0026;Dirty Baron
+SwordAndShield;0027;Dirty Marquis
+SwordAndShield;0028;Dirty Graf
+SwordAndShield;0029;Azi Dahaka
+SwordAndShield;002A;Azi Dahaka+
+SwordAndShield;002B;Almighty Dahaka
+SwordAndShield;002C;Almighty Dahaka+
+SwordAndShield;002D;Co Dolgan
+SwordAndShield;002E;Coctura Balgang
+SwordAndShield;002F;Usurper's Firebolt
+SwordAndShield;0030;Despot's Crookbolt
+SwordAndShield;0031;Oppressor's Bounty
+SwordAndShield;0032;Brimstren Drakescale
+SwordAndShield;0033;Stygian Luxuria
+SwordAndShield;0034;Bone Kris
+SwordAndShield;0035;Bone Kris+
+SwordAndShield;0036;Bone Tomahawk
+SwordAndShield;0037;Bone Tomahawk+
+SwordAndShield;0038;Qurupeco Chopper
+SwordAndShield;0039;Djinn
+SwordAndShield;003A;Djinn+
+SwordAndShield;003B;Blazing Falchion
+SwordAndShield;003C;Corona
+SwordAndShield;003D;Corona+
+SwordAndShield;003E;Golden Falchion
+SwordAndShield;003F;Golden Radius
+SwordAndShield;0040;Blood Tabar
+SwordAndShield;0041;Plague Tabar
+SwordAndShield;0042;Contagion Tabar
+SwordAndShield;0043;Lagia Sword
+SwordAndShield;0044;Lagia Sword+
+SwordAndShield;0045;High Lagia Sword
+SwordAndShield;0046;Storm Sword
+SwordAndShield;0047;Takemikazuchi
+SwordAndShield;0048;Neo Lagia Sword
+SwordAndShield;0049;Neodignis Whitebolt
+SwordAndShield;004A;Nether Lifesword
+SwordAndShield;004B;Nether Maestral
+SwordAndShield;004C;Ludroth's Nail
+SwordAndShield;004D;Royal Claw
+SwordAndShield;004E;Royal Claw+
+SwordAndShield;004F;Royal Ludroth Claw
+SwordAndShield;0050;Amethyst Claw
+SwordAndShield;0051;Harmethyst
+SwordAndShield;0052;Harmetristesse
+SwordAndShield;0053;Carapace Mace
+SwordAndShield;0054;Carapace Mace+
+SwordAndShield;0055;Barroth Club
+SwordAndShield;0056;Doomed Soul
+SwordAndShield;0057;Blackened Soul
+SwordAndShield;0058;Blacksest Animus
+SwordAndShield;0059;Gigas Club
+SwordAndShield;005A;Gigas Club+
+SwordAndShield;005B;Gigas Crusher
+SwordAndShield;005C;Mighty Gugantreon
+SwordAndShield;005D;Dios Blade
+SwordAndShield;005E;Dios Blade+
+SwordAndShield;005F;Demoliton Cutter
+SwordAndShield;0060;Struxion Demolisher
+SwordAndShield;0061;Secta Nulo
+SwordAndShield;0062;Secta Unu
+SwordAndShield;0063;Secta Nulo (W)
+SwordAndShield;0064;Secta Unu (W)
+SwordAndShield;0065;Secta Du (W)
+SwordAndShield;0066;Secta Nulo (G)
+SwordAndShield;0067;Secta Unu (G)
+SwordAndShield;0068;Secta Du (G)
+SwordAndShield;0069;Qurupeco Flight
+SwordAndShield;006A;Qurupeco's Blight
+SwordAndShield;006B;Tusk Gear
+SwordAndShield;006C;Fossil Gear
+SwordAndShield;006D;Skull's Wrath
+SwordAndShield;006E;Chalcamine Sword
+SwordAndShield;006F;Chalcomatia
+SwordAndShield;0070;Sea Striker
+SwordAndShield;0071;Abyssal Striker
+SwordAndShield;0072;Ruinous Striker
+SwordAndShield;0073;Ark Striker
+SwordAndShield;0074;Arken Duelcalion
+SwordAndShield;0075;Jhen Kodachi
+SwordAndShield;0076;Calm Sands
+SwordAndShield;0077;Iris Earthkiller
+SwordAndShield;0078;Earthbane Gladiolus
+SwordAndShield;0079;Chak Chak
+SwordAndShield;007A;Wagga Wagga
+SwordAndShield;007B;Gimble Gyre
+SwordAndShield;007C;Odyssey Blade
+SwordAndShield;007D;Master Odyssey
+SwordAndShield;007E;Rusted Sword
+SwordAndShield;007F;Tarnished Sword
+SwordAndShield;0080;Eternal Strife
+SwordAndShield;0081;Eternal Hate
+SwordAndShield;0082;Eternal Vengeance
+SwordAndShield;0083;Worn Sword
+SwordAndShield;0084;Weathered Sword
+SwordAndShield;0085;Divine Exodus
+SwordAndShield;0086;Divine Insodus
+SwordAndShield;0087;Alatreon Sword
+SwordAndShield;0088;Alatreon Star
+SwordAndShield;0089;Altheos Zodiarch
+SwordAndShield;008A;Megiddo Edge
+SwordAndShield;008B;The Mornifestation
+SwordAndShield;008C;Sanctioned Sword
+SwordAndShield;008D;Sanctioned Sword (RARE 1 USELESS)
+SwordAndShield;008E;
+SwordAndShield;008F;
+SwordAndShield;0090;
+SwordAndShield;0091;
+SwordAndShield;0092;
+SwordAndShield;0093;
+SwordAndShield;0094;
+SwordAndShield;0095;
+SwordAndShield;0096;
+SwordAndShield;0097;
+SwordAndShield;0098;
+SwordAndShield;0099;
+SwordAndShield;009A;
+SwordAndShield;009B;
+SwordAndShield;009C;
+SwordAndShield;009D;
+SwordAndShield;009E;
+SwordAndShield;009F;
+SwordAndShield;00A0;
+SwordAndShield;00A1;
+SwordAndShield;00A2;
+SwordAndShield;00A3;
+SwordAndShield;00A4;
+SwordAndShield;00A5;
+SwordAndShield;00A6;
+SwordAndShield;00A7;
+SwordAndShield;00A8;
+SwordAndShield;00A9;
+SwordAndShield;00AA;
+SwordAndShield;00AB;
+SwordAndShield;00AC;
+SwordAndShield;00AD;
+SwordAndShield;00AE;
+SwordAndShield;00AF;
+SwordAndShield;00B0;
+SwordAndShield;00B1;
+SwordAndShield;00B2;
+SwordAndShield;00B3;
+SwordAndShield;00B4;
+SwordAndShield;00B5;
+SwordAndShield;00B6;
+SwordAndShield;00B7;
+SwordAndShield;00B8;
+SwordAndShield;00B9;
+SwordAndShield;00BA;
+SwordAndShield;00BB;
+SwordAndShield;00BC;
+SwordAndShield;00BD;
+SwordAndShield;00BE;
+SwordAndShield;00BF;
+SwordAndShield;00C0;
+SwordAndShield;00C1;
+SwordAndShield;00C2;
+SwordAndShield;00C3;
+SwordAndShield;00C4;
+SwordAndShield;00C5;
+SwordAndShield;00C6;
+SwordAndShield;00C7;
+SwordAndShield;00C8;
+SwordAndShield;00C9;
+SwordAndShield;00CA;
+SwordAndShield;00CB;
+SwordAndShield;00CC;
+SwordAndShield;00CD;
+SwordAndShield;00CE;
+SwordAndShield;00CF;
+SwordAndShield;00D0;
+SwordAndShield;00D1;
+SwordAndShield;00D2;
+SwordAndShield;00D3;
+SwordAndShield;00D4;
+SwordAndShield;00D5;
+SwordAndShield;00D6;
+SwordAndShield;00D7;
+SwordAndShield;00D8;
+SwordAndShield;00D9;
+SwordAndShield;00DA;
+SwordAndShield;00DB;
+SwordAndShield;00DC;
+SwordAndShield;00DD;
+SwordAndShield;00DE;
+SwordAndShield;00DF;
+SwordAndShield;00E0;
+SwordAndShield;00E1;
+SwordAndShield;00E2;
+SwordAndShield;00E3;
+SwordAndShield;00E4;
+SwordAndShield;00E5;
+SwordAndShield;00E6;
+SwordAndShield;00E7;
+SwordAndShield;00E8;
+SwordAndShield;00E9;
+SwordAndShield;00EA;
+SwordAndShield;00EB;
+SwordAndShield;00EC;
+SwordAndShield;00ED;
+SwordAndShield;00EE;
+SwordAndShield;00EF;
+SwordAndShield;00F0;
+SwordAndShield;00F1;
+SwordAndShield;00F2;
+SwordAndShield;00F3;
+SwordAndShield;00F4;
+SwordAndShield;00F5;
+SwordAndShield;00F6;
+SwordAndShield;00F7;
+SwordAndShield;00F8;
+SwordAndShield;00F9;
+SwordAndShield;00FA;
+SwordAndShield;00FB;
+SwordAndShield;00FC;
+SwordAndShield;00FD;
+SwordAndShield;00FE;
+SwordAndShield;00FF;
+SwordAndShield;0100;
+SwordAndShield;0FFE;No Name RARE Glitched (No Design)
+SwordAndShield;0FFF;
+SwordAndShield;1000;No Name RARE Glitched (No Design)
+Waist;0001;Leather Pants
+Waist;0002;Piscine Breeches
+Waist;0003;Chainmail Pants
+Waist;0004;Loc Lac Boots
+Waist;0005;Hunter's Greaves
+Waist;0006;Hunter's Leggings
+Waist;0007;Bone Greaves
+Waist;0008;Bone Leggings
+Waist;0009;Alloy Greaves
+Waist;000A;Alloy Leggings
+Waist;000B;Jaggi Greaves
+Waist;000C;jaggi Leggings
+Waist;000D;Bnahabra Boots
+Waist;000E;Bnahabra Pants
+Waist;000F;Rhenoplos Greaves
+Waist;0010;Rhenoplos Leggings
+Waist;0011;Qurupeco Greaves
+Waist;0012;Qurupeco Leggings
+Waist;0013;Ludroth Greaves
+Waist;0014;Ludroth Leggings
+Waist;0015;Baggi Greaves
+Waist;0016;Baggi Leggings
+Waist;0017;Barroth Greaves
+Waist;0018;Barroth Leggings
+Waist;0019;Gobul Greaves
+Waist;001A;Gobul Leggings
+Waist;001B;DUMMY
+Waist;001C;DUMMY
+Waist;001D;Guild Bard Boots
+Waist;001E;Guild Bard Galters
+Waist;001F;Scholar's Socks
+Waist;0020;Scholar's Sandals
+Waist;0021;Rathian Greaves
+Waist;0022;Rathian Leggings
+Waist;0023;Gigginox Greaves
+Waist;0024;Gigginox Leggings
+Waist;0025;Ingot Greaves
+Waist;0026;Ingot Leggings
+Waist;0027;Lagiacrus Greaves
+Waist;0028;Lagiacrus Leggings
+Waist;0029;Rathalos Greaves
+Waist;002A;Rathalos Leggings
+Waist;002B;Barioth Greaves
+Waist;002C;Barioth Leggings
+Waist;002D;Diablos Greaves
+Waist;002E;Diablos Leggings
+Waist;002F;Uragaan Greaves
+Waist;0030;Uragaan Leggings
+Waist;0031;Agnaktor Greaves
+Waist;0032;Agnaktor Leggings
+Waist;0033;Helios Greaves
+Waist;0034;Helios Leggings
+Waist;0035;Selene Greaves
+Waist;0036;Selene Leggings
+Waist;0037;Wroggi Greaves
+Waist;0038;Wroggi Leggings
+Waist;0039;Arzuros Greaves
+Waist;003A;Arzuros Leggings
+Waist;003B;Lagombi Greaves
+Waist;003C;Lagombi Leggings
+Waist;003D;Volvidon Greaves
+Waist;003E;Volvidon Leggings
+Waist;003F;Nibelsnarf Greaves
+Waist;0040;Nibelsnarf Leggings
+Waist;0041;Duramboros Greaves
+Waist;0042;Duramboros Leggings
+Waist;0043;Yukumo Hakama
+Waist;0044;DUMMY
+Waist;0045;DUMMY
+Waist;0046;DUMMY
+Waist;0047;DUMMY
+Waist;0048;DUMMY
+Waist;0049;DUMMY
+Waist;004A;DUMMY
+Waist;004B;DUMMY
+Waist;004C;Leather Greaves S
+Waist;004D;Leather Leggings S
+Waist;004E;Piscine Breeches S
+Waist;004F;Piscine Leggings S
+Waist;0050;Chainmail Greaves S
+Waist;0051;Chainmail Leggings S
+Waist;0052;Loc Lac Boots S
+Waist;0053;Loc Lac Galters S
+Waist;0054;Hunter's Greaves S
+Waist;0055;Hunter's Leggings S
+Waist;0056;Bone Greaves S
+Waist;0057;Bone Leggings S
+Waist;0058;Alloy Greaves S
+Waist;0059;Alloy Leggings S
+Waist;005A;Jaggi Greaves S
+Waist;005B;Jaggi Leggings S
+Waist;005C;Bnahabra Boots S
+Waist;005D;Bnahabra Pants S
+Waist;005E;Rhenoplos Greaves S
+Waist;005F;Rhenoplos Leggings S
+Waist;0060;Qurupeco Greaves S
+Waist;0061;Qurupeco Leggings S
+Waist;0062;Qurupeco Greaves U
+Waist;0063;Qurupeco Leggings U
+Waist;0064;Ludroth Greaves S
+Waist;0065;Ludroth Leggings S
+Waist;0066;Ludroth Greaves U
+Waist;0067;Ludroth Leggings U
+Waist;0068;Baggi Greaves S
+Waist;0069;Baggi Leggings S
+Waist;006A;Wroggi Greaves S
+Waist;006B;Wroggi Leggings S
+Waist;006C;Arzuros Greaves S
+Waist;006D;Arzuros Leggings S
+Waist;006E;Lagombi Greaves S
+Waist;006F;Lagombi Leggings S
+Waist;0070;Volvidon Greaves S
+Waist;0071;Volvidon Leggings S
+Waist;0072;Barroth Greaves S
+Waist;0073;Barroth Leggings S
+Waist;0074;Barroth Greaves U
+Waist;0075;Barroth Leggings U
+Waist;0076;Gobul Greaves S
+Waist;0077;Gobul Leggings S
+Waist;0078;Guild Bard Boots S
+Waist;0079;Guild Bard Galters S
+Waist;007A;Scholar's Socks S
+Waist;007B;Scholar's Sandals S
+Waist;007C;Rathian Greaves S
+Waist;007D;Rathian Leggings S
+Waist;007E;Rath Heart Greaves
+Waist;007F;Rath Heart Leggings
+Waist;0080;Gigginox Greaves S
+Waist;0081;Gigginox Leggings S
+Waist;0082;Gigginox Greaves U
+Waist;0083;Gigginox Leggings U
+Waist;0084;Ingot Greaves S
+Waist;0085;Ingot Leggings S
+Waist;0086;Dober Greaves
+Waist;0087;Dober Leggings
+Waist;0088;Yukumo Sky Hakama
+Waist;0089;Yukumo Land Hakama
+Waist;008A;Aelucanth Crura
+Waist;008B;Aelucanth Tarsi
+Waist;008C;Rhopessa Crura
+Waist;008D;Rhopessa Tarsi
+Waist;008E;Mosgharl Roots
+Waist;008F;Mosgharl Radicles
+Waist;0090;Artian Greaves
+Waist;0091;Artian Leggings
+Waist;0092;Lagiacrus Greaves S
+Waist;0093;Lagiacrus Leggings S
+Waist;0094;Lagiacrus Greaves U
+Waist;0095;Lagiacrus Leggings U
+Waist;0096;Rathalos Greaves S
+Waist;0097;Rathalos Leggings S
+Waist;0098;Rath Soul Greaves
+Waist;0099;Rath Soul Leggings
+Waist;009A;Barioth Greaves S
+Waist;009B;Barioth Leggings S
+Waist;009C;Barioth Greaves U
+Waist;009D;Barioth Leggings U
+Waist;009E;Diablos Greaves S
+Waist;009F;Diablos Leggings S
+Waist;00A0;Diablos Greaves U
+Waist;00A1;Diablos Leggings U
+Waist;00A2;Uragaan Greaves S
+Waist;00A3;Uragaan Leggings S
+Waist;00A4;Uragaan Greaves U
+Waist;00A5;Uragaan Leggings U
+Waist;00A6;Agnaktor Greaves S
+Waist;00A7;Agnaktor Leggings S
+Waist;00A8;Agnaktor Greaves U
+Waist;00A9;Agnaktor Leggings U
+Waist;00AA;Vangis Greaves
+Waist;00AB;Vangis Leggings
+Waist;00AC;Damascus Greaves
+Waist;00AD;Damascus Leggings
+Waist;00AE;DUMMY
+Waist;00AF;DUMMY
+Waist;00B0;DUMMY
+Waist;00B1;DUMMY
+Waist;00B2;Yamato Gusoku
+Waist;00B3;Mutsu Gusoku
+Waist;00B4;Hyuga Hakama
+Waist;00B5;Amagi Hakama
+Waist;00B6;Escadora Scale
+Waist;00B7;Escadora Scala
+Waist;00B8;Zinogre Greaves
+Waist;00B9;Zinogre Leggings
+Waist;00BA;Nibelsnarf Greaves S
+Waist;00BB;Nibelsnarf Leggings S
+Waist;00BC;Duramboros Greaves S
+Waist;00BD;Duramboros Leggings S
+Waist;00BE;Nargacuga Greaves
+Waist;00BF;Nargacuga Leggings
+Waist;00C0;Plesioth Greaves
+Waist;00C1;Plesioth Leggings
+Waist;00C2;Brachydios Greaves
+Waist;00C3;Brachydios Leggings
+Waist;00C4;Dianthus Breeches
+Waist;00C5;Campanile Breeches
+Waist;00C6;Ranger's Espadrilles
+Waist;00C7;Archer's Espadrilles
+Waist;00C8;DUMMY
+Waist;00C9;DUMMY
+Waist;00CA;DUMMY
+Waist;00CB;DUMMY
+Waist;00CC;DUMMY
+Waist;00CD;DUMMY
+Waist;00CE;DUMMY
+Waist;00CF;DUMMY
+Waist;00D0;DUMMY
+Waist;00D1;DUMMY
+Waist;00D2;DUMMY
+Waist;00D3;DUMMY
+Waist;00D4;Ingot Greaves X
+Waist;00D5;Ingot Leggings X
+Waist;00D6;Bnahabra Boots X
+Waist;00D7;Bnahabra Pants X
+Waist;00D8;Rhenoplos Greaves X
+Waist;00D9;Rhenoplos Leggings X
+Waist;00DA;Jaggi Greaves X
+Waist;00DB;Jaggi Leggings X
+Waist;00DC;Baggi Greaves X
+Waist;00DD;Baggi Leggings X
+Waist;00DE;Wroggi Greaves X
+Waist;00DF;Wroggi Leggings X
+Waist;00E0;Arzuros Greaves X
+Waist;00E1;Arzuros Leggings X
+Waist;00E2;Lagombi Greaves X
+Waist;00E3;Lagombi Leggings X
+Waist;00E4;Volvidon Greaves X
+Waist;00E5;Volvidon Leggings X
+Waist;00E6;Qurupeco Greaves X
+Waist;00E7;Qurupeco Leggings X
+Waist;00E8;Qurupeco Greaves Z
+Waist;00E9;Qurupeco Leggings Z
+Waist;00EA;Ludroth Greaves X
+Waist;00EB;Ludroth Leggings X
+Waist;00EC;Ludroth Greaves Z
+Waist;00ED;Ludroth Leggings Z
+Waist;00EE;Barroth Greaves X
+Waist;00EF;Barroth Leggings X
+Waist;00F0;Barroth Greaves Z
+Waist;00F1;Barroth Leggings Z
+Waist;00F2;Gobul Greaves X
+Waist;00F3;Gobul Leggings X
+Waist;00F4;Rathalos Greaves X
+Waist;00F5;Rathalos Leggings X
+Waist;00F6;Rath Soul Greaves Z
+Waist;00F7;Rath Soul Leggings Z
+Waist;00F8;Silver Solgreaves
+Waist;00F9;Silver solleggings
+Waist;00FA;Rathian Greaves X
+Waist;00FB;Rathian Leggings X
+Waist;00FC;Rath Heart Greaves Z
+Waist;00FD;Rath Heart Leggings Z
+Waist;00FE;Golden Lunegreaves
+Waist;00FF;Golden Luneleggings
+Waist;0100;Lagiacrus Greaves X
+Waist;0101;Lagiacrus Leggings X
+Waist;0102;Lagiacrus Greaves Z
+Waist;0103;Lagiacrus Leggings Z
+Waist;0104;Nether Greaves
+Waist;0105;Nether Leggings
+Waist;0106;Gigginox Greaves X
+Waist;0107;Gigginox Leggings X
+Waist;0108;Gigginox Greaves Z
+Waist;0109;Gigginox Leggings Z
+Waist;010A;Barioth Greaves X
+Waist;010B;Barioth Leggings X
+Waist;010C;Barioth Greaves Z
+Waist;010D;Barioth Leggings Z
+Waist;010E;Diablos Greaves X
+Waist;010F;Diablos Leggings X
+Waist;0110;Diablos Greaves Z
+Waist;0111;Diablos Leggings Z
+Waist;0112;Uragaan Greaves X
+Waist;0113;Uragaan Leggings X
+Waist;0114;Uragaan Greaves Z
+Waist;0115;Uragaan Leggings Z
+Waist;0116;Agnaktor Greaves X
+Waist;0117;Agnaktor Leggings X
+Waist;0118;Agnaktor Greaves Z
+Waist;0119;Agnaktor Leggings Z
+Waist;011A;Helios Greaves X
+Waist;011B;Helios Leggings X
+Waist;011C;Helios Greaves Z
+Waist;011D;Helios Leggings Z
+Waist;011E;Selene Greaves X
+Waist;011F;Selene Leggings X
+Waist;0120;Selene Greaves Z
+Waist;0121;Selene Leggings Z
+Waist;0122;Grand Yamato Gusoku
+Waist;0123;Grand Mutsu Gusoku
+Waist;0124;Grand Hyuga Hakama
+Waist;0125;Grand Amagi Hakama
+Waist;0126;Yamato Gusoku Prime
+Waist;0127;Mutsu Gusoku Prime
+Waist;0128;Hyuga Hakama Prime
+Waist;0129;Amagi Hakama Prime
+Waist;012A;Vangis Greaves X
+Waist;012B;Vangis Leggings X
+Waist;012C;Escadora Scale X
+Waist;012D;Escadora Scala X
+Waist;012E;Zinogre Greaves X
+Waist;012F;Zinogre Leggings X
+Waist;0130;Zinogre Greaves Z
+Waist;0131;Zinogre Leggings Z
+Waist;0132;Nibelsnarf Greaves X
+Waist;0133;Nibelsnarf Leggings X
+Waist;0134;Duramboros Greaves X
+Waist;0135;Duramboros Leggings X
+Waist;0136;Duramboros Greaves Z
+Waist;0137;Duramboros Leggings Z
+Waist;0138;Nargacuga Greaves X
+Waist;0139;Nargacuga Leggings X
+Waist;013A;Nargacuga Greaves Z
+Waist;013B;Nargacuga Leggings Z
+Waist;013C;Lambent Galters
+Waist;013D;Silhouette Galters
+Waist;013E;Plesioth Greaves X
+Waist;013F;Plesioth Leggings X
+Waist;0140;Plesioth Greaves Z
+Waist;0141;Plesioth Leggings Z
+Waist;0142;Brachydios Greaves X
+Waist;0143;Brachydios Leggings X
+Waist;0144;Damascus Coil
+Waist;0145;Damascus Coat X
+Waist;0146;Dober Coil X
+Waist;0147;Dober Coat X
+Waist;0148;DUMMY
+Waist;0149;DUMMY
+Waist;014A;DUMMY
+Waist;014B;DUMMY
+Waist;014C;Aelucanth Elytra X
+Waist;014D;Aelucanth Alae X
+Waist;014E;Rhopessa Elytra X
+Waist;014F;Rhopessa Alae X
+Waist;0150;Mosgharl Folia X
+Waist;0151;Mosgharl Fronds X
+Waist;0152;Mosgharl Roots X
+Waist;0153;Mosgharl Radicles X
+Waist;0154;Artian Greaves X
+Waist;0155;Artian Leggings X
+Waist;0156;Dianthus Wealpants
+Waist;0157;Campanile Wealpants
+Waist;0158;Strider's Espadrilles
+Waist;0159;Deadeye's Espadrilles
+Waist;015A;Guild Bard Boots X
+Waist;015B;Guild Bard Galters X
+Waist;015C;Scholar's Socks X
+Waist;015D;Scholar's Sandals X
+Waist;015E;DUMMY
+Waist;015F;DUMMY
+Waist;0160;Sailor Socks
+Waist;0161;Sailor Sandals
+Waist;0162;Chakra Anklet
+Waist;0163;DUMMY
+Waist;0164;DUMMY
+Waist;0165;DUMMY
+Waist;0166;DUMMY
+Waist;0167;DUMMY
+Waist;0168;DUMMY
+Waist;0169;DUMMY
+Waist;016A;DUMMY
+Waist;016B;DUMMY
+Waist;016C;DUMMY
+Waist;016D;DUMMY
+Waist;016E;DUMMY
+Waist;016F;DUMMY
+Waist;0170;DUMMY
