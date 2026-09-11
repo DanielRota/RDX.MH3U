@@ -2,9 +2,9 @@
 
 namespace RDX.MH3U.Forms;
 
-public sealed class EquipmentCell : ItemCell<EquipmentItem>
+public sealed class EquipmentCell : ItemCell<EquipmentItemBase>
 {
-    public EquipmentCell(EquipmentItem item, Action<EquipmentItem, int> addHandler, int index)
+    public EquipmentCell(EquipmentItemBase item, Action<EquipmentItemBase, int> addHandler, int index)
         : base(item, addHandler, index)
     {
     }

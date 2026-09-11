@@ -5,27 +5,28 @@ namespace RDX.MH3U.Forms;
 
 public partial class EquipmentForm : Form
 {
-    private bool _initializing;
+    private bool _initializing = true;
 
     private HexValueCategory _category;
 
-    private readonly ItemCell<EquipmentItem> _cell;
+    private readonly ItemCell<EquipmentItemBase> _cell;
     private HexValue[] _items = Array.Empty<HexValue>();
 
-    private EquipmentItem Item => _cell.Item;
+    private EquipmentItemBase Item => _cell.Item;
     private HexValue[] Decorations => HexData.Collection[HexValueCategory.Decoration];
+    private HexValue[] Skills => HexData.Collection[HexValueCategory.Skill];
 
-    public EquipmentForm(ItemCell<EquipmentItem> cell)
+    public EquipmentForm(ItemCell<EquipmentItemBase> cell)
     {
         InitializeComponent();
 
         _cell = cell;
     }
 
+    private void SetWritten() => Item.Status = HexItemStatus.Written;
+
     private void EquipmentForm_Load(object sender, EventArgs e)
     {
-        _initializing = true;
-
         ConfigureControls();
         LoadEquipment();
 
@@ -38,12 +39,17 @@ public partial class EquipmentForm : Form
         ConfigureComboBox(cbSlot1);
         ConfigureComboBox(cbSlot2);
         ConfigureComboBox(cbSlot3);
+        ConfigureComboBox(cbSkill1);
+        ConfigureComboBox(cbSkill2);
 
         cbClass.DataSource = HexData.Categories;
 
         cbSlot1.DataSource = Decorations;
         cbSlot2.DataSource = Decorations;
         cbSlot3.DataSource = Decorations;
+
+        cbSkill1.DataSource = Skills;
+        cbSkill2.DataSource = Skills;
     }
 
     private static void ConfigureComboBox(ComboBox combo)
@@ -64,15 +70,35 @@ public partial class EquipmentForm : Form
         cbSlot2.SelectedIndex = GetIndex(Decorations, Item.DecoValue_2);
         cbSlot3.SelectedIndex = GetIndex(Decorations, Item.DecoValue_3);
 
-        txtUpgrade.Text = Item.UpgradeLevel.ToString();
+        if (Item is ArmorEquipmentItem armor)
+        {
+            txtUpgrade.Text = armor.UpgradeLevel.ToString();
+            return;
+        }
+        if (Item is CharmEquipmentItem charm)
+        {
+            cbSkill1.SelectedIndex = GetIndex(Skills, charm.Skill_1);
+            cbSkill2.SelectedIndex = GetIndex(Skills, charm.Skill_2);
+
+            txtPoints1.Text = charm.SkillPoints_1.ToString();
+            txtPoints2.Text = charm.SkillPoints_2.ToString();
+
+            txtSlots.Text = charm.SlotsCount.ToString();
+
+            return;
+        }
     }
 
     private void SetCategory(HexValueCategory category)
     {
         _category = category;
+
         _items = HexData.Collection[category];
         cbValue.DataSource = _items;
+
         txtUpgrade.Enabled = HexData.ArmorCategories.Contains(category);
+        cbSkill1.Enabled = category == HexValueCategory.Charm;
+        cbSkill2.Enabled = category == HexValueCategory.Charm;
     }
 
     private static int GetIndex(HexValue[] values, HexValue value) =>
@@ -98,32 +124,39 @@ public partial class EquipmentForm : Form
         }
 
         SetCategory(category);
-
-        Item.Status = HexItemStatus.Written;
+        SetWritten();
     }
 
     private void cbValue_SelectedIndexChanged(object sender, EventArgs e)
     {
         if (_initializing ||
-            cbValue.SelectedItem is not HexValue value)
+            cbValue.SelectedItem is not HexValue value ||
+            Item.Value == value)
         {
             return;
         }
 
         Item.Value = value;
-        Item.Status = HexItemStatus.Written;
+        SetWritten();
     }
 
-    private void cbSlot1_SelectedIndexChanged(object sender, EventArgs e) =>
-        UpdateDecoration(cbSlot1, value => Item.DecoValue_1 = value);
+    private void txtUpgrade_TextChanged(object sender, EventArgs e)
+    {
+        if (ushort.TryParse(txtUpgrade.Text, out var level) && level >= 0 &&
+            Item is ArmorEquipmentItem armor &&
+            armor.UpgradeLevel != level)
+        {
+            armor.UpgradeLevel = level;
+            SetWritten();
+        }
+    }
 
-    private void cbSlot2_SelectedIndexChanged(object sender, EventArgs e) =>
-        UpdateDecoration(cbSlot2, value => Item.DecoValue_2 = value);
+    private void txtUpgrade_KeyPress(object sender, KeyPressEventArgs e)
+    {
+        e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+    }
 
-    private void cbSlot3_SelectedIndexChanged(object sender, EventArgs e) =>
-        UpdateDecoration(cbSlot3, value => Item.DecoValue_3 = value);
-
-    private void UpdateDecoration(ComboBox combo, Action<HexValue> setter)
+    private void UpdateComboValue(ComboBox combo, Action<HexValue> setter)
     {
         if (_initializing ||
             combo.SelectedItem is not HexValue value)
@@ -132,18 +165,91 @@ public partial class EquipmentForm : Form
         }
 
         setter(value);
-        Item.Status = HexItemStatus.Written;
+        SetWritten();
     }
 
-    private void txtUpgrade_TextChanged(object sender, EventArgs e)
-    {
-        if (ushort.TryParse(txtUpgrade.Text, out var level))
+    private void cbSlot1_SelectedIndexChanged(object sender, EventArgs e) =>
+        UpdateComboValue(cbSlot1, value => Item.DecoValue_1 = value);
+
+    private void cbSlot2_SelectedIndexChanged(object sender, EventArgs e) =>
+        UpdateComboValue(cbSlot2, value => Item.DecoValue_2 = value);
+
+    private void cbSlot3_SelectedIndexChanged(object sender, EventArgs e) =>
+        UpdateComboValue(cbSlot3, value => Item.DecoValue_3 = value);
+
+    private void cbSkill1_SelectedIndexChanged(object sender, EventArgs e) =>
+        UpdateComboValue(cbSkill1, value =>
         {
-            Item.UpgradeLevel = level;
+            if (Item is CharmEquipmentItem charm)
+            {
+                charm.Skill_1 = value;
+                SetWritten();
+            }
+        });
+
+    private void cbSkill2_SelectedIndexChanged(object sender, EventArgs e) =>
+        UpdateComboValue(cbSkill2, value =>
+        {
+            if (Item is CharmEquipmentItem charm)
+            {
+                charm.Skill_2 = value;
+                SetWritten();
+            }
+        });
+
+    private void EquipmentForm_KeyDown(object sender, KeyEventArgs e)
+    {
+        if (e.KeyCode == Keys.Escape)
+        {
+            this.Close();
         }
     }
 
-    private void txtUpgrade_KeyPress(object sender, KeyPressEventArgs e)
+    private void txtPoints1_KeyPress(object sender, KeyPressEventArgs e)
+    {
+        e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+    }
+
+    private void txtPoints2_KeyPress(object sender, KeyPressEventArgs e)
+    {
+        e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+    }
+
+    private void txtPoints1_TextChanged(object sender, EventArgs e)
+    {
+        if (int.TryParse(txtPoints1.Text, out var points1) &&
+            Item is CharmEquipmentItem charm &&
+            charm.SkillPoints_1 != points1)
+        {
+            charm.SkillPoints_1 = points1;
+            SetWritten();
+        }
+    }
+
+    private void txtPoints2_TextChanged(object sender, EventArgs e)
+    {
+        if (int.TryParse(txtPoints2.Text, out var points2) &&
+            Item is CharmEquipmentItem charm &&
+            charm.SkillPoints_2 != points2)
+        {
+            charm.SkillPoints_2 = points2;
+            SetWritten();
+        }
+    }
+
+    private void txtSlots_TextChanged(object sender, EventArgs e)
+    {
+        if (int.TryParse(txtSlots.Text, out var slots) &&
+            Item is CharmEquipmentItem charm &&
+            charm.SlotsCount != slots &&
+            slots >= 0 && slots <= 3)
+        {
+            charm.SlotsCount = slots;
+            SetWritten();
+        }
+    }
+
+    private void txtSlots_KeyPress(object sender, KeyPressEventArgs e)
     {
         e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
     }

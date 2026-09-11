@@ -1,6 +1,6 @@
 ﻿namespace RDX.MH3U.Hex;
 
-public readonly struct HexValue(
+public readonly record struct HexValue(
     string Hex,
     HexValueCategory Category,
     string Description)
@@ -10,7 +10,9 @@ public readonly struct HexValue(
 
     public string Description { get; } = Description;
 
-    public static HexValue Placeholder() => new(string.Empty, HexValueCategory.Placeholder, string.Empty);
+    public static HexValue Placeholder() =>
+        new(string.Empty, HexValueCategory.Placeholder, string.Empty);
 
-    public byte[] GetBytesOrDefault(int length) => !string.IsNullOrWhiteSpace(Hex) ? Convert.FromHexString(Hex) : new byte[length];
+    public byte[] GetBytesOrDefault(int length) =>
+        !string.IsNullOrWhiteSpace(Hex) ? Convert.FromHexString(Hex) : new byte[length];
 }

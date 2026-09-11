@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using RDX.MH3U.FileSave;
 using RDX.MH3U.FileSave.Models;
 using RDX.MH3U.Forms;
@@ -7,37 +8,51 @@ namespace RDX.MH3U;
 
 public partial class MainForm : Form
 {
-    public static string DataPath => Path.Combine(Environment.CurrentDirectory, "hex_data.csv");
+    private static string DataPath => Path.Combine(Environment.CurrentDirectory, "hex_data.csv");
 
-    public string FileSavePath;
-    public FileSaveObject FileSaveObj = new();
-    public FileStream FileStream;
+    private string FileSavePath;
+    private readonly FileSaveObject FileSaveObj = new();
 
-    public BoxForm<BoxItem> ItemsBoxForm;
-    public BoxForm<BoxItem> ItemsPouchForm;
-    public BoxForm<EquipmentItem> EquipmentForm;
+    private BoxForm<BoxItem> ItemsBoxForm;
+    private BoxForm<BoxItem> ItemsPouchForm;
+    private BoxForm<EquipmentItemBase> EquipmentForm;
 
     public MainForm() => InitializeComponent();
 
-    private async void MainForm_Load(object sender, EventArgs e) => await HexData.Collection.AddFromCSV(DataPath);
+    private void Log(string message) => txtLog.AppendText($" {DateTime.Now.ToString("HH:mm:ss")} | {message}\n");
+
+    private FileStream GetStream() => new FileStream(FileSavePath, FileMode.Open, FileAccess.ReadWrite);
+
+    private async void MainForm_Load(object sender, EventArgs e)
+    {
+        await HexData.Collection.AddFromCSV(DataPath);
+
+        Log("Save editor data loaded.");
+        Log("No file save selected.");
+
+        if (Debugger.IsAttached)
+        {
+            btnLoad_Click(sender, e);
+        }
+    }
 
     private async void btnLoad_Click(object sender, EventArgs e)
     {
         OpenFileDialog dialog = new();
 
         if (dialog.ShowDialog() == DialogResult.OK &&
-            ValidFile(dialog.FileName))
+            IsValidFile(dialog.FileName))
         {
             try
             {
                 FileSavePath = dialog.FileName;
-                FileStream = new FileStream(
-                    FileSavePath,
-                    FileMode.OpenOrCreate,
-                    FileAccess.ReadWrite);
 
-                await FileSaveReader.Load(FileSaveObj, FileStream);
+                using var stream = GetStream();
+                await FileSaveReader.Load(FileSaveObj, stream);
                 LoadInterface();
+
+                Log("--------------------------------------------------------------");
+                Log($"Loaded file save: \"{dialog.FileName}\".");
             }
             catch (Exception ex)
             {
@@ -50,7 +65,7 @@ public partial class MainForm : Form
         }
     }
 
-    private bool ValidFile(string path)
+    private bool IsValidFile(string path)
     {
         var info = new FileInfo(path);
 
@@ -61,6 +76,7 @@ public partial class MainForm : Form
                 "Invalid File",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Error);
+
             return false;
         }
 
@@ -73,7 +89,9 @@ public partial class MainForm : Form
         {
             try
             {
-                FileSaveBackup.Create(FileSavePath);
+                var path = FileSaveBackup.Create(FileSavePath);
+
+                Log($"Backup created at: \"{path}\".");
             }
             catch (Exception ex)
             {
@@ -87,7 +105,21 @@ public partial class MainForm : Form
             }
         }
 
-        await FileSaveWriter.WriteChanges(FileSaveObj, FileStream);
+        try
+        {
+            using var stream = GetStream();
+            await FileSaveWriter.WriteChanges(FileSaveObj, stream);
+
+            Log("File saved successfully.");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show(
+                $"ERR: {ex.Message}",
+                "Error Occured",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+        }
     }
 
     private void btnOpenEquipBox_Click(object sender, EventArgs e)
@@ -95,12 +127,12 @@ public partial class MainForm : Form
         const int EquipBoxCols = 10;
         const int EquipBoxRows = 10;
 
-        Action<EquipmentItem, int> addHandler = (EquipmentItem obj, int index) =>
+        Action<EquipmentItemBase, int> addHandler = (EquipmentItemBase obj, int index) =>
         {
             FileSaveObj.EquipmentBox[index] = obj;
         };
 
-        EquipmentForm ??= new BoxForm<EquipmentItem>(
+        EquipmentForm ??= new BoxForm<EquipmentItemBase>(
             EquipBoxCols,
             EquipBoxRows,
             FileSaveObj.EquipmentBox,
@@ -149,7 +181,6 @@ public partial class MainForm : Form
 
     private void LoadInterface()
     {
-        lblPath.Text = FileSavePath;
         txtName.Text = FileSaveObj.Character.Name;
         txtZenny.Text = FileSaveObj.Character.Zenny.ToString();
         txtPoints.Text = FileSaveObj.Character.Points.ToString();
@@ -159,6 +190,8 @@ public partial class MainForm : Form
         groupBox1.Visible = true;
         groupBox2.Visible = true;
         cbBackup.Visible = true;
+
+        btnSave.Enabled = true;
     }
 
     private void txtName_TextChanged(object sender, EventArgs e)
@@ -168,26 +201,24 @@ public partial class MainForm : Form
 
     private void txtZenny_TextChanged(object sender, EventArgs e)
     {
-        if (!int.TryParse(txtZenny.Text, out int zenny) || zenny < 0)
+        if (!uint.TryParse(txtZenny.Text, out uint zenny))
         {
             txtZenny.Undo();
+            return;
         }
-        else
-        {
-            FileSaveObj.Character.Zenny = uint.Parse(txtZenny.Text);
-        }
+
+        FileSaveObj.Character.Zenny = uint.Parse(txtZenny.Text);
     }
 
     private void txtPoints_TextChanged(object sender, EventArgs e)
     {
-        if (!int.TryParse(txtPoints.Text, out int points) || points < 0)
+        if (!uint.TryParse(txtPoints.Text, out uint points))
         {
             txtPoints.Undo();
+            return;
         }
-        else
-        {
-            FileSaveObj.Character.Points = uint.Parse(txtPoints.Text);
-        }
+
+        FileSaveObj.Character.Points = points;
     }
 
     private void rdbMale_CheckedChanged(object sender, EventArgs e)

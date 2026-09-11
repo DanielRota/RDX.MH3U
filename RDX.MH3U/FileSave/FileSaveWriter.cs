@@ -9,12 +9,15 @@ public static class FileSaveWriter
     private static FileSaveObject _save;
     private static FileStream _stream;
 
+    private static int _offset;
+
     public static async Task WriteChanges(FileSaveObject save, FileStream stream)
     {
         _save = save;
         _stream = stream;
 
         await WriteCharacter();
+        await WriteItemsPouch();
         await WriteItemsBox();
         await WriteEquipmentBox();
     }
@@ -51,72 +54,142 @@ public static class FileSaveWriter
                 continue;
             }
 
-            var offset = Constants.ItemsBoxOffset + (i * Constants.ItemFullLength);
-            var buffer = item.Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
+            _offset = Constants.ItemsBoxOffset + (i * Constants.ItemFullLength);
 
-            int pos = 0;
-            for (int j = Constants.ItemIdentifierLength - 1; j >= 0; j--)
-            {
-                await WriteByteAt(
-                    buffer?[j] ?? 0,
-                    offset + pos++);
-            }
-
-            await WriteByteAt(
-                (byte)(buffer != null ? item.Quantity : 0),
-                offset + Constants.ItemQuantityLength);
+            await WriteItemValue(item);
+            await WriteItemQuantity(item);
         }
     }
 
-    private static async Task WriteEquipmentBox()
+    private static async Task WriteItemsPouch()
     {
-        for (int i = 0; i < _save.EquipmentBox.Length; i++)
+        for (int i = 0; i < _save.ItemsPouch.Length; i++)
         {
-            EquipmentItem item = _save.EquipmentBox[i];
+            BoxItem item = _save.ItemsPouch[i];
 
             if (item.Status != HexItemStatus.Written)
             {
                 continue;
             }
 
-            var offset = Constants.EquipmentBoxOffset + (i * Constants.EquipmentLength);
+            _offset = Constants.ItemsPouchOffset + (i * Constants.ItemFullLength);
 
-            var prefix = HexData.Prefixes.First(x => x.Value == item.Category);
-            await WriteByteAt(prefix.Key, offset);
+            await WriteItemValue(item);
+            await WriteItemQuantity(item);
+        }
+    }
 
-            await WriteByteAt((byte)item.UpgradeLevel,
-                offset + Constants.UpgradeLevelPosition);
+    private static async Task WriteItemValue(BoxItem item)
+    {
+        var buffer = item.Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
 
-            var Value = item.Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
-            var Deco_1 = item.DecoValue_1.GetBytesOrDefault(Constants.ItemIdentifierLength);
-            var Deco_2 = item.DecoValue_2.GetBytesOrDefault(Constants.ItemIdentifierLength);
-            var Deco_3 = item.DecoValue_3.GetBytesOrDefault(Constants.ItemIdentifierLength);
+        int pos = 0;
+        for (int j = Constants.ItemIdentifierLength - 1; j >= 0; j--)
+        {
+            await WriteByteAt(
+                buffer[j], _offset + pos++);
+        }
+    }
 
-            int pos = 0;
-            for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
+    private static async Task WriteItemQuantity(BoxItem item)
+    {
+        await WriteByteAt((byte)item.Quantity,
+            _offset + Constants.ItemQuantityLength);
+    }
+
+    private static async Task WriteEquipmentBox()
+    {
+        for (int i = 0; i < _save.EquipmentBox.Length; i++)
+        {
+            EquipmentItemBase item = _save.EquipmentBox[i];
+
+            if (item.Status != HexItemStatus.Written)
             {
-                await WriteByteAt(
-                    Value?[j] ?? 0,
-                    offset + Constants.EquipmentIdentifierStartPosition + pos++);
+                continue;
             }
-            for (int j = 0; j < Constants.EquipmentIdentifierLength; j++)
-            {
-                await WriteByteAt(
-                    Deco_1?[j] ?? 0,
-                    offset + Constants.DecoStartPosition_1 + j);
-            }
-            for (int j = 0; j < Constants.EquipmentIdentifierLength; j++)
-            {
-                await WriteByteAt(
-                    Deco_2?[j] ?? 0,
-                    offset + Constants.DecoStartPosition_2 + j);
-            }
-            for (int j = 0; j < Constants.EquipmentIdentifierLength; j++)
-            {
-                await WriteByteAt(
-                    Deco_3?[j] ?? 0,
-                    offset + Constants.DecoStartPosition_3 + j);
-            }
+
+            _offset = Constants.EquipmentBoxOffset + (i * Constants.EquipmentLength);
+
+            await WriteEquipmentCategory(item);
+            await WriteEquipmentUpgradeLevel(item);
+            await WriteEquipmentValue(item);
+            await WriteEquipmentDecorations(item);
+            await WriteEquipmentCharm(item);
+        }
+    }
+
+    private static async Task WriteEquipmentCategory(EquipmentItemBase item)
+    {
+        var prefix = HexData.Prefixes.First(x => x.Value == item.Category);
+        await WriteByteAt(prefix.Key, _offset);
+    }
+
+    private static async Task WriteEquipmentUpgradeLevel(EquipmentItemBase item)
+    {
+        var UpgradeLevel = item is ArmorEquipmentItem armor
+                ? armor.UpgradeLevel
+                : 0;
+        await WriteByteAt((byte)UpgradeLevel,
+            _offset + Constants.UpgradeLevelPosition);
+    }
+
+    private static async Task WriteEquipmentValue(EquipmentItemBase item)
+    {
+        var Value = item.Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
+
+        int pos = 0;
+        for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
+        {
+            await WriteByteAt(
+                Value[j], _offset + Constants.EquipmentIdentifierStartPosition + pos++);
+        }
+    }
+
+    private static async Task WriteEquipmentDecorations(EquipmentItemBase item)
+    {
+        var Deco_1 = item.DecoValue_1.GetBytesOrDefault(Constants.ItemIdentifierLength);
+        var Deco_2 = item.DecoValue_2.GetBytesOrDefault(Constants.ItemIdentifierLength);
+        var Deco_3 = item.DecoValue_3.GetBytesOrDefault(Constants.ItemIdentifierLength);
+
+        int pos = 0;
+        for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
+        {
+            await WriteByteAt(
+                Deco_1[j], _offset + Constants.DecoStartPosition_1 + pos++);
+        }
+        pos = 0;
+        for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
+        {
+            await WriteByteAt(
+                Deco_2[j], _offset + Constants.DecoStartPosition_2 + pos++);
+        }
+        pos = 0;
+        for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
+        {
+            await WriteByteAt(
+                Deco_3[j], _offset + Constants.DecoStartPosition_3 + pos++);
+        }
+    }
+
+    private static async Task WriteEquipmentCharm(EquipmentItemBase item)
+    {
+        if (item is CharmEquipmentItem charm)
+        {
+            var Skill_1 = charm.Skill_1.GetBytesOrDefault(Constants.CharmSkillLength);
+            var Skill_2 = charm.Skill_2.GetBytesOrDefault(Constants.CharmSkillLength);
+
+            await WriteByteAt(
+                Skill_1[0], _offset + Constants.CharmSkillPosition_1);
+            await WriteByteAt(
+                Skill_1[0], _offset + Constants.CharmSkillPosition_2);
+
+            await WriteByteAt((byte)charm.SkillPoints_1,
+                _offset + Constants.CharmSkillPointsPosition_1);
+            await WriteByteAt((byte)charm.SkillPoints_2,
+               _offset + Constants.CharmSkillPointsPosition_2);
+
+            await WriteByteAt((byte)charm.SlotsCount,
+               _offset + Constants.CharmSlotsCountPosition);
         }
     }
 

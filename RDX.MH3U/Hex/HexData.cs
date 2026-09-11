@@ -13,15 +13,34 @@ public static class HexData
         HexValueCategory.Legs
     ];
 
+    public static HexValueCategory[] WeaponsCategories =
+    [
+        HexValueCategory.GreatSword,
+        HexValueCategory.LongSword,
+        HexValueCategory.SwordAndShield,
+        HexValueCategory.DualBlades,
+        HexValueCategory.Hammer,
+        HexValueCategory.HuntingHorn,
+        HexValueCategory.SwitchAxe,
+        HexValueCategory.Lance,
+        HexValueCategory.Gunlance,
+        HexValueCategory.Bow,
+        HexValueCategory.LightBowgun,
+        HexValueCategory.HeavyBowgun,
+    ];
+
     public readonly static Dictionary<byte, HexValueCategory> Prefixes = new()
     {
         { 0x00, HexValueCategory.Placeholder },
+
         { 0x01, HexValueCategory.Chest },
         { 0x02, HexValueCategory.Arms },
         { 0x03, HexValueCategory.Waist },
         { 0x04, HexValueCategory.Legs },
         { 0x05, HexValueCategory.Head },
-        { 0x06, HexValueCategory.Arms },
+
+        { 0x06, HexValueCategory.Charm },
+
         { 0x07, HexValueCategory.GreatSword },
         { 0x08, HexValueCategory.SwordAndShield },
         { 0x09, HexValueCategory.Hammer },

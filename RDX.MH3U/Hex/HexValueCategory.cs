@@ -12,6 +12,9 @@ public enum HexValueCategory
     Waist,
     Legs,
 
+    Charm,
+    Skill,
+
     GreatSword,
     LongSword,
     SwordAndShield,

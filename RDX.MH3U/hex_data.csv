@@ -1,3 +1,141 @@
+Charm;00;None
+Charm;01;Pawn Talisman
+Charm;02;Bishop Talisman
+Charm;03;Knight Talisman
+Charm;04;Rook Talisman
+Charm;05;Queen Talisman
+Charm;06;King Talisman
+Charm;07;Dragon Talisman
+Charm;08;Hero Talisman 
+Charm;09;Legend Talisman
+Charm;0A;Creator Talisman
+Skill;01;Torso Up
+Skill;02;Poison
+Skill;03;Sleep
+Skill;04;Paralysis
+Skill;05;Stun
+Skill;06;Mud/Snow
+Skill;07;Antiseptic
+Skill;08;Def Lock
+Skill;09;Dungmaster
+Skill;0A;Biology
+Skill;0B;Attack
+Skill;0C;Defense
+Skill;0D;Health
+Skill;0E;Rec Speed
+Skill;0F;Protection
+Skill;10;Sheathing
+Skill;11;FastCharge
+Skill;12;Expert
+Skill;13;Tenderizer
+Skill;14;Destroyer
+Skill;15;KO
+Skill;16;Stam Drain
+Skill;17;Constitutn
+Skill;18;Hearing
+Skill;19;Wind Res
+Skill;1A;Tremor Res
+Skill;1B;Heat Res
+Skill;1C;Cold Res
+Skill;1D;Stamina
+Skill;1E;Stam Recov
+Skill;1F;Evasion
+Skill;20;Evad Dist
+Skill;21;Dive Dist
+Skill;22;Sense
+Skill;23;Guard
+Skill;24;Guard Up
+Skill;25;Auto-Guard
+Skill;26;Status
+Skill;27;Fire Atk
+Skill;28;Water Atk
+Skill;29;ThunderAtk
+Skill;2A;Ice Atk
+Skill;2B;Dragon Atk
+Skill;2C;Elemental
+Skill;2D;Fire Res
+Skill;2E;Water Res
+Skill;2F;ThunderRes
+Skill;30;Ice Res
+Skill;31;Dragon Res
+Skill;32;Sharpness
+Skill;33;Handicraft
+Skill;34;Fencing
+Skill;35;Shapener
+Skill;36;Crit Draw
+Skill;37;PunishDraw
+Skill;38;Reload Spd
+Skill;39;Loading
+Skill;3A;Rapid Fire
+Skill;3B;Recoil
+Skill;3C;Precision
+Skill;3D;Normal Up
+Skill;3E;Pierce Up
+Skill;3F;Pellet Up
+Skill;40;Normal S+
+Skill;41;Pierce S+
+Skill;42;Pellet S+
+Skill;43;Crag S+
+Skill;44;Clust S+
+Skill;45;Slicing S+
+Skill;46;Slime S+
+Skill;47;Poison C+
+Skill;48;Para C+
+Skill;49;Sleep C+
+Skill;4A;Power C+
+Skill;4B;C.Range C+
+Skill;4C;Exhaust C+
+Skill;4D;Slime C+
+Skill;4E;Maestro
+Skill;4F;Artillery
+Skill;50;Bomb Boost
+Skill;51;Rec Level
+Skill;52;Wide-Range
+Skill;53;LastingPwr
+Skill;54;Hunger
+Skill;55;Gluttony
+Skill;56;Eating
+Skill;57;Carnivore
+Skill;58;Combo Rate
+Skill;59;Combo Plus
+Skill;5A;Gathering
+Skill;5B;Spd Gather
+Skill;5C;Whim
+Skill;5D;Honey
+Skill;5E;Charmer
+Skill;5F;Fate
+Skill;60;Carving
+Skill;61;Tranquilzr
+Skill;62;Perception
+Skill;63;Psychic
+Skill;64;Transportr
+Skill;65;Ranger
+Skill;66;Anti-Theft
+Skill;67;SpeedSetup
+Skill;68;Flame Aura
+Skill;69;Oxygen
+Skill;6A;CurrentRes
+Skill;6B;Swimming
+Skill;6C;Sea Legs
+Skill;6D;Potential
+Skill;6E;Surviver
+Skill;6F;Gloves Off
+Skill;70;Spirit
+Skill;71;Unscathed
+Skill;72;FreeElemnt
+Skill;73;Blight Res
+Skill;74;Status Res
+Skill;75;Unshakable
+Skill;76;Guts
+Skill;77;Edgemaster
+Skill;78;SteadyHead
+Skill;79;Fury
+Skill;7A;TeamPlayer
+Skill;7B;TeamLeader
+Skill;7C;Map
+Skill;7D;Fishing
+Skill;7E;BBQ
+Skill;7F;None
 Arms;0001;Leather Gloves
 Arms;0002;Chainmail Gloves
 Arms;0003;Hunter's Vambraces
@@ -3120,11 +3258,7 @@ Items;0001;(None)
 Items;0002;Book of Combo 1
 Items;0003;Book of Combo 2
 Items;0004;Book of Combo 3
-Items;0005;Book of Combo 4
-Items;0006;Book of Combo 4
-Items;0007;Organizer Guide
-Items;0008;Pack Rat Guide
-Items;0009;Potion
+Items;0005;Book o Potion
 Items;000A;Mega Potion
 Items;000B;Nutrients
 Items;000C;Mega Nutrients

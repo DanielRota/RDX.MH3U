@@ -45,18 +45,18 @@
             rdbFemale = new RadioButton();
             rdbMale = new RadioButton();
             groupBox2 = new GroupBox();
-            label2 = new Label();
-            lblPath = new Label();
             cbBackup = new CheckBox();
+            txtLog = new RichTextBox();
+            label3 = new Label();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             SuspendLayout();
             // 
             // btnLoad
             // 
-            btnLoad.Location = new Point(12, 234);
+            btnLoad.Location = new Point(12, 12);
             btnLoad.Name = "btnLoad";
-            btnLoad.Size = new Size(203, 53);
+            btnLoad.Size = new Size(180, 53);
             btnLoad.TabIndex = 0;
             btnLoad.Text = "Select File";
             btnLoad.UseVisualStyleBackColor = true;
@@ -64,7 +64,7 @@
             // 
             // txtName
             // 
-            txtName.Location = new Point(98, 33);
+            txtName.Location = new Point(86, 30);
             txtName.MaxLength = 10;
             txtName.Name = "txtName";
             txtName.Size = new Size(125, 27);
@@ -73,7 +73,7 @@
             // 
             // txtZenny
             // 
-            txtZenny.Location = new Point(98, 66);
+            txtZenny.Location = new Point(86, 63);
             txtZenny.MaxLength = 8;
             txtZenny.Name = "txtZenny";
             txtZenny.Size = new Size(125, 27);
@@ -82,7 +82,7 @@
             // 
             // txtPoints
             // 
-            txtPoints.Location = new Point(98, 99);
+            txtPoints.Location = new Point(86, 96);
             txtPoints.MaxLength = 8;
             txtPoints.Name = "txtPoints";
             txtPoints.Size = new Size(125, 27);
@@ -92,7 +92,7 @@
             // lblName
             // 
             lblName.AutoSize = true;
-            lblName.Location = new Point(20, 36);
+            lblName.Location = new Point(13, 33);
             lblName.Name = "lblName";
             lblName.Size = new Size(49, 20);
             lblName.TabIndex = 4;
@@ -102,7 +102,7 @@
             // lblZenny
             // 
             lblZenny.AutoSize = true;
-            lblZenny.Location = new Point(20, 69);
+            lblZenny.Location = new Point(13, 66);
             lblZenny.Name = "lblZenny";
             lblZenny.Size = new Size(49, 20);
             lblZenny.TabIndex = 5;
@@ -111,7 +111,7 @@
             // lblPoints
             // 
             lblPoints.AutoSize = true;
-            lblPoints.Location = new Point(20, 102);
+            lblPoints.Location = new Point(13, 99);
             lblPoints.Name = "lblPoints";
             lblPoints.Size = new Size(48, 20);
             lblPoints.TabIndex = 6;
@@ -119,9 +119,9 @@
             // 
             // btnOpenEquipBox
             // 
-            btnOpenEquipBox.Location = new Point(44, 65);
+            btnOpenEquipBox.Location = new Point(15, 26);
             btnOpenEquipBox.Name = "btnOpenEquipBox";
-            btnOpenEquipBox.Size = new Size(139, 93);
+            btnOpenEquipBox.Size = new Size(139, 57);
             btnOpenEquipBox.TabIndex = 7;
             btnOpenEquipBox.Text = "Equipment Box";
             btnOpenEquipBox.UseVisualStyleBackColor = true;
@@ -129,9 +129,9 @@
             // 
             // btnOpenItemsChest
             // 
-            btnOpenItemsChest.Location = new Point(189, 65);
+            btnOpenItemsChest.Location = new Point(15, 89);
             btnOpenItemsChest.Name = "btnOpenItemsChest";
-            btnOpenItemsChest.Size = new Size(139, 93);
+            btnOpenItemsChest.Size = new Size(139, 54);
             btnOpenItemsChest.TabIndex = 8;
             btnOpenItemsChest.Text = "Items Chest";
             btnOpenItemsChest.UseVisualStyleBackColor = true;
@@ -139,10 +139,9 @@
             // 
             // btnOpenItemsPouch
             // 
-            btnOpenItemsPouch.Enabled = false;
-            btnOpenItemsPouch.Location = new Point(334, 65);
+            btnOpenItemsPouch.Location = new Point(15, 149);
             btnOpenItemsPouch.Name = "btnOpenItemsPouch";
-            btnOpenItemsPouch.Size = new Size(139, 93);
+            btnOpenItemsPouch.Size = new Size(139, 54);
             btnOpenItemsPouch.TabIndex = 9;
             btnOpenItemsPouch.Text = "Items Pouch";
             btnOpenItemsPouch.UseVisualStyleBackColor = true;
@@ -150,11 +149,12 @@
             // 
             // btnSave
             // 
-            btnSave.Location = new Point(585, 234);
+            btnSave.Enabled = false;
+            btnSave.Location = new Point(198, 12);
             btnSave.Name = "btnSave";
-            btnSave.Size = new Size(203, 53);
+            btnSave.Size = new Size(180, 53);
             btnSave.TabIndex = 10;
-            btnSave.Text = "Save";
+            btnSave.Text = "Save Changes";
             btnSave.UseVisualStyleBackColor = true;
             btnSave.Click += btnSave_Click;
             // 
@@ -169,9 +169,9 @@
             groupBox1.Controls.Add(lblName);
             groupBox1.Controls.Add(lblZenny);
             groupBox1.Controls.Add(lblPoints);
-            groupBox1.Location = new Point(12, 12);
+            groupBox1.Location = new Point(384, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(254, 216);
+            groupBox1.Size = new Size(229, 216);
             groupBox1.TabIndex = 11;
             groupBox1.TabStop = false;
             groupBox1.Text = "Character";
@@ -180,7 +180,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(21, 156);
+            label1.Location = new Point(14, 153);
             label1.Name = "label1";
             label1.Size = new Size(57, 20);
             label1.TabIndex = 9;
@@ -189,7 +189,7 @@
             // rdbFemale
             // 
             rdbFemale.AutoSize = true;
-            rdbFemale.Location = new Point(98, 169);
+            rdbFemale.Location = new Point(86, 166);
             rdbFemale.Name = "rdbFemale";
             rdbFemale.Size = new Size(78, 24);
             rdbFemale.TabIndex = 8;
@@ -201,7 +201,7 @@
             // rdbMale
             // 
             rdbMale.AutoSize = true;
-            rdbMale.Location = new Point(98, 139);
+            rdbMale.Location = new Point(86, 136);
             rdbMale.Name = "rdbMale";
             rdbMale.Size = new Size(63, 24);
             rdbMale.TabIndex = 7;
@@ -215,52 +215,56 @@
             groupBox2.Controls.Add(btnOpenEquipBox);
             groupBox2.Controls.Add(btnOpenItemsChest);
             groupBox2.Controls.Add(btnOpenItemsPouch);
-            groupBox2.Location = new Point(272, 13);
+            groupBox2.Location = new Point(619, 12);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(516, 215);
+            groupBox2.Size = new Size(168, 216);
             groupBox2.TabIndex = 12;
             groupBox2.TabStop = false;
             groupBox2.Text = "Boxes";
             groupBox2.Visible = false;
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(12, 300);
-            label2.Name = "label2";
-            label2.Size = new Size(40, 20);
-            label2.TabIndex = 14;
-            label2.Text = "Path:";
-            // 
-            // lblPath
-            // 
-            lblPath.AutoSize = true;
-            lblPath.Location = new Point(58, 300);
-            lblPath.Name = "lblPath";
-            lblPath.Size = new Size(15, 20);
-            lblPath.TabIndex = 15;
-            lblPath.Text = "-";
-            // 
             // cbBackup
             // 
             cbBackup.AutoSize = true;
-            cbBackup.Location = new Point(709, 300);
+            cbBackup.Location = new Point(12, 237);
             cbBackup.Name = "cbBackup";
-            cbBackup.Size = new Size(79, 24);
+            cbBackup.Size = new Size(126, 24);
             cbBackup.TabIndex = 16;
-            cbBackup.Text = "Backup";
+            cbBackup.Text = "Create Backup";
             cbBackup.UseVisualStyleBackColor = true;
             cbBackup.Visible = false;
+            // 
+            // txtLog
+            // 
+            txtLog.BackColor = SystemColors.ButtonHighlight;
+            txtLog.BorderStyle = BorderStyle.FixedSingle;
+            txtLog.Font = new Font("Arial", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            txtLog.Location = new Point(12, 71);
+            txtLog.Margin = new Padding(20);
+            txtLog.Name = "txtLog";
+            txtLog.ReadOnly = true;
+            txtLog.ScrollBars = RichTextBoxScrollBars.ForcedVertical;
+            txtLog.Size = new Size(366, 157);
+            txtLog.TabIndex = 17;
+            txtLog.Text = "";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(12, 68);
+            label3.Name = "label3";
+            label3.Size = new Size(0, 20);
+            label3.TabIndex = 18;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            ClientSize = new Size(800, 338);
+            ClientSize = new Size(799, 271);
+            Controls.Add(label3);
+            Controls.Add(txtLog);
             Controls.Add(cbBackup);
-            Controls.Add(lblPath);
-            Controls.Add(label2);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Controls.Add(btnSave);
@@ -296,8 +300,8 @@
         private Label label1;
         private RadioButton rdbFemale;
         private RadioButton rdbMale;
-        private Label label2;
-        private Label lblPath;
         private CheckBox cbBackup;
+        private RichTextBox txtLog;
+        private Label label3;
     }
 }

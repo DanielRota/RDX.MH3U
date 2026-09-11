@@ -92,6 +92,7 @@
             Name = "BoxFormBase";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "MH3U Save Editor @ 2026 DanielDaix";
+            KeyDown += BoxFormBase_KeyDown;
             ResumeLayout(false);
             PerformLayout();
         }

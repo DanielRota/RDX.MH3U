@@ -8,6 +8,14 @@ public partial class BoxFormBase : Form
     {
         InitializeComponent();
     }
+
+    private void BoxFormBase_KeyDown(object sender, KeyEventArgs e)
+    {
+        if (e.KeyCode == Keys.Escape)
+        {
+            this.Close();
+        }
+    }
 }
 
 public class BoxForm<TItem> : BoxFormBase

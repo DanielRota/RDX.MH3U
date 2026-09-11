@@ -77,9 +77,29 @@ public static class ByteArrayExtensions
         return builder.ToString();
     }
 
+    public static string GetHexFromDecimal255(byte b, bool reverse = false)
+    {
+        var builder = new StringBuilder(2);
+
+        var hex = b < 16
+            ? GetHexFromDecimal16(b, true)
+            : GetHexFromDecimal16(b / 16) + GetHexFromDecimal16(b % 16);
+
+        if (reverse)
+        {
+            builder.Insert(0, hex);
+        }
+        else
+        {
+            builder.Append(hex);
+        }
+
+        return builder.ToString();
+    }
+
     private const string HexChars = "0123456789ABCDEF";
 
-    private static string GetHexFromDecimal16(int dec, bool padding = false)
+    public static string GetHexFromDecimal16(int dec, bool padding = false)
     {
         if (dec > 15)
         {

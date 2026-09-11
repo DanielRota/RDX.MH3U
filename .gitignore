@@ -361,3 +361,26 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/tmp/data.py
+/tmp/dec_to_hex.txt
+/tmp/Values/Data/Arms.csv
+/tmp/Values/Data/Bow.csv
+/tmp/Values/Data/Chest.csv
+/tmp/Values/Data/Decoration.csv
+/tmp/Values/Data/DualBlades.csv
+/tmp/Values/Data/GreatSword.csv
+/tmp/Values/Data/Gunlance.csv
+/tmp/Values/Data/Hammer.csv
+/tmp/Values/Data/Head.csv
+/tmp/Values/Data/HeavyBowgun.csv
+/tmp/Values/Data/HuntingHorn.csv
+/tmp/Values/Data/Items.csv
+/tmp/Values/Data/Lance.txt
+/tmp/Values/Data/Legs.csv
+/tmp/Values/Data/LightBowgun.csv
+/tmp/Values/Data/LongSword.csv
+/tmp/Values/Data/SwitchAxe.csv
+/tmp/Values/Data/SwordAndShield.csv
+/tmp/Values/Data/Waist.csv
+/tmp/Values/Status.csv
+/tmp/Values/Talismans Charms/Talismans_Charms.txt

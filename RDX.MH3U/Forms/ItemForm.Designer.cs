@@ -85,6 +85,7 @@
             Text = "MH3U Save Editor @ 2026 DanielDaix";
             FormClosing += ItemForm_FormClosing;
             Load += ItemForm_Load;
+            KeyDown += ItemForm_KeyDown;
             ResumeLayout(false);
             PerformLayout();
         }

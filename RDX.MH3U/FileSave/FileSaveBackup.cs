@@ -2,14 +2,15 @@
 
 public static class FileSaveBackup
 {
-    public static void Create(string path)
+    public static string Create(string path)
     {
         if (!File.Exists(path))
         {
             throw new FileNotFoundException(path);
         }
 
-        string backup = Path.Combine(path, "_", DateTime.Now.Ticks.ToString());
-        File.Copy(path, backup);
+        var newPath = $"{path}_{DateTime.Now.ToString("ddMMyyyyHHmmss")}";
+        File.Copy(path, newPath);
+        return newPath;
     }
 }
