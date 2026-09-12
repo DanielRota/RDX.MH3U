@@ -114,84 +114,52 @@ public static class FileSaveWriter
             await WriteEquipmentUpgradeLevel(item);
             await WriteEquipmentValue(item);
             await WriteEquipmentDecorations(item);
-            await WriteEquipmentCharm(item);
+            await WriteEquipmentCustom(item);
         }
     }
 
     private static async Task WriteEquipmentCategory(EquipmentItemBase item)
     {
-        var prefix = HexData.Prefixes.First(x => x.Value == item.Category);
+        KeyValuePair<byte, HexValueCategory> prefix = HexData.Prefixes
+            .First(x => x.Value == item.Category);
+
         await WriteByteAt(prefix.Key, _offset);
-    }
-
-    private static async Task WriteEquipmentUpgradeLevel(EquipmentItemBase item)
-    {
-        var UpgradeLevel = item is ArmorEquipmentItem armor
-                ? armor.UpgradeLevel
-                : 0;
-        await WriteByteAt((byte)UpgradeLevel,
-            _offset + Constants.UpgradeLevelPosition);
-    }
-
-    private static async Task WriteEquipmentValue(EquipmentItemBase item)
-    {
-        var Value = item.Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
-
-        int pos = 0;
-        for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
-        {
-            await WriteByteAt(
-                Value[j], _offset + Constants.EquipmentIdentifierStartPosition + pos++);
-        }
     }
 
     private static async Task WriteEquipmentDecorations(EquipmentItemBase item)
     {
-        var Deco_1 = item.DecoValue_1.GetBytesOrDefault(Constants.ItemIdentifierLength);
-        var Deco_2 = item.DecoValue_2.GetBytesOrDefault(Constants.ItemIdentifierLength);
-        var Deco_3 = item.DecoValue_3.GetBytesOrDefault(Constants.ItemIdentifierLength);
+        byte[] deco_1 = item.DecoValue_1.GetBytesOrDefault(Constants.ItemIdentifierLength);
+        byte[] deco_2 = item.DecoValue_2.GetBytesOrDefault(Constants.ItemIdentifierLength);
+        byte[] deco_3 = item.DecoValue_3.GetBytesOrDefault(Constants.ItemIdentifierLength);
 
         int pos = 0;
         for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
         {
-            await WriteByteAt(
-                Deco_1[j], _offset + Constants.DecoStartPosition_1 + pos++);
+            await WriteByteAt(deco_1[j],
+                _offset + Constants.DecoStartPosition_1 + pos++);
         }
         pos = 0;
         for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
         {
-            await WriteByteAt(
-                Deco_2[j], _offset + Constants.DecoStartPosition_2 + pos++);
+            await WriteByteAt(deco_2[j],
+                _offset + Constants.DecoStartPosition_2 + pos++);
         }
         pos = 0;
         for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
         {
-            await WriteByteAt(
-                Deco_3[j], _offset + Constants.DecoStartPosition_3 + pos++);
+            await WriteByteAt(deco_3[j],
+                _offset + Constants.DecoStartPosition_3 + pos++);
         }
     }
 
-    private static async Task WriteEquipmentCharm(EquipmentItemBase item)
-    {
-        if (item is CharmEquipmentItem charm)
-        {
-            var Skill_1 = charm.Skill_1.GetBytesOrDefault(Constants.CharmSkillLength);
-            var Skill_2 = charm.Skill_2.GetBytesOrDefault(Constants.CharmSkillLength);
+    private static async Task WriteEquipmentValue(EquipmentItemBase item) =>
+        await item.WriteEquipmentValue(_stream, _offset);
 
-            await WriteByteAt(
-                Skill_1[0], _offset + Constants.CharmSkillPosition_1);
-            await WriteByteAt(
-                Skill_1[0], _offset + Constants.CharmSkillPosition_2);
+    private static async Task WriteEquipmentUpgradeLevel(EquipmentItemBase item) =>
+        await item.WriteEquipmentUpgradeLevel(_stream, _offset);
 
-            await WriteByteAt((byte)charm.SkillPoints_1,
-                _offset + Constants.CharmSkillPointsPosition_1);
-            await WriteByteAt((byte)charm.SkillPoints_2,
-               _offset + Constants.CharmSkillPointsPosition_2);
-
-            await WriteByteAt((byte)charm.SlotsCount,
-               _offset + Constants.CharmSlotsCountPosition);
-        }
-    }
+    private static async Task WriteEquipmentCustom(EquipmentItemBase item) =>
+        await item.WriteEquipmentCustom(_stream, _offset);
 
     private static async Task WriteValueAt(object value, int offset, int size)
     {

@@ -7,7 +7,8 @@ public class CharmEquipmentItem : EquipmentItemBase
 {
     private const int SkillPointsLimit = 128;
 
-    public CharmEquipmentItem(HexValueCategory category, byte[] buffer) : base(category, buffer) => ParseBuffer(category, buffer);
+    public CharmEquipmentItem(HexValueCategory category, byte[] buffer)
+        : base(category, buffer) => ParseBuffer(category, buffer);
 
     public HexValue Skill_1 { get; set; }
     public HexValue Skill_2 { get; set; }
@@ -83,5 +84,34 @@ public class CharmEquipmentItem : EquipmentItemBase
         byte charm = buffer[Constants.CharmValuePosition];
         string charmHex = ByteArrayExtensions.GetHexFromDecimal16(charm, true);
         return HexData.Collection[HexValueCategory.Charm, charmHex];
+    }
+
+    public override async Task WriteEquipmentValue(FileStream stream, int offset)
+    {
+        byte[] value = Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
+
+        stream.Seek(offset + Constants.CharmValuePosition, SeekOrigin.Begin);
+        stream.WriteByte(value[0]);
+    }
+
+    public override async Task WriteEquipmentCustom(FileStream stream, int offset)
+    {
+        byte[] skill_1 = Skill_1.GetBytesOrDefault(Constants.CharmSkillLength);
+        byte[] skill_2 = Skill_2.GetBytesOrDefault(Constants.CharmSkillLength);
+
+        stream.Seek(offset + Constants.CharmSkillPosition_1, SeekOrigin.Begin);
+        stream.WriteByte(skill_1[0]);
+
+        stream.Seek(offset + Constants.CharmSkillPosition_2, SeekOrigin.Begin);
+        stream.WriteByte(skill_2[0]);
+
+        stream.Seek(offset + Constants.CharmSkillPointsPosition_1, SeekOrigin.Begin);
+        stream.WriteByte((byte)SkillPoints_1);
+
+        stream.Seek(offset + Constants.CharmSkillPointsPosition_2, SeekOrigin.Begin);
+        stream.WriteByte((byte)SkillPoints_2);
+
+        stream.Seek(offset + Constants.CharmSlotsCountPosition, SeekOrigin.Begin);
+        stream.WriteByte((byte)SlotsCount);
     }
 }

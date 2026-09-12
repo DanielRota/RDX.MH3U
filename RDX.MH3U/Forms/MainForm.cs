@@ -25,7 +25,7 @@ public partial class MainForm : Form
 
     private async void MainForm_Load(object sender, EventArgs e)
     {
-        await HexData.Collection.AddFromCSV(DataPath);
+        await HexData.Collection.AddFromCSV(DataPath, Log);
 
         Log("Save editor data loaded.");
         Log("No file save selected.");
@@ -39,6 +39,7 @@ public partial class MainForm : Form
     private async void btnLoad_Click(object sender, EventArgs e)
     {
         OpenFileDialog dialog = new();
+        dialog.Filter = "Save Files|user1;user2;user3";
 
         if (dialog.ShowDialog() == DialogResult.OK &&
             IsValidFile(dialog.FileName))

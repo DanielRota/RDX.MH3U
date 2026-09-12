@@ -47,4 +47,21 @@ public class EquipmentItemBase
         string hex = ByteArrayExtensions.GetHexFromDecimal255(bytes);
         return HexData.Collection[category, hex];
     }
+
+    public virtual async Task WriteEquipmentValue(FileStream stream, int offset)
+    {
+        byte[] value = Value.GetBytesOrDefault(Constants.ItemIdentifierLength);
+
+        int pos = 0;
+        for (int j = Constants.EquipmentIdentifierLength - 1; j >= 0; j--)
+        {
+            stream.Seek(offset + Constants.EquipmentIdentifierStartPosition + pos++,
+                SeekOrigin.Begin);
+            stream.WriteByte(value[j]);
+        }
+    }
+
+    public virtual async Task WriteEquipmentUpgradeLevel(FileStream stream, int offset) { }
+
+    public virtual async Task WriteEquipmentCustom(FileStream stream, int offset) { }
 }

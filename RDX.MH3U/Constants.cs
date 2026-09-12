@@ -33,8 +33,6 @@ public class Constants
     public const int EquipmentBoxLength = 16000;
     public const int EquipmentLength = 16;
 
-    // 
-
     public const int EquipmentCategoryPosition = 0;
     public const int EquipmentIdentifierStartPosition = 2;
     public const int EquipmentValuePosition_1 = 2;

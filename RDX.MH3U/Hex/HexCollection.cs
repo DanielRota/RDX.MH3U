@@ -2,10 +2,10 @@
 
 public class HexCollection
 {
-    private readonly List<HexValue> _values = new();
+    private readonly List<HexValue> _items = new();
 
     public HexValue[] this[HexValueCategory category] =>
-        _values.Where(x => x.Category == category).ToArray();
+        _items.Where(x => x.Category == category).ToArray();
 
     public HexValue this[HexValueCategory category, string hex]
     {
@@ -14,16 +14,16 @@ public class HexCollection
             Func<HexValue, bool> func = x =>
                 x.Category == category && x.Hex == hex;
 
-            if (_values.Any(func))
+            if (_items.Any(func))
             {
-                return _values.First(func);
+                return _items.First(func);
             }
 
             return HexValue.Placeholder();
         }
     }
 
-    public async Task AddFromCSV(string path)
+    public async Task AddFromCSV(string path, Action<string> Log)
     {
         if (!File.Exists(path))
         {
@@ -36,15 +36,26 @@ public class HexCollection
         {
             var line = lines[i];
             var split = line.Split(';');
-            var category = Enum.Parse<HexValueCategory>(split[0]);
 
-            try
+            if (split.Length == 3)
             {
-                HexValue value = new(split[1], category, split[2]);
-                _values.Add(value);
-            }
-            catch
-            {
+                var category = Enum.Parse<HexValueCategory>(split[0]);
+                var hex = split[1];
+                var description = split[2];
+
+                if (!string.IsNullOrWhiteSpace(description) && !string.IsNullOrWhiteSpace(hex) &&
+                    category > HexValueCategory.Placeholder)
+                {
+                    try
+                    {
+                        HexValue value = new(split[1], category, split[2]);
+                        _items.Add(value);
+                    }
+                    catch (Exception ex)
+                    {
+                        Log($"{line} | {ex.Message}");
+                    }
+                }
             }
         }
     }

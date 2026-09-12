@@ -73,6 +73,7 @@ public partial class EquipmentForm : Form
         if (Item is ArmorEquipmentItem armor)
         {
             txtUpgrade.Text = armor.UpgradeLevel.ToString();
+
             return;
         }
         if (Item is CharmEquipmentItem charm)
@@ -97,8 +98,12 @@ public partial class EquipmentForm : Form
         cbValue.DataSource = _items;
 
         txtUpgrade.Enabled = HexData.ArmorCategories.Contains(category);
+
         cbSkill1.Enabled = category == HexValueCategory.Charm;
         cbSkill2.Enabled = category == HexValueCategory.Charm;
+        txtPoints1.Enabled = category == HexValueCategory.Charm;
+        txtPoints2.Enabled = category == HexValueCategory.Charm;
+        txtSlots.Enabled = category == HexValueCategory.Charm;
     }
 
     private static int GetIndex(HexValue[] values, HexValue value) =>

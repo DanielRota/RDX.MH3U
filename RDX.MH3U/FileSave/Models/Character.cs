@@ -9,7 +9,9 @@ public class Character
     }
 
     public string Name { get; set; } = string.Empty;
+
     public CharacterGender Gender { get; set; }
+
     public uint Zenny { get; set; }
     public uint Points { get; set; }
 }

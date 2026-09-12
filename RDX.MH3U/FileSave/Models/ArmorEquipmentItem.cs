@@ -16,7 +16,7 @@ public class ArmorEquipmentItem : EquipmentItemBase
             if (value < 0)
             {
                 throw new ArgumentOutOfRangeException(
-                    $"Armor level can be greater than 0.");
+                    $"Armor level can only be greater than 0.");
             }
 
             _upgradeLevel = value;
@@ -28,5 +28,11 @@ public class ArmorEquipmentItem : EquipmentItemBase
         base.ParseBuffer(category, buffer);
 
         UpgradeLevel = buffer[Constants.UpgradeLevelPosition];
+    }
+
+    public override async Task WriteEquipmentUpgradeLevel(FileStream stream, int offset)
+    {
+        stream.Seek(offset + Constants.UpgradeLevelPosition, SeekOrigin.Begin);
+        stream.WriteByte((byte)UpgradeLevel);
     }
 }
